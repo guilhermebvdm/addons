@@ -1,0 +1,94 @@
+L 12/12/2021 - 00:01:18: SourceMod log file session started (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20211212.log") (Version "1.10.0.6528")
+L 12/12/2021 - 00:01:18: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/12/2021 - 00:04:01: [movecommands.smx] "Dupret<9><STEAM_1:1:85764739><>" was moved to Spec by "cdr<3><STEAM_1:1:81467303><>"
+L 12/12/2021 - 00:08:57: [basecommands.smx] "Guaruzera<18><STEAM_1:1:45437156><>" kicked "quim-<21><STEAM_1:0:212202033><>" (reason "")
+L 12/12/2021 - 00:13:53: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/12/2021 - 00:13:58: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" executed config (file "sourcemod/retakes_off.cfg")
+L 12/12/2021 - 00:14:15: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/12/2021 - 00:15:11: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/12/2021 - 00:15:27: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/12/2021 - 00:15:49: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/12/2021 - 00:21:07: -------- Mapchange to workshop/122443683/aim_map --------
+L 12/12/2021 - 00:21:08: [weapons.smx] Inactive players' data has been deleted
+L 12/12/2021 - 00:21:56: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" changed map to "de_mirage"
+L 12/12/2021 - 00:21:59: [SM] Changed map to "de_mirage"
+L 12/12/2021 - 00:21:59: -------- Mapchange to de_mirage --------
+L 12/12/2021 - 00:22:00: [weapons.smx] Inactive players' data has been deleted
+L 12/12/2021 - 00:30:20: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" console command (cmdline "host_timescale 10")
+L 12/12/2021 - 00:30:21: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" console command (cmdline "host_timescale 10")
+L 12/12/2021 - 00:30:22: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" console command (cmdline "host_timescale 10")
+L 12/12/2021 - 00:31:51: [movecommands.smx] "👑 KING SNAKE 👑<27><STEAM_1:0:529350057><>" was moved to Spec by "cdr<3><STEAM_1:1:81467303><>"
+L 12/12/2021 - 12:41:41: SourceMod log file session started (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20211212.log") (Version "1.10.0.6528")
+L 12/12/2021 - 12:41:41: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 12/12/2021 - 12:51:33: SourceMod log file session started (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20211212.log") (Version "1.10.0.6528")
+L 12/12/2021 - 12:51:33: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 12/12/2021 - 12:55:31: -------- Mapchange to de_ancient --------
+L 12/12/2021 - 12:55:48: [weapons.smx] Inactive players' data has been deleted
+L 12/12/2021 - 12:55:48: [weapons.smx] SQLite DB connection successful
+L 12/12/2021 - 12:55:48: [weapons.smx] Inactive players' data has been deleted
+L 12/12/2021 - 12:56:29: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/12/2021 - 12:58:03: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/12/2021 - 13:03:39: -------- Mapchange to workshop/165982790/aim_p2000 --------
+L 12/12/2021 - 13:03:56: [weapons.smx] Inactive players' data has been deleted
+L 12/12/2021 - 13:09:33: SourceMod log file session started (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20211212.log") (Version "1.10.0.6528")
+L 12/12/2021 - 13:09:33: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 12/12/2021 - 13:09:39: -------- Mapchange to de_ancient --------
+L 12/12/2021 - 13:09:40: [weapons.smx] SQLite DB connection successful
+L 12/12/2021 - 13:09:40: [weapons.smx] Inactive players' data has been deleted
+L 12/12/2021 - 13:18:49: -------- Mapchange to de_ancient --------
+L 12/12/2021 - 13:18:53: [weapons.smx] Inactive players' data has been deleted
+L 12/12/2021 - 13:28:08: SourceMod log file session started (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20211212.log") (Version "1.10.0.6528")
+L 12/12/2021 - 13:28:08: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 12/12/2021 - 13:28:41: SourceMod log file session started (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20211212.log") (Version "1.10.0.6528")
+L 12/12/2021 - 13:28:41: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 12/12/2021 - 13:29:33: -------- Mapchange to de_ancient --------
+L 12/12/2021 - 13:29:34: [weapons.smx] SQLite DB connection successful
+L 12/12/2021 - 13:29:34: [weapons.smx] Inactive players' data has been deleted
+L 12/12/2021 - 13:52:21: -------- Mapchange to de_mirage --------
+L 12/12/2021 - 13:52:22: [weapons.smx] Inactive players' data has been deleted
+L 12/12/2021 - 13:57:11: -------- Mapchange to de_mirage --------
+L 12/12/2021 - 13:57:12: [weapons.smx] Inactive players' data has been deleted
+L 12/12/2021 - 14:10:11: SourceMod log file session started (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20211212.log") (Version "1.10.0.6528")
+L 12/12/2021 - 14:10:11: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 12/12/2021 - 14:10:51: -------- Mapchange to de_ancient --------
+L 12/12/2021 - 14:10:52: [weapons.smx] SQLite DB connection successful
+L 12/12/2021 - 14:10:52: [weapons.smx] Inactive players' data has been deleted
+L 12/12/2021 - 14:10:52: [weapons.smx] SQLite DB connection successful
+L 12/12/2021 - 14:10:52: [weapons.smx] SQLite DB connection successful
+L 12/12/2021 - 14:10:52: [weapons.smx] Inactive players' data has been deleted
+L 12/12/2021 - 14:10:52: [weapons.smx] Inactive players' data has been deleted
+L 12/12/2021 - 14:12:13: SourceMod log file session started (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20211212.log") (Version "1.10.0.6528")
+L 12/12/2021 - 14:12:13: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 12/12/2021 - 14:12:20: -------- Mapchange to de_ancient --------
+L 12/12/2021 - 14:12:21: [weapons.smx] SQLite DB connection successful
+L 12/12/2021 - 14:12:21: [weapons.smx] Inactive players' data has been deleted
+L 12/12/2021 - 14:15:05: [basecommands.smx] "cdr<4><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/12/2021 - 14:30:01: SourceMod log file session started (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20211212.log") (Version "1.10.0.6528")
+L 12/12/2021 - 14:30:01: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 12/12/2021 - 14:30:32: -------- Mapchange to de_ancient --------
+L 12/12/2021 - 14:30:33: [weapons.smx] SQLite DB connection successful
+L 12/12/2021 - 14:30:33: [weapons.smx] Inactive players' data has been deleted
+L 12/12/2021 - 14:30:33: [weapons.smx] SQLite DB connection successful
+L 12/12/2021 - 14:30:33: [weapons.smx] SQLite DB connection successful
+L 12/12/2021 - 14:30:33: [weapons.smx] Inactive players' data has been deleted
+L 12/12/2021 - 14:30:33: [weapons.smx] Inactive players' data has been deleted
+L 12/12/2021 - 14:30:56: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" executed config (file "warmup.cfg")
+L 12/12/2021 - 14:34:25: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "sv_cheats 1")
+L 12/12/2021 - 14:34:47: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "sv_cheats 1")
+L 12/12/2021 - 14:45:25: [movecommands.smx] "✪ mdj<3><STEAM_1:1:16841864><>" was moved to Spec by "cdr<2><STEAM_1:1:81467303><>"
+L 12/12/2021 - 15:05:04: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "sv_cheats 1")
+L 12/12/2021 - 15:05:13: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "mp_freezetime 0")
+L 12/12/2021 - 15:05:17: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/12/2021 - 15:05:52: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "sv_cheats 1")
+L 12/12/2021 - 15:05:53: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "mp_freezetime 0")
+L 12/12/2021 - 15:12:28: [mapchooser.smx] Voting for next map has started.
+L 12/12/2021 - 15:12:48: [mapchooser.smx] Voting for next map has finished. Nextmap: de_dust2.
+L 12/12/2021 - 15:19:43: SourceMod log file session started (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20211212.log") (Version "1.10.0.6528")
+L 12/12/2021 - 15:19:43: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 12/12/2021 - 15:20:01: -------- Mapchange to de_ancient --------
+L 12/12/2021 - 15:20:02: [weapons.smx] SQLite DB connection successful
+L 12/12/2021 - 15:20:02: [weapons.smx] Inactive players' data has been deleted
+L 12/12/2021 - 15:23:49: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "mp_unpause_match")
+L 12/12/2021 - 15:23:50: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "mp_pause_match")
+L 12/12/2021 - 15:24:10: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "sm_pugsetup_teamlocker_enabled 0")
+L 12/12/2021 - 15:24:21: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "sm_pugsetup_teamlocker_enabled 1")

@@ -1,0 +1,20 @@
+/**
+ * List config files here (relative to moddir) to have them added to the exec config menu list
+ * Left side is the filename, right side is the text to be added to the menu
+ */
+Configs
+{
+	"cfg/warmup.cfg"			"Warmup Mode"
+	"cfg/sourcemod/retakes_on.cfg"		"Retake On"
+	"cfg/sourcemod/retakes_off.cfg"		"Retake Off"
+	"cfg/sourcemod/retake_pistol.cfg"	"Retake Pistol"
+	"cfg/sourcemod/retake_guns.cfg"		"Retake Guns"
+	"cfg/sourcemod/trainning_on.cfg"	"Trainning On"
+	"cfg/sourcemod/trainning_off.cfg"	"Trainning Off"
+	"cfg/sourcemod/autoplant_on.cfg"	"Autoplant On"
+	"cfg/sourcemod/autoplant_off.cfg"	"Autoplant Off"
+	"cfg/ff_on.cfg"				"Friendlyfire On"
+	"cfg/ff_off.cfg"			"Friendlyfire Off"
+	"cfg/sourcemod/emote_on.cfg"		"Emote/Dance On"
+	"cfg/sourcemod/emote_on.cfg"		"Emote/Dance Off"	
+}

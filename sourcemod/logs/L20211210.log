@@ -1,0 +1,52 @@
+L 12/10/2021 - 19:33:57: SourceMod log file session started (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20211210.log") (Version "1.10.0.6528")
+L 12/10/2021 - 19:33:57: -------- Mapchange to de_ancient --------
+L 12/10/2021 - 19:33:58: [weapons.smx] Inactive players' data has been deleted
+L 12/10/2021 - 19:33:58: [weapons.smx] SQLite DB connection successful
+L 12/10/2021 - 19:33:58: [weapons.smx] Inactive players' data has been deleted
+L 12/10/2021 - 19:38:59: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" executed config (file "sourcemod/retakes_on.cfg")
+L 12/10/2021 - 19:40:20: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "mp_round_restart_delay 7")
+L 12/10/2021 - 19:40:57: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "mp_round_restart_delay 10")
+L 12/10/2021 - 19:42:13: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/10/2021 - 19:42:27: [movecommands.smx] "cdr<2><STEAM_1:1:81467303><>" was moved to CT by "cdr<2><STEAM_1:1:81467303><>"
+L 12/10/2021 - 19:42:27: [movecommands.smx] "LUKINHAS<3><STEAM_1:0:23957147><>" was moved to T by "cdr<2><STEAM_1:1:81467303><>"
+L 12/10/2021 - 19:42:30: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/10/2021 - 19:42:37: [movecommands.smx] "cdr<2><STEAM_1:1:81467303><>" was moved to CT by "cdr<2><STEAM_1:1:81467303><>"
+L 12/10/2021 - 19:42:37: [movecommands.smx] "LUKINHAS<3><STEAM_1:0:23957147><>" was moved to T by "cdr<2><STEAM_1:1:81467303><>"
+L 12/10/2021 - 19:44:59: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/10/2021 - 19:45:06: [movecommands.smx] "cdr<2><STEAM_1:1:81467303><>" was moved to CT by "cdr<2><STEAM_1:1:81467303><>"
+L 12/10/2021 - 19:45:06: [movecommands.smx] "LUKINHAS<4><STEAM_1:0:23957147><>" was moved to T by "cdr<2><STEAM_1:1:81467303><>"
+L 12/10/2021 - 19:45:07: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/10/2021 - 19:48:11: -------- Mapchange to workshop/2128826190/aim_map --------
+L 12/10/2021 - 19:48:13: [weapons.smx] Inactive players' data has been deleted
+L 12/10/2021 - 19:48:44: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "exec 1x1")
+L 12/10/2021 - 19:48:55: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" executed config (file "sourcemod/retakes_off.cfg")
+L 12/10/2021 - 19:48:57: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "exec 1x1")
+L 12/10/2021 - 20:00:04: -------- Mapchange to workshop/2128826190/aim_map --------
+L 12/10/2021 - 20:00:05: [weapons.smx] Inactive players' data has been deleted
+L 12/10/2021 - 20:14:57: [basecommands.smx] "cdr<8><STEAM_1:1:81467303><>" console command (cmdline "exec 1x1")
+L 12/10/2021 - 20:17:24: [basecommands.smx] "cdr<8><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/10/2021 - 20:22:26: [basecommands.smx] "cdr<8><STEAM_1:1:81467303><>" console command (cmdline "mp_t_default_primary  weapon_usp")
+L 12/10/2021 - 20:22:30: [basecommands.smx] "cdr<8><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/10/2021 - 20:22:51: [basecommands.smx] "cdr<8><STEAM_1:1:81467303><>" console command (cmdline "mp_t_default_primary weapon_usp_silencer")
+L 12/10/2021 - 20:22:55: [basecommands.smx] "cdr<8><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/10/2021 - 20:23:09: [basecommands.smx] "cdr<8><STEAM_1:1:81467303><>" console command (cmdline "`give weapon_usp_silencer")
+L 12/10/2021 - 20:23:13: [basecommands.smx] "cdr<8><STEAM_1:1:81467303><>" console command (cmdline "give weapon_usp_silencer")
+L 12/10/2021 - 20:23:20: [basecommands.smx] "cdr<8><STEAM_1:1:81467303><>" console command (cmdline "give weapon usp_silencer")
+L 12/10/2021 - 20:23:24: [basecommands.smx] "cdr<8><STEAM_1:1:81467303><>" console command (cmdline "give weapon usp_silencer")
+L 12/10/2021 - 20:23:29: [basecommands.smx] "cdr<8><STEAM_1:1:81467303><>" console command (cmdline "give_weapon usp_silencer")
+L 12/10/2021 - 20:23:46: [basecommands.smx] "cdr<8><STEAM_1:1:81467303><>" console command (cmdline "mp_t_default_primary weapon_deagle")
+L 12/10/2021 - 20:23:52: [basecommands.smx] "cdr<8><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/10/2021 - 20:24:19: [basecommands.smx] "cdr<8><STEAM_1:1:81467303><>" console command (cmdline "mp_t_default_secondary weapon_usp_silencier")
+L 12/10/2021 - 20:24:20: [basecommands.smx] "cdr<8><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/10/2021 - 20:24:33: [basecommands.smx] "cdr<8><STEAM_1:1:81467303><>" console command (cmdline "mp_t_default_secondary weapon_deagle")
+L 12/10/2021 - 20:24:34: [basecommands.smx] "cdr<8><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/10/2021 - 20:24:50: [basecommands.smx] "cdr<8><STEAM_1:1:81467303><>" console command (cmdline "mp_t_default_secondary weapon_p250")
+L 12/10/2021 - 20:24:51: [basecommands.smx] "cdr<8><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/10/2021 - 20:24:58: [basecommands.smx] "cdr<8><STEAM_1:1:81467303><>" console command (cmdline "mp_ct_default_secondary weapon_p250")
+L 12/10/2021 - 20:25:00: [basecommands.smx] "cdr<8><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/10/2021 - 20:27:14: [movecommands.smx] "LUKINHAS<12><STEAM_1:0:23957147><>" was moved to T by "cdr<8><STEAM_1:1:81467303><>"
+L 12/10/2021 - 20:27:14: [movecommands.smx] "cdr<8><STEAM_1:1:81467303><>" was moved to CT by "cdr<8><STEAM_1:1:81467303><>"
+L 12/10/2021 - 20:27:15: [basecommands.smx] "cdr<8><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/10/2021 - 20:29:01: [basecommands.smx] "cdr<8><STEAM_1:1:81467303><>" console command (cmdline "mp_t_default_secondary weapon_deagle")
+L 12/10/2021 - 20:29:06: [basecommands.smx] "cdr<8><STEAM_1:1:81467303><>" console command (cmdline "mp_ct_default_secondary weapon_deagle")
+L 12/10/2021 - 20:29:07: [basecommands.smx] "cdr<8><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")

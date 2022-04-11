@@ -1,0 +1,15 @@
+L 03/05/2022 - 15:23:49: SourceMod log file session started (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20220305.log") (Version "1.10.0.6528")
+L 03/05/2022 - 15:23:49: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 03/05/2022 - 15:25:24: SourceMod log file session started (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20220305.log") (Version "1.10.0.6528")
+L 03/05/2022 - 15:25:24: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 03/05/2022 - 15:25:28: -------- Mapchange to de_inferno --------
+L 03/05/2022 - 15:25:29: [weapons.smx] SQLite DB connection successful
+L 03/05/2022 - 15:25:29: [weapons.smx] Inactive players' data has been deleted
+L 03/05/2022 - 15:30:41: [basecommands.smx] "cdr<4><STEAM_1:1:81467303><>" executed config (file "sourcemod/trainning_on.cfg")
+L 03/05/2022 - 15:39:28: [basecommands.smx] "cdr<4><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 03/05/2022 - 15:39:39: [basecommands.smx] "cdr<4><STEAM_1:1:81467303><>" kicked "e o nargas?<7><STEAM_1:0:502214675><>" (reason "")
+L 03/05/2022 - 15:40:27: [basecommands.smx] "cdr<4><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 03/05/2022 - 15:51:02: [basecommands.smx] "cdr<4><STEAM_1:1:81467303><>" console command (cmdline "sv_rethrow_last_grenade")
+L 03/05/2022 - 15:52:27: [basecommands.smx] "cdr<4><STEAM_1:1:81467303><>" console command (cmdline "sv_rethrow_last_grenade")
+L 03/05/2022 - 15:55:56: [basecommands.smx] "cdr<4><STEAM_1:1:81467303><>" console command (cmdline "sv_rethrow_last_grenade")
+L 03/05/2022 - 15:56:21: [basecommands.smx] "cdr<4><STEAM_1:1:81467303><>" console command (cmdline "sv_rethrow_last_grenade")

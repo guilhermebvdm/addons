@@ -1,0 +1,15 @@
+L 01/23/2022 - 00:04:21: SourceMod error session started
+L 01/23/2022 - 00:04:21: Info (map "de_mirage") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20220123.log")
+L 01/23/2022 - 00:04:21: [disabled\retakes.smx] Failed to get any spawn on de_mirage, site=1, team=1
+L 01/23/2022 - 19:45:09: SourceMod error session started
+L 01/23/2022 - 19:45:09: Info (map "de_mirage") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20220123.log")
+L 01/23/2022 - 19:45:09: [pugsetup.smx] GOTV demo could not be recorded since tv_enable is not set to 1
+L 01/23/2022 - 20:42:44: Error log file session closed.
+L 01/23/2022 - 20:45:47: SourceMod error session started
+L 01/23/2022 - 20:45:47: Info (map "de_inferno") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20220123.log")
+L 01/23/2022 - 20:45:47: [pugsetup.smx] GOTV demo could not be recorded since tv_enable is not set to 1
+L 01/23/2022 - 20:47:12: [pugsetup.smx] GOTV demo could not be recorded since tv_enable is not set to 1
+L 01/23/2022 - 21:32:36: Error log file session closed.
+L 01/23/2022 - 21:51:40: SourceMod error session started
+L 01/23/2022 - 21:51:40: Info (map "de_dust2") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20220123.log")
+L 01/23/2022 - 21:51:40: [pugsetup.smx] GOTV demo could not be recorded since tv_enable is not set to 1

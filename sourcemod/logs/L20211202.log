@@ -1,0 +1,32 @@
+L 12/02/2021 - 00:01:23: SourceMod log file session started (file "c:\users\guime\downloads\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20211202.log") (Version "1.10.0.6528")
+L 12/02/2021 - 00:01:23: [playercommands.smx] "cdr<2><STEAM_1:1:81467303><>" slapped "cdr<2><STEAM_1:1:81467303><>" (damage "0")
+L 12/02/2021 - 00:01:25: [playercommands.smx] "cdr<2><STEAM_1:1:81467303><>" slapped "cdr<2><STEAM_1:1:81467303><>" (damage "0")
+L 12/02/2021 - 00:01:26: [playercommands.smx] "cdr<2><STEAM_1:1:81467303><>" slapped "cdr<2><STEAM_1:1:81467303><>" (damage "0")
+L 12/02/2021 - 00:01:26: [playercommands.smx] "cdr<2><STEAM_1:1:81467303><>" slapped "cdr<2><STEAM_1:1:81467303><>" (damage "0")
+L 12/02/2021 - 00:07:26: -------- Mapchange to de_mirage --------
+L 12/02/2021 - 00:08:07: [basevotes.smx] "cdr<12><STEAM_1:1:81467303><>" initiated a map vote.
+L 12/02/2021 - 00:13:34: SourceMod log file session started (file "c:\users\guime\downloads\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20211202.log") (Version "1.10.0.6528")
+L 12/02/2021 - 00:13:34: -------- Mapchange to de_mirage --------
+L 12/02/2021 - 00:14:34: [basevotes.smx] "cdr<2><STEAM_1:1:81467303><>" initiated a map vote.
+L 12/02/2021 - 00:14:38: [basevotes.smx] Changing map to de_ancient due to vote.
+L 12/02/2021 - 00:14:43: [SM] Changed map to "de_ancient"
+L 12/02/2021 - 00:14:46: -------- Mapchange to de_ancient --------
+L 12/02/2021 - 01:09:31: SourceMod log file session started (file "c:\users\guime\downloads\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20211202.log") (Version "1.10.0.6528")
+L 12/02/2021 - 01:09:31: -------- Mapchange to de_mirage --------
+L 12/02/2021 - 01:10:16: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" executed config (file "sourcemod/sm_retakes_on.cfg")
+L 12/02/2021 - 01:10:59: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" executed config (file "sourcemod/sm_retakes_off.cfg")
+L 12/02/2021 - 01:11:17: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" executed config (file "sourcemod/sm_retakes_on.cfg")
+L 12/02/2021 - 01:12:30: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" executed config (file "sourcemod/sm_retakes_off.cfg")
+L 12/02/2021 - 01:12:58: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" executed config (file "server.cfg")
+L 12/02/2021 - 01:26:40: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" executed config (file "server.cfg")
+L 12/02/2021 - 01:27:07: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" executed config (file "sourcemod/sm_retakes_on.cfg")
+L 12/02/2021 - 01:28:17: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/02/2021 - 01:33:14: SourceMod log file session started (file "c:\users\guime\downloads\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20211202.log") (Version "1.10.0.6528")
+L 12/02/2021 - 01:33:14: -------- Mapchange to de_mirage --------
+L 12/02/2021 - 01:33:45: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" executed config (file "sourcemod/sm_retakes_on.cfg")
+L 12/02/2021 - 01:34:03: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" executed config (file "sourcemod/sm_retakes_off.cfg")
+L 12/02/2021 - 01:36:27: SourceMod log file session started (file "c:\users\guime\downloads\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20211202.log") (Version "1.10.0.6528")
+L 12/02/2021 - 01:36:27: -------- Mapchange to de_mirage --------
+L 12/02/2021 - 01:37:12: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" executed config (file "server.cfg")
+L 12/02/2021 - 01:37:20: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" executed config (file "sourcemod/sm_retakes_on.cfg")
+L 12/02/2021 - 01:37:35: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" executed config (file "sourcemod/sm_retakes_off.cfg")

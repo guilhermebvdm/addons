@@ -1,0 +1,53 @@
+L 11/28/2021 - 21:18:31: SourceMod log file session started (file "c:\users\guime\downloads\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20211128.log") (Version "1.10.0.6528")
+L 11/28/2021 - 21:18:31: -------- Mapchange to de_mirage --------
+L 11/28/2021 - 21:20:33: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 11/28/2021 - 21:28:12: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 11/28/2021 - 21:34:43: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "030303")
+L 11/28/2021 - 21:36:40: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 11/28/2021 - 21:40:49: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" executed config (file "server.cfg")
+L 11/28/2021 - 21:41:33: SourceMod log file session started (file "c:\users\guime\downloads\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20211128.log") (Version "1.10.0.6528")
+L 11/28/2021 - 21:41:33: -------- Mapchange to de_mirage --------
+L 11/28/2021 - 21:42:28: [basecommands.smx] "cdr<18><STEAM_1:1:81467303><>" executed config (file "gamemode_competitive.cfg")
+L 11/28/2021 - 21:42:31: [basecommands.smx] "cdr<18><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 11/28/2021 - 21:43:15: [basecommands.smx] "cdr<18><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 11/28/2021 - 21:44:20: [basecommands.smx] "cdr<18><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 11/28/2021 - 21:45:13: [basecommands.smx] "cdr<18><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 11/28/2021 - 21:45:18: [basecommands.smx] "cdr<18><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 11/28/2021 - 21:46:29: [basecommands.smx] "cdr<18><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 11/28/2021 - 21:46:29: [basecommands.smx] "cdr<18><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 11/28/2021 - 21:46:30: [basecommands.smx] "cdr<18><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 11/28/2021 - 21:46:31: [basecommands.smx] "cdr<18><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 11/28/2021 - 21:46:32: [basecommands.smx] "cdr<18><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 11/28/2021 - 21:46:32: [basecommands.smx] "cdr<18><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 11/28/2021 - 21:46:33: [basecommands.smx] "cdr<18><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 11/28/2021 - 21:46:34: [basecommands.smx] "cdr<18><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 11/28/2021 - 21:46:35: [basecommands.smx] "cdr<18><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 11/28/2021 - 21:46:40: [basecommands.smx] "cdr<18><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 11/28/2021 - 21:46:41: [basecommands.smx] "cdr<18><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 11/28/2021 - 21:46:59: [basecommands.smx] "cdr<18><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 11/28/2021 - 21:49:23: [basecommands.smx] "cdr<18><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 11/28/2021 - 21:49:24: [basecommands.smx] "cdr<18><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 11/28/2021 - 21:49:26: [basecommands.smx] "cdr<18><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 11/28/2021 - 22:38:33: [SM] Changed map to "de_dust"
+L 11/28/2021 - 22:38:36: -------- Mapchange to de_dust2 --------
+L 11/28/2021 - 22:45:03: -------- Mapchange to de_dust2 --------
+L 11/28/2021 - 22:51:07: [basecommands.smx] "cdr<40><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 11/28/2021 - 22:51:08: [basecommands.smx] "cdr<40><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 11/28/2021 - 22:51:08: [basecommands.smx] "cdr<40><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 11/28/2021 - 22:51:08: [basecommands.smx] "cdr<40><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 11/28/2021 - 22:51:09: [basecommands.smx] "cdr<40><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 11/28/2021 - 22:51:32: [SM] Changed map to "de_dust"
+L 11/28/2021 - 22:51:34: -------- Mapchange to de_dust2 --------
+L 11/28/2021 - 22:52:31: [basecommands.smx] "cdr<40><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 11/28/2021 - 22:52:50: [basecommands.smx] "cdr<40><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 11/28/2021 - 22:55:57: SourceMod log file session started (file "c:\users\guime\downloads\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20211128.log") (Version "1.10.0.6528")
+L 11/28/2021 - 22:55:57: -------- Mapchange to de_mirage --------
+L 11/28/2021 - 22:59:17: SourceMod log file session started (file "c:\users\guime\downloads\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20211128.log") (Version "1.10.0.6528")
+L 11/28/2021 - 22:59:17: -------- Mapchange to de_mirage --------
+L 11/28/2021 - 23:00:07: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" executed config (file "sourcemod/sm_retakes_on.cfg")
+L 11/28/2021 - 23:00:13: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 11/28/2021 - 23:00:28: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" executed config (file "sourcemod/sm_retakes_off.cfg")
+L 11/28/2021 - 23:00:32: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 11/28/2021 - 23:00:57: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" executed config (file "sourcemod/sm_retakes_on.cfg")
+L 11/28/2021 - 23:01:02: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 11/28/2021 - 23:01:05: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")

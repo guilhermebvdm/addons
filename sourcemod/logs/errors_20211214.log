@@ -1,0 +1,13 @@
+L 12/14/2021 - 23:49:57: SourceMod error session started
+L 12/14/2021 - 23:49:57: Info (map "de_ancient") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211214.log")
+L 12/14/2021 - 23:49:57: [SM] Exception reported: Invalid edict (2173 - -1041758083)
+L 12/14/2021 - 23:49:57: [SM] Blaming: disabled\nadetails.smx
+L 12/14/2021 - 23:49:57: [SM] Call stack trace:
+L 12/14/2021 - 23:49:57: [SM]   [0] GetEdictClassname
+L 12/14/2021 - 23:49:57: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned
+L 12/14/2021 - 23:49:57: [SM] Exception reported: Invalid edict (2174 - -1842214786)
+L 12/14/2021 - 23:49:57: [SM] Blaming: disabled\nadetails.smx
+L 12/14/2021 - 23:49:57: [SM] Call stack trace:
+L 12/14/2021 - 23:49:57: [SM]   [0] GetEdictClassname
+L 12/14/2021 - 23:49:57: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned
+L 12/15/2021 - 00:20:21: Error log file session closed.

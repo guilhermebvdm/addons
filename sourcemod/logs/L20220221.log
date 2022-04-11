@@ -1,0 +1,49 @@
+L 02/21/2022 - 20:10:35: SourceMod log file session started (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20220221.log") (Version "1.10.0.6528")
+L 02/21/2022 - 20:10:35: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 02/21/2022 - 20:27:56: SourceMod log file session started (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20220221.log") (Version "1.10.0.6528")
+L 02/21/2022 - 20:27:56: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 02/21/2022 - 20:40:40: SourceMod log file session started (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20220221.log") (Version "1.10.0.6528")
+L 02/21/2022 - 20:40:40: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 02/21/2022 - 20:40:46: -------- Mapchange to de_inferno --------
+L 02/21/2022 - 20:40:47: [weapons.smx] SQLite DB connection successful
+L 02/21/2022 - 20:40:47: [weapons.smx] Inactive players' data has been deleted
+L 02/21/2022 - 20:40:47: [weapons.smx] SQLite DB connection successful
+L 02/21/2022 - 20:40:47: [weapons.smx] SQLite DB connection successful
+L 02/21/2022 - 20:40:47: [weapons.smx] Inactive players' data has been deleted
+L 02/21/2022 - 20:40:47: [weapons.smx] Inactive players' data has been deleted
+L 02/21/2022 - 20:43:47: [basecommands.smx] "cdr<5><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 02/21/2022 - 20:44:04: [basecommands.smx] "cdr<5><STEAM_1:1:81467303><>" executed config (file "warmup.cfg")
+L 02/21/2022 - 20:44:08: [basecommands.smx] "cdr<5><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 02/21/2022 - 20:44:08: [basecommands.smx] "cdr<5><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 02/21/2022 - 20:44:23: [basecommands.smx] "cdr<5><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 02/21/2022 - 20:44:25: [basecommands.smx] "cdr<5><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 02/21/2022 - 20:44:54: [basebans.smx] "cdr<5><STEAM_1:1:81467303><>" banned "*DG*<12><STEAM_1:1:538625821><>" (minutes "240") (reason "trolou")
+L 02/21/2022 - 20:44:58: [basecommands.smx] "cdr<5><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 02/21/2022 - 20:46:20: [basebans.smx] "ênio computadores<3><STEAM_1:0:82339169><>" banned "Rick<10><STEAM_1:1:641846379><>" (minutes "0") (reason "a")
+L 02/21/2022 - 20:52:52: [basecommands.smx] "cdr<5><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 02/21/2022 - 20:54:15: [basecommands.smx] "cdr<5><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 02/21/2022 - 20:54:15: [basecommands.smx] "cdr<5><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 02/21/2022 - 20:54:17: [basecommands.smx] "cdr<5><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 02/21/2022 - 20:54:18: [basecommands.smx] "cdr<5><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 02/21/2022 - 20:54:18: [basecommands.smx] "cdr<5><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 02/21/2022 - 20:54:19: [basecommands.smx] "cdr<5><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 02/21/2022 - 20:54:20: [basecommands.smx] "cdr<5><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 02/21/2022 - 20:54:20: [basecommands.smx] "cdr<5><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 02/21/2022 - 20:54:21: [basecommands.smx] "cdr<5><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 02/21/2022 - 20:54:22: [basecommands.smx] "cdr<5><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 02/21/2022 - 20:54:23: [basecommands.smx] "cdr<5><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 02/21/2022 - 20:54:25: [basecommands.smx] "cdr<5><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 02/21/2022 - 20:54:29: [basecommands.smx] "cdr<5><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 02/21/2022 - 20:55:15: [basecommands.smx] "cdr<5><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 02/21/2022 - 20:55:15: [basecommands.smx] "cdr<5><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 02/21/2022 - 20:55:15: [basecommands.smx] "cdr<5><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 02/21/2022 - 20:55:19: [basecommands.smx] "cdr<5><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 02/21/2022 - 20:56:36: [basecommands.smx] "cdr<5><STEAM_1:1:81467303><>" console command (cmdline "mp_pause_match")
+L 02/21/2022 - 21:38:25: [basecommands.smx] "ênio computadores<3><STEAM_1:0:82339169><>" changed map to "de"
+L 02/21/2022 - 21:38:29: [SM] Changed map to "de"
+L 02/21/2022 - 21:38:31: -------- Mapchange to de_ancient --------
+L 02/21/2022 - 21:38:32: [weapons.smx] Inactive players' data has been deleted
+L 02/21/2022 - 21:39:19: [basecommands.smx] "ênio computadores<3><STEAM_1:0:82339169><>" changed map to "de_mirage"
+L 02/21/2022 - 21:39:22: [SM] Changed map to "de_mirage"
+L 02/21/2022 - 21:39:23: -------- Mapchange to de_mirage --------
+L 02/21/2022 - 21:39:24: [weapons.smx] Inactive players' data has been deleted

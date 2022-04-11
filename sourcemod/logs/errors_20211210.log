@@ -1,0 +1,18 @@
+L 12/10/2021 - 19:32:34: SourceMod error session started
+L 12/10/2021 - 19:32:34: Info (map "de_ancient") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211210.log")
+L 12/10/2021 - 19:32:34: [SM] Exception reported: Array index out-of-bounds (index -1, limit 66)
+L 12/10/2021 - 19:32:34: [SM] Blaming: weapons.smx
+L 12/10/2021 - 19:32:34: [SM] Call stack trace:
+L 12/10/2021 - 19:32:34: [SM]   [1] Line 69, tmp/addons/sourcemod/scripting/weapons/hooks.sp::ChatListener
+L 12/10/2021 - 19:33:57: Error log file session closed.
+L 12/10/2021 - 19:48:13: SourceMod error session started
+L 12/10/2021 - 19:48:13: Info (map "workshop/2128826190/aim_map") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211210.log")
+L 12/10/2021 - 19:48:13: [disabled\retakes.smx] The retakes config file (addons\sourcemod\configs\retakes\aim_map.cfg) does not exist
+L 12/10/2021 - 19:48:13: [disabled\retakes.smx] This map does not have enough spawns!
+L 12/10/2021 - 19:48:35: [disabled\retakes.smx] This map does not have enough spawns!
+L 12/10/2021 - 19:48:35: [disabled\retakes.smx] Had to resort to fallback spawn on workshop/2128826190/aim_map, site=0
+L 12/10/2021 - 19:48:35: [disabled\retakes.smx] Failed to get any spawn on workshop/2128826190/aim_map, site=0, team=2
+L 12/10/2021 - 19:48:45: [disabled\retakes.smx] This map does not have enough spawns!
+L 12/10/2021 - 19:48:45: [disabled\retakes.smx] Had to resort to fallback spawn on workshop/2128826190/aim_map, site=0
+L 12/10/2021 - 19:48:45: [disabled\retakes.smx] Failed to get any spawn on workshop/2128826190/aim_map, site=0, team=2
+L 12/10/2021 - 20:00:04: Error log file session closed.

@@ -1,0 +1,8 @@
+L 01/24/2022 - 21:36:38: SourceMod error session started
+L 01/24/2022 - 21:36:38: Info (map "de_inferno") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20220124.log")
+L 01/24/2022 - 21:36:38: [SM] Exception reported: Client index 7 is invalid (arg 6)
+L 01/24/2022 - 21:36:38: [SM] Blaming: basebans.smx
+L 01/24/2022 - 21:36:38: [SM] Call stack trace:
+L 01/24/2022 - 21:36:38: [SM]   [0] Format
+L 01/24/2022 - 21:36:38: [SM]   [1] Line 129, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\basebans/ban.sp::DisplayBanReasonMenu
+L 01/24/2022 - 21:36:38: [SM]   [2] Line 268, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\basebans/ban.sp::MenuHandler_BanTimeList

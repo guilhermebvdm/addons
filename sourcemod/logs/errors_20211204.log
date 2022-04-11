@@ -1,0 +1,1054 @@
+L 12/04/2021 - 00:27:56: SourceMod error session started
+L 12/04/2021 - 00:27:56: Info (map "de_mirage") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211204.log")
+L 12/04/2021 - 00:27:56: [admin-sql-prefetch.smx] Could not connect to database "default": [2003]: Can't connect to MySQL server on 'localhost' (10061)
+L 12/04/2021 - 00:28:04: [admin-sql-prefetch.smx] Could not connect to database "default": [2003]: Can't connect to MySQL server on 'localhost' (10061)
+L 12/04/2021 - 00:28:08: [admin-sql-prefetch.smx] Could not connect to database "default": [2003]: Can't connect to MySQL server on 'localhost' (10061)
+L 12/04/2021 - 00:45:41: SourceMod error session started
+L 12/04/2021 - 00:45:41: Info (map "de_mirage") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211204.log")
+L 12/04/2021 - 00:45:41: [admin-sql-threaded.smx] Failed to connect to database: [2003]: Can't connect to MySQL server on 'localhost' (10061)
+L 12/04/2021 - 00:45:41: Error log file session closed.
+L 12/04/2021 - 00:45:45: SourceMod error session started
+L 12/04/2021 - 00:45:45: Info (map "de_mirage") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211204.log")
+L 12/04/2021 - 00:45:45: [admin-sql-threaded.smx] Failed to connect to database: [2003]: Can't connect to MySQL server on 'localhost' (10061)
+L 12/04/2021 - 00:45:48: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:45:48: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:45:48: [SM] Call stack trace:
+L 12/04/2021 - 00:45:48: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:45:48: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:45:48: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:45:49: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:45:49: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:45:49: [SM] Call stack trace:
+L 12/04/2021 - 00:45:49: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:45:49: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:45:49: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:46:05: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:46:05: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:46:05: [SM] Call stack trace:
+L 12/04/2021 - 00:46:05: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:46:05: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:46:05: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:46:05: [SM]   [4] GivePlayerItem
+L 12/04/2021 - 00:46:05: [SM]   [5] Line 356, tmp/addons/sourcemod/scripting/weapons.sp::RefreshWeapon
+L 12/04/2021 - 00:46:05: [SM]   [6] Line 39, tmp/addons/sourcemod/scripting/weapons/menus.sp::WeaponsMenuHandler
+L 12/04/2021 - 00:46:06: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:46:06: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:46:06: [SM] Call stack trace:
+L 12/04/2021 - 00:46:06: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:46:06: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:46:06: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:46:06: [SM]   [4] GivePlayerItem
+L 12/04/2021 - 00:46:06: [SM]   [5] Line 356, tmp/addons/sourcemod/scripting/weapons.sp::RefreshWeapon
+L 12/04/2021 - 00:46:06: [SM]   [6] Line 39, tmp/addons/sourcemod/scripting/weapons/menus.sp::WeaponsMenuHandler
+L 12/04/2021 - 00:46:07: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:46:07: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:46:07: [SM] Call stack trace:
+L 12/04/2021 - 00:46:07: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:46:07: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:46:07: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:46:07: [SM]   [4] GivePlayerItem
+L 12/04/2021 - 00:46:07: [SM]   [5] Line 356, tmp/addons/sourcemod/scripting/weapons.sp::RefreshWeapon
+L 12/04/2021 - 00:46:07: [SM]   [6] Line 39, tmp/addons/sourcemod/scripting/weapons/menus.sp::WeaponsMenuHandler
+L 12/04/2021 - 00:46:33: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:46:33: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:46:33: [SM] Call stack trace:
+L 12/04/2021 - 00:46:33: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:46:33: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:46:33: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:46:33: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:46:33: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:46:33: [SM] Call stack trace:
+L 12/04/2021 - 00:46:33: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:46:33: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:46:33: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:47:16: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:47:16: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:47:16: [SM] Call stack trace:
+L 12/04/2021 - 00:47:16: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:47:16: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:47:16: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:47:16: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:47:16: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:47:16: [SM] Call stack trace:
+L 12/04/2021 - 00:47:16: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:47:16: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:47:16: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:48:15: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:48:15: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:48:15: [SM] Call stack trace:
+L 12/04/2021 - 00:48:15: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:48:15: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:48:15: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:48:15: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:48:15: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:48:15: [SM] Call stack trace:
+L 12/04/2021 - 00:48:15: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:48:15: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:48:15: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:48:15: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:48:15: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:48:15: [SM] Call stack trace:
+L 12/04/2021 - 00:48:15: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:48:15: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:48:15: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:48:15: [SM]   [4] GivePlayerItem
+L 12/04/2021 - 00:48:15: [SM]   [5] Line 157, ././scripting/retakes/spawns.sp::GiveWeapons
+L 12/04/2021 - 00:48:15: [SM]   [6] Line 142, ././scripting/retakes/spawns.sp::SetupPlayer
+L 12/04/2021 - 00:48:15: [SM]   [7] Line 496, ././scripting/retakes.sp::Event_PlayerSpawn
+L 12/04/2021 - 00:48:15: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:48:15: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:48:15: [SM] Call stack trace:
+L 12/04/2021 - 00:48:15: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:48:15: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:48:15: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:48:15: [SM]   [4] GivePlayerItem
+L 12/04/2021 - 00:48:15: [SM]   [5] Line 162, ././scripting/retakes/spawns.sp::GiveWeapons
+L 12/04/2021 - 00:48:15: [SM]   [6] Line 142, ././scripting/retakes/spawns.sp::SetupPlayer
+L 12/04/2021 - 00:48:15: [SM]   [7] Line 496, ././scripting/retakes.sp::Event_PlayerSpawn
+L 12/04/2021 - 00:49:05: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:49:05: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:49:05: [SM] Call stack trace:
+L 12/04/2021 - 00:49:05: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:49:05: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:49:05: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:49:05: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:49:05: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:49:05: [SM] Call stack trace:
+L 12/04/2021 - 00:49:05: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:49:05: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:49:05: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:49:05: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:49:05: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:49:05: [SM] Call stack trace:
+L 12/04/2021 - 00:49:05: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:49:05: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:49:05: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:49:05: [SM]   [4] GivePlayerItem
+L 12/04/2021 - 00:49:05: [SM]   [5] Line 157, ././scripting/retakes/spawns.sp::GiveWeapons
+L 12/04/2021 - 00:49:05: [SM]   [6] Line 142, ././scripting/retakes/spawns.sp::SetupPlayer
+L 12/04/2021 - 00:49:05: [SM]   [7] Line 496, ././scripting/retakes.sp::Event_PlayerSpawn
+L 12/04/2021 - 00:49:21: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:49:21: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:49:21: [SM] Call stack trace:
+L 12/04/2021 - 00:49:21: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:49:21: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:49:21: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:49:21: [SM]   [4] GivePlayerItem
+L 12/04/2021 - 00:49:21: [SM]   [5] Line 336, tmp/addons/sourcemod/scripting/weapons.sp::RefreshWeapon
+L 12/04/2021 - 00:49:21: [SM]   [6] Line 39, tmp/addons/sourcemod/scripting/weapons/menus.sp::WeaponsMenuHandler
+L 12/04/2021 - 00:49:21: [SM] Exception reported: Invalid data pack handle 726563 (error 4).
+L 12/04/2021 - 00:49:21: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:49:21: [SM] Call stack trace:
+L 12/04/2021 - 00:49:21: [SM]   [0] DataPack.WriteCell
+L 12/04/2021 - 00:49:21: [SM]   [1] Line 349, tmp/addons/sourcemod/scripting/weapons.sp::RefreshWeapon
+L 12/04/2021 - 00:49:21: [SM]   [2] Line 39, tmp/addons/sourcemod/scripting/weapons/menus.sp::WeaponsMenuHandler
+L 12/04/2021 - 00:49:22: [SM] Exception reported: Data pack operation is out of bounds.
+L 12/04/2021 - 00:49:22: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:49:22: [SM] Call stack trace:
+L 12/04/2021 - 00:49:22: [SM]   [0] DataPack.ReadCell
+L 12/04/2021 - 00:49:22: [SM]   [1] Line 367, tmp/addons/sourcemod/scripting/weapons.sp::ReserveAmmoTimer
+L 12/04/2021 - 00:49:55: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:49:55: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:49:55: [SM] Call stack trace:
+L 12/04/2021 - 00:49:55: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:49:55: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:49:55: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:49:55: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:49:55: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:49:55: [SM] Call stack trace:
+L 12/04/2021 - 00:49:55: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:49:55: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:49:55: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:49:55: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:49:55: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:49:55: [SM] Call stack trace:
+L 12/04/2021 - 00:49:55: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:49:55: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:49:55: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:49:55: [SM]   [4] GivePlayerItem
+L 12/04/2021 - 00:49:55: [SM]   [5] Line 157, ././scripting/retakes/spawns.sp::GiveWeapons
+L 12/04/2021 - 00:49:55: [SM]   [6] Line 142, ././scripting/retakes/spawns.sp::SetupPlayer
+L 12/04/2021 - 00:49:55: [SM]   [7] Line 496, ././scripting/retakes.sp::Event_PlayerSpawn
+L 12/04/2021 - 00:49:55: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:49:55: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:49:55: [SM] Call stack trace:
+L 12/04/2021 - 00:49:55: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:49:55: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:49:55: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:49:55: [SM]   [4] GivePlayerItem
+L 12/04/2021 - 00:49:55: [SM]   [5] Line 162, ././scripting/retakes/spawns.sp::GiveWeapons
+L 12/04/2021 - 00:49:55: [SM]   [6] Line 142, ././scripting/retakes/spawns.sp::SetupPlayer
+L 12/04/2021 - 00:49:55: [SM]   [7] Line 496, ././scripting/retakes.sp::Event_PlayerSpawn
+L 12/04/2021 - 00:50:43: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:50:43: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:50:43: [SM] Call stack trace:
+L 12/04/2021 - 00:50:43: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:50:43: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:50:43: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:50:43: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:50:43: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:50:43: [SM] Call stack trace:
+L 12/04/2021 - 00:50:43: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:50:43: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:50:43: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:50:43: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:50:43: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:50:43: [SM] Call stack trace:
+L 12/04/2021 - 00:50:43: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:50:43: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:50:43: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:50:43: [SM]   [4] GivePlayerItem
+L 12/04/2021 - 00:50:43: [SM]   [5] Line 157, ././scripting/retakes/spawns.sp::GiveWeapons
+L 12/04/2021 - 00:50:43: [SM]   [6] Line 142, ././scripting/retakes/spawns.sp::SetupPlayer
+L 12/04/2021 - 00:50:43: [SM]   [7] Line 496, ././scripting/retakes.sp::Event_PlayerSpawn
+L 12/04/2021 - 00:50:43: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:50:43: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:50:43: [SM] Call stack trace:
+L 12/04/2021 - 00:50:43: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:50:43: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:50:43: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:50:43: [SM]   [4] GivePlayerItem
+L 12/04/2021 - 00:50:43: [SM]   [5] Line 162, ././scripting/retakes/spawns.sp::GiveWeapons
+L 12/04/2021 - 00:50:43: [SM]   [6] Line 142, ././scripting/retakes/spawns.sp::SetupPlayer
+L 12/04/2021 - 00:50:43: [SM]   [7] Line 496, ././scripting/retakes.sp::Event_PlayerSpawn
+L 12/04/2021 - 00:51:31: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:51:31: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:51:31: [SM] Call stack trace:
+L 12/04/2021 - 00:51:31: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:51:31: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:51:31: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:51:31: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:51:31: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:51:31: [SM] Call stack trace:
+L 12/04/2021 - 00:51:31: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:51:31: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:51:31: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:51:31: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:51:31: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:51:32: [SM] Call stack trace:
+L 12/04/2021 - 00:51:32: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:51:32: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:51:32: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:51:32: [SM]   [4] GivePlayerItem
+L 12/04/2021 - 00:51:32: [SM]   [5] Line 157, ././scripting/retakes/spawns.sp::GiveWeapons
+L 12/04/2021 - 00:51:32: [SM]   [6] Line 142, ././scripting/retakes/spawns.sp::SetupPlayer
+L 12/04/2021 - 00:51:32: [SM]   [7] Line 496, ././scripting/retakes.sp::Event_PlayerSpawn
+L 12/04/2021 - 00:51:32: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:51:32: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:51:32: [SM] Call stack trace:
+L 12/04/2021 - 00:51:32: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:51:32: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:51:32: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:51:32: [SM]   [4] GivePlayerItem
+L 12/04/2021 - 00:51:32: [SM]   [5] Line 162, ././scripting/retakes/spawns.sp::GiveWeapons
+L 12/04/2021 - 00:51:32: [SM]   [6] Line 142, ././scripting/retakes/spawns.sp::SetupPlayer
+L 12/04/2021 - 00:51:32: [SM]   [7] Line 496, ././scripting/retakes.sp::Event_PlayerSpawn
+L 12/04/2021 - 00:51:50: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:51:50: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:51:50: [SM] Call stack trace:
+L 12/04/2021 - 00:51:50: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:51:50: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:51:50: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:51:50: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:51:50: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:51:50: [SM] Call stack trace:
+L 12/04/2021 - 00:51:50: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:51:50: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:51:50: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:51:50: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:51:50: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:51:50: [SM] Call stack trace:
+L 12/04/2021 - 00:51:50: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:51:50: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:51:50: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:51:50: [SM]   [4] GivePlayerItem
+L 12/04/2021 - 00:51:50: [SM]   [5] Line 157, ././scripting/retakes/spawns.sp::GiveWeapons
+L 12/04/2021 - 00:51:50: [SM]   [6] Line 142, ././scripting/retakes/spawns.sp::SetupPlayer
+L 12/04/2021 - 00:51:50: [SM]   [7] Line 496, ././scripting/retakes.sp::Event_PlayerSpawn
+L 12/04/2021 - 00:51:50: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:51:50: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:51:50: [SM] Call stack trace:
+L 12/04/2021 - 00:51:50: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:51:50: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:51:50: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:51:50: [SM]   [4] GivePlayerItem
+L 12/04/2021 - 00:51:50: [SM]   [5] Line 162, ././scripting/retakes/spawns.sp::GiveWeapons
+L 12/04/2021 - 00:51:50: [SM]   [6] Line 142, ././scripting/retakes/spawns.sp::SetupPlayer
+L 12/04/2021 - 00:51:50: [SM]   [7] Line 496, ././scripting/retakes.sp::Event_PlayerSpawn
+L 12/04/2021 - 00:52:08: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:52:08: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:52:08: [SM] Call stack trace:
+L 12/04/2021 - 00:52:08: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:52:08: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:52:08: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:52:08: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:52:08: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:52:08: [SM] Call stack trace:
+L 12/04/2021 - 00:52:08: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:52:08: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:52:08: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:52:08: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:52:08: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:52:08: [SM] Call stack trace:
+L 12/04/2021 - 00:52:08: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:52:08: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:52:08: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:52:08: [SM]   [4] GivePlayerItem
+L 12/04/2021 - 00:52:08: [SM]   [5] Line 157, ././scripting/retakes/spawns.sp::GiveWeapons
+L 12/04/2021 - 00:52:08: [SM]   [6] Line 142, ././scripting/retakes/spawns.sp::SetupPlayer
+L 12/04/2021 - 00:52:08: [SM]   [7] Line 496, ././scripting/retakes.sp::Event_PlayerSpawn
+L 12/04/2021 - 00:52:08: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:52:08: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:52:08: [SM] Call stack trace:
+L 12/04/2021 - 00:52:08: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:52:08: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:52:08: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:52:08: [SM]   [4] GivePlayerItem
+L 12/04/2021 - 00:52:08: [SM]   [5] Line 162, ././scripting/retakes/spawns.sp::GiveWeapons
+L 12/04/2021 - 00:52:08: [SM]   [6] Line 142, ././scripting/retakes/spawns.sp::SetupPlayer
+L 12/04/2021 - 00:52:08: [SM]   [7] Line 496, ././scripting/retakes.sp::Event_PlayerSpawn
+L 12/04/2021 - 00:52:32: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:52:32: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:52:32: [SM] Call stack trace:
+L 12/04/2021 - 00:52:32: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:52:33: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:52:33: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:52:33: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:52:33: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:52:33: [SM] Call stack trace:
+L 12/04/2021 - 00:52:33: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:52:33: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:52:33: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:52:33: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:52:33: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:52:33: [SM] Call stack trace:
+L 12/04/2021 - 00:52:33: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:52:33: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:52:33: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:52:33: [SM]   [4] GivePlayerItem
+L 12/04/2021 - 00:52:33: [SM]   [5] Line 157, ././scripting/retakes/spawns.sp::GiveWeapons
+L 12/04/2021 - 00:52:33: [SM]   [6] Line 142, ././scripting/retakes/spawns.sp::SetupPlayer
+L 12/04/2021 - 00:52:33: [SM]   [7] Line 496, ././scripting/retakes.sp::Event_PlayerSpawn
+L 12/04/2021 - 00:52:51: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:52:51: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:52:51: [SM] Call stack trace:
+L 12/04/2021 - 00:52:51: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:52:51: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:52:51: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:52:51: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:52:51: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:52:51: [SM] Call stack trace:
+L 12/04/2021 - 00:52:51: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:52:51: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:52:51: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:52:51: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:52:51: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:52:51: [SM] Call stack trace:
+L 12/04/2021 - 00:52:51: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:52:51: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:52:51: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:52:51: [SM]   [4] GivePlayerItem
+L 12/04/2021 - 00:52:51: [SM]   [5] Line 157, ././scripting/retakes/spawns.sp::GiveWeapons
+L 12/04/2021 - 00:52:51: [SM]   [6] Line 142, ././scripting/retakes/spawns.sp::SetupPlayer
+L 12/04/2021 - 00:52:51: [SM]   [7] Line 496, ././scripting/retakes.sp::Event_PlayerSpawn
+L 12/04/2021 - 00:53:09: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:53:09: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:53:09: [SM] Call stack trace:
+L 12/04/2021 - 00:53:09: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:53:09: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:53:09: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:53:09: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:53:09: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:53:09: [SM] Call stack trace:
+L 12/04/2021 - 00:53:09: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:53:09: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:53:09: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:53:09: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:53:09: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:53:09: [SM] Call stack trace:
+L 12/04/2021 - 00:53:09: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:53:09: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:53:09: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:53:09: [SM]   [4] GivePlayerItem
+L 12/04/2021 - 00:53:09: [SM]   [5] Line 157, ././scripting/retakes/spawns.sp::GiveWeapons
+L 12/04/2021 - 00:53:09: [SM]   [6] Line 142, ././scripting/retakes/spawns.sp::SetupPlayer
+L 12/04/2021 - 00:53:09: [SM]   [7] Line 496, ././scripting/retakes.sp::Event_PlayerSpawn
+L 12/04/2021 - 00:53:34: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:53:34: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:53:34: [SM] Call stack trace:
+L 12/04/2021 - 00:53:34: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:53:34: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:53:34: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:53:34: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:53:34: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:53:34: [SM] Call stack trace:
+L 12/04/2021 - 00:53:34: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:53:34: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:53:34: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:53:34: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:53:34: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:53:34: [SM] Call stack trace:
+L 12/04/2021 - 00:53:34: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:53:34: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:53:34: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:53:34: [SM]   [4] GivePlayerItem
+L 12/04/2021 - 00:53:34: [SM]   [5] Line 157, ././scripting/retakes/spawns.sp::GiveWeapons
+L 12/04/2021 - 00:53:34: [SM]   [6] Line 142, ././scripting/retakes/spawns.sp::SetupPlayer
+L 12/04/2021 - 00:53:34: [SM]   [7] Line 496, ././scripting/retakes.sp::Event_PlayerSpawn
+L 12/04/2021 - 00:53:52: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:53:52: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:53:52: [SM] Call stack trace:
+L 12/04/2021 - 00:53:52: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:53:52: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:53:52: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:53:52: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:53:52: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:53:52: [SM] Call stack trace:
+L 12/04/2021 - 00:53:52: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:53:52: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:53:52: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:53:52: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:53:52: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:53:52: [SM] Call stack trace:
+L 12/04/2021 - 00:53:52: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:53:52: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:53:52: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:53:52: [SM]   [4] GivePlayerItem
+L 12/04/2021 - 00:53:52: [SM]   [5] Line 157, ././scripting/retakes/spawns.sp::GiveWeapons
+L 12/04/2021 - 00:53:52: [SM]   [6] Line 142, ././scripting/retakes/spawns.sp::SetupPlayer
+L 12/04/2021 - 00:53:52: [SM]   [7] Line 496, ././scripting/retakes.sp::Event_PlayerSpawn
+L 12/04/2021 - 00:54:13: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:54:13: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:54:13: [SM] Call stack trace:
+L 12/04/2021 - 00:54:13: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:54:13: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:54:13: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:54:13: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:54:13: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:54:13: [SM] Call stack trace:
+L 12/04/2021 - 00:54:13: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:54:13: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:54:13: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:54:13: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:54:13: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:54:13: [SM] Call stack trace:
+L 12/04/2021 - 00:54:13: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:54:13: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:54:13: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:54:13: [SM]   [4] GivePlayerItem
+L 12/04/2021 - 00:54:13: [SM]   [5] Line 157, ././scripting/retakes/spawns.sp::GiveWeapons
+L 12/04/2021 - 00:54:13: [SM]   [6] Line 142, ././scripting/retakes/spawns.sp::SetupPlayer
+L 12/04/2021 - 00:54:13: [SM]   [7] Line 496, ././scripting/retakes.sp::Event_PlayerSpawn
+L 12/04/2021 - 00:54:33: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:54:33: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:54:33: [SM] Call stack trace:
+L 12/04/2021 - 00:54:33: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:54:33: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:54:33: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:54:33: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:54:33: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:54:33: [SM] Call stack trace:
+L 12/04/2021 - 00:54:33: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:54:33: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:54:33: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:54:33: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:54:33: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:54:33: [SM] Call stack trace:
+L 12/04/2021 - 00:54:33: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:54:33: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:54:33: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:54:33: [SM]   [4] GivePlayerItem
+L 12/04/2021 - 00:54:33: [SM]   [5] Line 157, ././scripting/retakes/spawns.sp::GiveWeapons
+L 12/04/2021 - 00:54:33: [SM]   [6] Line 142, ././scripting/retakes/spawns.sp::SetupPlayer
+L 12/04/2021 - 00:54:33: [SM]   [7] Line 496, ././scripting/retakes.sp::Event_PlayerSpawn
+L 12/04/2021 - 00:54:51: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:54:51: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:54:51: [SM] Call stack trace:
+L 12/04/2021 - 00:54:51: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:54:51: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:54:51: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:54:51: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:54:51: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:54:51: [SM] Call stack trace:
+L 12/04/2021 - 00:54:51: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:54:51: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:54:51: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:54:51: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:54:51: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:54:51: [SM] Call stack trace:
+L 12/04/2021 - 00:54:51: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:54:51: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:54:51: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:54:51: [SM]   [4] GivePlayerItem
+L 12/04/2021 - 00:54:51: [SM]   [5] Line 157, ././scripting/retakes/spawns.sp::GiveWeapons
+L 12/04/2021 - 00:54:51: [SM]   [6] Line 142, ././scripting/retakes/spawns.sp::SetupPlayer
+L 12/04/2021 - 00:54:51: [SM]   [7] Line 496, ././scripting/retakes.sp::Event_PlayerSpawn
+L 12/04/2021 - 00:55:17: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:55:17: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:55:17: [SM] Call stack trace:
+L 12/04/2021 - 00:55:17: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:55:17: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:55:17: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:55:17: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:55:17: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:55:17: [SM] Call stack trace:
+L 12/04/2021 - 00:55:17: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:55:17: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:55:17: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:55:17: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:55:17: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:55:17: [SM] Call stack trace:
+L 12/04/2021 - 00:55:17: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:55:17: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:55:17: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:55:17: [SM]   [4] GivePlayerItem
+L 12/04/2021 - 00:55:17: [SM]   [5] Line 157, ././scripting/retakes/spawns.sp::GiveWeapons
+L 12/04/2021 - 00:55:17: [SM]   [6] Line 142, ././scripting/retakes/spawns.sp::SetupPlayer
+L 12/04/2021 - 00:55:17: [SM]   [7] Line 496, ././scripting/retakes.sp::Event_PlayerSpawn
+L 12/04/2021 - 00:55:35: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:55:35: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:55:35: [SM] Call stack trace:
+L 12/04/2021 - 00:55:35: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:55:35: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:55:35: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:55:35: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:55:35: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:55:35: [SM] Call stack trace:
+L 12/04/2021 - 00:55:35: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:55:35: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:55:35: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:55:35: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:55:35: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:55:35: [SM] Call stack trace:
+L 12/04/2021 - 00:55:35: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:55:35: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:55:35: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:55:35: [SM]   [4] GivePlayerItem
+L 12/04/2021 - 00:55:35: [SM]   [5] Line 159, ././scripting/retakes/spawns.sp::GiveWeapons
+L 12/04/2021 - 00:55:35: [SM]   [6] Line 142, ././scripting/retakes/spawns.sp::SetupPlayer
+L 12/04/2021 - 00:55:35: [SM]   [7] Line 496, ././scripting/retakes.sp::Event_PlayerSpawn
+L 12/04/2021 - 00:55:51: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:55:51: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:55:51: [SM] Call stack trace:
+L 12/04/2021 - 00:55:51: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:55:51: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:55:51: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:55:51: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:55:51: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:55:51: [SM] Call stack trace:
+L 12/04/2021 - 00:55:51: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:55:51: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:55:51: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:55:51: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:55:51: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:55:51: [SM] Call stack trace:
+L 12/04/2021 - 00:55:51: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:55:51: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:55:51: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:55:51: [SM]   [4] GivePlayerItem
+L 12/04/2021 - 00:55:51: [SM]   [5] Line 157, ././scripting/retakes/spawns.sp::GiveWeapons
+L 12/04/2021 - 00:55:51: [SM]   [6] Line 142, ././scripting/retakes/spawns.sp::SetupPlayer
+L 12/04/2021 - 00:55:51: [SM]   [7] Line 496, ././scripting/retakes.sp::Event_PlayerSpawn
+L 12/04/2021 - 00:56:06: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:56:06: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:56:06: [SM] Call stack trace:
+L 12/04/2021 - 00:56:06: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:56:06: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:56:06: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:56:06: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:56:06: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:56:06: [SM] Call stack trace:
+L 12/04/2021 - 00:56:06: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:56:06: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:56:06: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:56:06: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:56:06: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:56:06: [SM] Call stack trace:
+L 12/04/2021 - 00:56:06: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:56:06: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:56:06: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:56:06: [SM]   [4] GivePlayerItem
+L 12/04/2021 - 00:56:06: [SM]   [5] Line 157, ././scripting/retakes/spawns.sp::GiveWeapons
+L 12/04/2021 - 00:56:06: [SM]   [6] Line 142, ././scripting/retakes/spawns.sp::SetupPlayer
+L 12/04/2021 - 00:56:06: [SM]   [7] Line 496, ././scripting/retakes.sp::Event_PlayerSpawn
+L 12/04/2021 - 00:56:23: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:56:23: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:56:23: [SM] Call stack trace:
+L 12/04/2021 - 00:56:23: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:56:23: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:56:23: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:56:23: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:56:23: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:56:23: [SM] Call stack trace:
+L 12/04/2021 - 00:56:23: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:56:23: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:56:23: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:56:23: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:56:23: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:56:23: [SM] Call stack trace:
+L 12/04/2021 - 00:56:23: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:56:23: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:56:23: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:56:23: [SM]   [4] GivePlayerItem
+L 12/04/2021 - 00:56:23: [SM]   [5] Line 157, ././scripting/retakes/spawns.sp::GiveWeapons
+L 12/04/2021 - 00:56:23: [SM]   [6] Line 142, ././scripting/retakes/spawns.sp::SetupPlayer
+L 12/04/2021 - 00:56:23: [SM]   [7] Line 496, ././scripting/retakes.sp::Event_PlayerSpawn
+L 12/04/2021 - 00:56:41: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:56:41: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:56:41: [SM] Call stack trace:
+L 12/04/2021 - 00:56:41: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:56:41: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:56:41: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:56:41: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:56:41: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:56:41: [SM] Call stack trace:
+L 12/04/2021 - 00:56:41: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:56:41: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:56:41: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:56:41: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:56:41: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:56:41: [SM] Call stack trace:
+L 12/04/2021 - 00:56:41: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:56:41: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:56:41: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:56:41: [SM]   [4] GivePlayerItem
+L 12/04/2021 - 00:56:41: [SM]   [5] Line 157, ././scripting/retakes/spawns.sp::GiveWeapons
+L 12/04/2021 - 00:56:41: [SM]   [6] Line 142, ././scripting/retakes/spawns.sp::SetupPlayer
+L 12/04/2021 - 00:56:41: [SM]   [7] Line 496, ././scripting/retakes.sp::Event_PlayerSpawn
+L 12/04/2021 - 00:56:49: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:56:49: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:56:49: [SM] Call stack trace:
+L 12/04/2021 - 00:56:49: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:56:49: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:56:49: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:56:49: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:56:49: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:56:49: [SM] Call stack trace:
+L 12/04/2021 - 00:56:49: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:56:49: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:56:49: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:57:14: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:57:14: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:57:14: [SM] Call stack trace:
+L 12/04/2021 - 00:57:14: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:57:14: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:57:14: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:57:14: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:57:14: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:57:14: [SM] Call stack trace:
+L 12/04/2021 - 00:57:14: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:57:14: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:57:14: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:58:19: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:58:19: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:58:19: [SM] Call stack trace:
+L 12/04/2021 - 00:58:19: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:58:19: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:58:19: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:58:19: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:58:19: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:58:19: [SM] Call stack trace:
+L 12/04/2021 - 00:58:19: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:58:19: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:58:19: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:58:19: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:58:19: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:58:19: [SM] Call stack trace:
+L 12/04/2021 - 00:58:19: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:58:19: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:58:19: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:58:19: [SM]   [4] GivePlayerItem
+L 12/04/2021 - 00:58:19: [SM]   [5] Line 157, ././scripting/retakes/spawns.sp::GiveWeapons
+L 12/04/2021 - 00:58:19: [SM]   [6] Line 142, ././scripting/retakes/spawns.sp::SetupPlayer
+L 12/04/2021 - 00:58:19: [SM]   [7] Line 496, ././scripting/retakes.sp::Event_PlayerSpawn
+L 12/04/2021 - 00:59:01: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:59:01: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:59:01: [SM] Call stack trace:
+L 12/04/2021 - 00:59:01: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:59:01: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:59:01: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:59:01: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:59:01: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:59:01: [SM] Call stack trace:
+L 12/04/2021 - 00:59:01: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:59:01: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:59:01: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:59:01: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:59:01: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:59:01: [SM] Call stack trace:
+L 12/04/2021 - 00:59:01: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:59:01: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:59:01: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:59:01: [SM]   [4] GivePlayerItem
+L 12/04/2021 - 00:59:01: [SM]   [5] Line 159, ././scripting/retakes/spawns.sp::GiveWeapons
+L 12/04/2021 - 00:59:01: [SM]   [6] Line 142, ././scripting/retakes/spawns.sp::SetupPlayer
+L 12/04/2021 - 00:59:01: [SM]   [7] Line 496, ././scripting/retakes.sp::Event_PlayerSpawn
+L 12/04/2021 - 00:59:32: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:59:32: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:59:32: [SM] Call stack trace:
+L 12/04/2021 - 00:59:32: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:59:32: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:59:32: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:59:32: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:59:32: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:59:32: [SM] Call stack trace:
+L 12/04/2021 - 00:59:32: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:59:32: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:59:32: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:59:32: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 00:59:32: [SM] Blaming: weapons.smx
+L 12/04/2021 - 00:59:32: [SM] Call stack trace:
+L 12/04/2021 - 00:59:32: [SM]   [0] SetEntProp
+L 12/04/2021 - 00:59:32: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 00:59:32: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 00:59:32: [SM]   [4] GivePlayerItem
+L 12/04/2021 - 00:59:32: [SM]   [5] Line 157, ././scripting/retakes/spawns.sp::GiveWeapons
+L 12/04/2021 - 00:59:32: [SM]   [6] Line 142, ././scripting/retakes/spawns.sp::SetupPlayer
+L 12/04/2021 - 00:59:32: [SM]   [7] Line 496, ././scripting/retakes.sp::Event_PlayerSpawn
+L 12/04/2021 - 01:00:10: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 01:00:10: [SM] Blaming: weapons.smx
+L 12/04/2021 - 01:00:10: [SM] Call stack trace:
+L 12/04/2021 - 01:00:10: [SM]   [0] SetEntProp
+L 12/04/2021 - 01:00:10: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 01:00:10: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 01:00:10: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 01:00:10: [SM] Blaming: weapons.smx
+L 12/04/2021 - 01:00:10: [SM] Call stack trace:
+L 12/04/2021 - 01:00:10: [SM]   [0] SetEntProp
+L 12/04/2021 - 01:00:10: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 01:00:10: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 01:00:10: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 01:00:10: [SM] Blaming: weapons.smx
+L 12/04/2021 - 01:00:10: [SM] Call stack trace:
+L 12/04/2021 - 01:00:10: [SM]   [0] SetEntProp
+L 12/04/2021 - 01:00:10: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 01:00:10: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 01:00:10: [SM]   [4] GivePlayerItem
+L 12/04/2021 - 01:00:10: [SM]   [5] Line 159, ././scripting/retakes/spawns.sp::GiveWeapons
+L 12/04/2021 - 01:00:10: [SM]   [6] Line 142, ././scripting/retakes/spawns.sp::SetupPlayer
+L 12/04/2021 - 01:00:10: [SM]   [7] Line 496, ././scripting/retakes.sp::Event_PlayerSpawn
+L 12/04/2021 - 01:01:53: SourceMod error session started
+L 12/04/2021 - 01:01:53: Info (map "de_mirage") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211204.log")
+L 12/04/2021 - 01:01:53: [admin-sql-threaded.smx] Failed to connect to database: [2003]: Can't connect to MySQL server on 'localhost' (10061)
+L 12/04/2021 - 01:02:13: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 01:02:13: [SM] Blaming: weapons.smx
+L 12/04/2021 - 01:02:13: [SM] Call stack trace:
+L 12/04/2021 - 01:02:13: [SM]   [0] SetEntProp
+L 12/04/2021 - 01:02:13: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 01:02:13: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 01:02:13: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 01:02:13: [SM] Blaming: weapons.smx
+L 12/04/2021 - 01:02:13: [SM] Call stack trace:
+L 12/04/2021 - 01:02:13: [SM]   [0] SetEntProp
+L 12/04/2021 - 01:02:13: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 01:02:13: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 01:02:14: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 01:02:14: [SM] Blaming: weapons.smx
+L 12/04/2021 - 01:02:14: [SM] Call stack trace:
+L 12/04/2021 - 01:02:14: [SM]   [0] SetEntProp
+L 12/04/2021 - 01:02:14: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 01:02:14: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 01:02:14: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 01:02:14: [SM] Blaming: weapons.smx
+L 12/04/2021 - 01:02:14: [SM] Call stack trace:
+L 12/04/2021 - 01:02:14: [SM]   [0] SetEntProp
+L 12/04/2021 - 01:02:14: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 01:02:14: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 01:03:13: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 01:03:13: [SM] Blaming: weapons.smx
+L 12/04/2021 - 01:03:13: [SM] Call stack trace:
+L 12/04/2021 - 01:03:13: [SM]   [0] SetEntProp
+L 12/04/2021 - 01:03:13: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 01:03:13: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 01:03:13: [SM]   [4] GivePlayerItem
+L 12/04/2021 - 01:03:13: [SM]   [5] Line 356, tmp/addons/sourcemod/scripting/weapons.sp::RefreshWeapon
+L 12/04/2021 - 01:03:13: [SM]   [6] Line 39, tmp/addons/sourcemod/scripting/weapons/menus.sp::WeaponsMenuHandler
+L 12/04/2021 - 01:03:27: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 01:03:27: [SM] Blaming: weapons.smx
+L 12/04/2021 - 01:03:27: [SM] Call stack trace:
+L 12/04/2021 - 01:03:27: [SM]   [0] SetEntProp
+L 12/04/2021 - 01:03:27: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 01:03:27: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 01:03:27: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 01:03:27: [SM] Blaming: weapons.smx
+L 12/04/2021 - 01:03:27: [SM] Call stack trace:
+L 12/04/2021 - 01:03:27: [SM]   [0] SetEntProp
+L 12/04/2021 - 01:03:27: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 01:03:27: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 01:03:28: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 12/04/2021 - 01:03:28: [SM] Blaming: weapons.smx
+L 12/04/2021 - 01:03:28: [SM] Call stack trace:
+L 12/04/2021 - 01:03:28: [SM]   [0] SetEntProp
+L 12/04/2021 - 01:03:28: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 12/04/2021 - 01:03:28: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 12/04/2021 - 01:03:28: [SM]   [4] GivePlayerItem
+L 12/04/2021 - 01:03:28: [SM]   [5] Line 356, tmp/addons/sourcemod/scripting/weapons.sp::RefreshWeapon
+L 12/04/2021 - 01:03:28: [SM]   [6] Line 39, tmp/addons/sourcemod/scripting/weapons/menus.sp::WeaponsMenuHandler
+L 12/04/2021 - 01:17:55: SourceMod error session started
+L 12/04/2021 - 01:17:55: Info (map "de_mirage") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211204.log")
+L 12/04/2021 - 01:17:55: [admin-sql-threaded.smx] Failed to connect to database: [2003]: Can't connect to MySQL server on 'localhost' (10061)
+L 12/04/2021 - 01:17:56: Error log file session closed.
+L 12/04/2021 - 01:18:00: SourceMod error session started
+L 12/04/2021 - 01:18:00: Info (map "de_mirage") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211204.log")
+L 12/04/2021 - 01:18:00: [admin-sql-threaded.smx] Failed to connect to database: [2003]: Can't connect to MySQL server on 'localhost' (10061)
+L 12/04/2021 - 01:24:57: SourceMod error session started
+L 12/04/2021 - 01:24:57: Info (map "de_mirage") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211204.log")
+L 12/04/2021 - 01:24:57: [admin-sql-threaded.smx] Failed to connect to database: [2003]: Can't connect to MySQL server on 'localhost' (10061)
+L 12/04/2021 - 01:24:58: Error log file session closed.
+L 12/04/2021 - 01:25:02: SourceMod error session started
+L 12/04/2021 - 01:25:02: Info (map "de_mirage") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211204.log")
+L 12/04/2021 - 01:25:02: [admin-sql-threaded.smx] Failed to connect to database: [2003]: Can't connect to MySQL server on 'localhost' (10061)
+L 12/04/2021 - 01:48:11: SourceMod error session started
+L 12/04/2021 - 01:48:11: Info (map "de_mirage") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211204.log")
+L 12/04/2021 - 01:48:11: [admin-sql-threaded.smx] Failed to connect to database: [2003]: Can't connect to MySQL server on 'localhost' (10061)
+L 12/04/2021 - 02:02:19: SourceMod error session started
+L 12/04/2021 - 02:02:19: Info (map "de_mirage") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211204.log")
+L 12/04/2021 - 02:02:19: [admin-sql-threaded.smx] Failed to connect to database: [2003]: Can't connect to MySQL server on 'localhost' (10061)
+L 12/04/2021 - 02:03:21: [SM] Exception reported: Language phrase "Defenda o" not found (arg 6)
+L 12/04/2021 - 02:03:21: [SM] Blaming: disabled\retakes-hud.smx
+L 12/04/2021 - 02:03:21: [SM] Call stack trace:
+L 12/04/2021 - 02:03:21: [SM]   [0] Format
+L 12/04/2021 - 02:03:21: [SM]   [1] Line 158, C:\Users\guime\Documents\Servidor CS\servers\1\serverfiles\csgo\addons\sourcemod\scripting\retakes_hud.sp::displayHud
+L 12/04/2021 - 02:03:35: [SM] Exception reported: Language phrase "Defenda o" not found (arg 6)
+L 12/04/2021 - 02:03:35: [SM] Blaming: disabled\retakes-hud.smx
+L 12/04/2021 - 02:03:35: [SM] Call stack trace:
+L 12/04/2021 - 02:03:35: [SM]   [0] Format
+L 12/04/2021 - 02:03:35: [SM]   [1] Line 158, C:\Users\guime\Documents\Servidor CS\servers\1\serverfiles\csgo\addons\sourcemod\scripting\retakes_hud.sp::displayHud
+L 12/04/2021 - 02:04:24: [SM] Exception reported: Language phrase "Defenda o" not found (arg 6)
+L 12/04/2021 - 02:04:24: [SM] Blaming: disabled\retakes-hud.smx
+L 12/04/2021 - 02:04:24: [SM] Call stack trace:
+L 12/04/2021 - 02:04:24: [SM]   [0] Format
+L 12/04/2021 - 02:04:24: [SM]   [1] Line 158, C:\Users\guime\Documents\Servidor CS\servers\1\serverfiles\csgo\addons\sourcemod\scripting\retakes_hud.sp::displayHud
+L 12/04/2021 - 02:05:13: [SM] Exception reported: Language phrase "Defenda o" not found (arg 6)
+L 12/04/2021 - 02:05:13: [SM] Blaming: disabled\retakes-hud.smx
+L 12/04/2021 - 02:05:13: [SM] Call stack trace:
+L 12/04/2021 - 02:05:13: [SM]   [0] Format
+L 12/04/2021 - 02:05:13: [SM]   [1] Line 158, C:\Users\guime\Documents\Servidor CS\servers\1\serverfiles\csgo\addons\sourcemod\scripting\retakes_hud.sp::displayHud
+L 12/04/2021 - 02:06:02: [SM] Exception reported: Language phrase "Defenda o" not found (arg 6)
+L 12/04/2021 - 02:06:02: [SM] Blaming: disabled\retakes-hud.smx
+L 12/04/2021 - 02:06:02: [SM] Call stack trace:
+L 12/04/2021 - 02:06:02: [SM]   [0] Format
+L 12/04/2021 - 02:06:02: [SM]   [1] Line 158, C:\Users\guime\Documents\Servidor CS\servers\1\serverfiles\csgo\addons\sourcemod\scripting\retakes_hud.sp::displayHud
+L 12/04/2021 - 02:06:51: [SM] Exception reported: Language phrase "Defenda o" not found (arg 6)
+L 12/04/2021 - 02:06:51: [SM] Blaming: disabled\retakes-hud.smx
+L 12/04/2021 - 02:06:51: [SM] Call stack trace:
+L 12/04/2021 - 02:06:51: [SM]   [0] Format
+L 12/04/2021 - 02:06:51: [SM]   [1] Line 158, C:\Users\guime\Documents\Servidor CS\servers\1\serverfiles\csgo\addons\sourcemod\scripting\retakes_hud.sp::displayHud
+L 12/04/2021 - 02:07:40: [SM] Exception reported: Language phrase "Defenda o" not found (arg 6)
+L 12/04/2021 - 02:07:40: [SM] Blaming: disabled\retakes-hud.smx
+L 12/04/2021 - 02:07:40: [SM] Call stack trace:
+L 12/04/2021 - 02:07:40: [SM]   [0] Format
+L 12/04/2021 - 02:07:40: [SM]   [1] Line 158, C:\Users\guime\Documents\Servidor CS\servers\1\serverfiles\csgo\addons\sourcemod\scripting\retakes_hud.sp::displayHud
+L 12/04/2021 - 02:08:29: [SM] Exception reported: Language phrase "Defenda o" not found (arg 6)
+L 12/04/2021 - 02:08:29: [SM] Blaming: disabled\retakes-hud.smx
+L 12/04/2021 - 02:08:29: [SM] Call stack trace:
+L 12/04/2021 - 02:08:29: [SM]   [0] Format
+L 12/04/2021 - 02:08:29: [SM]   [1] Line 158, C:\Users\guime\Documents\Servidor CS\servers\1\serverfiles\csgo\addons\sourcemod\scripting\retakes_hud.sp::displayHud
+L 12/04/2021 - 02:09:13: SourceMod error session started
+L 12/04/2021 - 02:09:13: Info (map "de_mirage") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211204.log")
+L 12/04/2021 - 02:09:13: [admin-sql-threaded.smx] Failed to connect to database: [2003]: Can't connect to MySQL server on 'localhost' (10061)
+L 12/04/2021 - 02:09:14: Error log file session closed.
+L 12/04/2021 - 02:09:18: SourceMod error session started
+L 12/04/2021 - 02:09:18: Info (map "de_mirage") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211204.log")
+L 12/04/2021 - 02:09:18: [admin-sql-threaded.smx] Failed to connect to database: [2003]: Can't connect to MySQL server on 'localhost' (10061)
+L 12/04/2021 - 02:09:44: [SM] Exception reported: Language phrase "Defenda o" not found (arg 6)
+L 12/04/2021 - 02:09:44: [SM] Blaming: disabled\retakes-hud.smx
+L 12/04/2021 - 02:09:44: [SM] Call stack trace:
+L 12/04/2021 - 02:09:44: [SM]   [0] Format
+L 12/04/2021 - 02:09:44: [SM]   [1] Line 158, C:\Users\guime\Documents\Servidor CS\servers\1\serverfiles\csgo\addons\sourcemod\scripting\retakes_hud.sp::displayHud
+L 12/04/2021 - 14:15:24: SourceMod error session started
+L 12/04/2021 - 14:15:24: Info (map "de_mirage") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211204.log")
+L 12/04/2021 - 14:15:24: [SM] Exception reported: Array index out-of-bounds (index -1, limit 66)
+L 12/04/2021 - 14:15:24: [SM] Blaming: weapons.smx
+L 12/04/2021 - 14:15:24: [SM] Call stack trace:
+L 12/04/2021 - 14:15:24: [SM]   [1] Line 69, tmp/addons/sourcemod/scripting/weapons/hooks.sp::ChatListener
+L 12/04/2021 - 14:15:54: [admin-sql-threaded.smx] Failed to connect to database: [2003]: Can't connect to MySQL server on 'localhost' (10061)
+L 12/04/2021 - 14:15:54: Error log file session closed.
+L 12/04/2021 - 14:15:58: SourceMod error session started
+L 12/04/2021 - 14:15:58: Info (map "de_mirage") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211204.log")
+L 12/04/2021 - 14:15:58: [admin-sql-threaded.smx] Failed to connect to database: [2003]: Can't connect to MySQL server on 'localhost' (10061)
+L 12/04/2021 - 14:20:43: SourceMod error session started
+L 12/04/2021 - 14:20:43: Info (map "de_mirage") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211204.log")
+L 12/04/2021 - 14:20:43: [SM] Exception reported: Array index out-of-bounds (index -1, limit 66)
+L 12/04/2021 - 14:20:43: [SM] Blaming: weapons.smx
+L 12/04/2021 - 14:20:43: [SM] Call stack trace:
+L 12/04/2021 - 14:20:43: [SM]   [1] Line 69, tmp/addons/sourcemod/scripting/weapons/hooks.sp::ChatListener
+L 12/04/2021 - 14:20:54: [admin-sql-threaded.smx] Failed to connect to database: [2003]: Can't connect to MySQL server on 'localhost' (10061)
+L 12/04/2021 - 14:20:54: Error log file session closed.
+L 12/04/2021 - 14:20:58: SourceMod error session started
+L 12/04/2021 - 14:20:58: Info (map "de_mirage") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211204.log")
+L 12/04/2021 - 14:20:58: [admin-sql-threaded.smx] Failed to connect to database: [2003]: Can't connect to MySQL server on 'localhost' (10061)
+L 12/04/2021 - 14:21:15: [admin-sql-threaded.smx] Failed to connect to database: [2003]: Can't connect to MySQL server on 'localhost' (10061)
+L 12/04/2021 - 14:28:31: Error log file session closed.
+L 12/04/2021 - 14:28:53: SourceMod error session started
+L 12/04/2021 - 14:28:53: Info (map "de_mirage") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211204.log")
+L 12/04/2021 - 14:28:53: [SM] Exception reported: Array index out-of-bounds (index -1, limit 66)
+L 12/04/2021 - 14:28:53: [SM] Blaming: weapons.smx
+L 12/04/2021 - 14:28:53: [SM] Call stack trace:
+L 12/04/2021 - 14:28:53: [SM]   [1] Line 69, tmp/addons/sourcemod/scripting/weapons/hooks.sp::ChatListener
+L 12/04/2021 - 14:29:02: Error log file session closed.
+L 12/04/2021 - 14:29:02: SourceMod error session started
+L 12/04/2021 - 14:29:02: Info (map "de_mirage") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211204.log")
+L 12/04/2021 - 14:29:02: [admin-sql-threaded.smx] Failed to connect to database: [2003]: Can't connect to MySQL server on 'localhost' (10061)
+L 12/04/2021 - 14:34:42: SourceMod error session started
+L 12/04/2021 - 14:34:42: Info (map "de_mirage") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211204.log")
+L 12/04/2021 - 14:34:42: [SM] Exception reported: Array index out-of-bounds (index -1, limit 66)
+L 12/04/2021 - 14:34:42: [SM] Blaming: weapons.smx
+L 12/04/2021 - 14:34:42: [SM] Call stack trace:
+L 12/04/2021 - 14:34:42: [SM]   [1] Line 69, tmp/addons/sourcemod/scripting/weapons/hooks.sp::ChatListener
+L 12/04/2021 - 14:34:59: Error log file session closed.
+L 12/04/2021 - 14:35:00: SourceMod error session started
+L 12/04/2021 - 14:35:00: Info (map "de_mirage") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211204.log")
+L 12/04/2021 - 14:35:00: [admin-sql-threaded.smx] Failed to connect to database: [2003]: Can't connect to MySQL server on 'localhost' (10061)
+L 12/04/2021 - 15:20:06: SourceMod error session started
+L 12/04/2021 - 15:20:06: Info (map "de_mirage") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211204.log")
+L 12/04/2021 - 15:20:06: [SM] Exception reported: Array index out-of-bounds (index -1, limit 66)
+L 12/04/2021 - 15:20:06: [SM] Blaming: weapons.smx
+L 12/04/2021 - 15:20:06: [SM] Call stack trace:
+L 12/04/2021 - 15:20:06: [SM]   [1] Line 69, tmp/addons/sourcemod/scripting/weapons/hooks.sp::ChatListener
+L 12/04/2021 - 15:20:13: [admin-sql-threaded.smx] Failed to connect to database: [2003]: Can't connect to MySQL server on 'localhost' (10061)
+L 12/04/2021 - 15:20:14: Error log file session closed.
+L 12/04/2021 - 15:20:18: SourceMod error session started
+L 12/04/2021 - 15:20:18: Info (map "de_mirage") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211204.log")
+L 12/04/2021 - 15:20:18: [admin-sql-threaded.smx] Failed to connect to database: [2003]: Can't connect to MySQL server on 'localhost' (10061)
+L 12/04/2021 - 15:20:18: [gloves.smx] Query failed! UNIQUE constraint failed: gloves.steamid
+L 12/04/2021 - 15:22:59: SourceMod error session started
+L 12/04/2021 - 15:22:59: Info (map "de_mirage") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211204.log")
+L 12/04/2021 - 15:22:59: [SM] Exception reported: Array index out-of-bounds (index -1, limit 66)
+L 12/04/2021 - 15:22:59: [SM] Blaming: weapons.smx
+L 12/04/2021 - 15:22:59: [SM] Call stack trace:
+L 12/04/2021 - 15:22:59: [SM]   [1] Line 69, tmp/addons/sourcemod/scripting/weapons/hooks.sp::ChatListener
+L 12/04/2021 - 15:23:09: Error log file session closed.
+L 12/04/2021 - 15:23:10: SourceMod error session started
+L 12/04/2021 - 15:23:10: Info (map "de_mirage") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211204.log")
+L 12/04/2021 - 15:23:10: [admin-sql-threaded.smx] Failed to connect to database: [2003]: Can't connect to MySQL server on 'localhost' (10061)
+L 12/04/2021 - 15:25:46: [admin-sql-threaded.smx] Failed to connect to database: [2003]: Can't connect to MySQL server on 'localhost' (10061)
+L 12/04/2021 - 15:52:19: Error log file session closed.
+L 12/04/2021 - 15:52:23: SourceMod error session started
+L 12/04/2021 - 15:52:23: Info (map "de_ancient") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211204.log")
+L 12/04/2021 - 15:52:23: [admin-sql-threaded.smx] Failed to connect to database: [2003]: Can't connect to MySQL server on 'localhost' (10061)
+L 12/04/2021 - 15:52:57: [disabled\retakes.smx] The retakes config file (addons\sourcemod\configs\retakes\de_ancient.cfg) does not exist
+L 12/04/2021 - 15:53:06: [disabled\retakes.smx] This map does not have enough spawns!
+L 12/04/2021 - 15:53:06: [disabled\retakes.smx] Had to resort to fallback spawn on de_ancient, site=0
+L 12/04/2021 - 15:53:06: [disabled\retakes.smx] Failed to get any spawn on de_ancient, site=0, team=2
+L 12/04/2021 - 15:53:06: [disabled\retakes.smx] Failed to get any spawn on de_ancient, site=0, team=0
+L 12/04/2021 - 16:13:14: [disabled\retakes.smx] Had to resort to fallback spawn on de_ancient, site=0
+L 12/04/2021 - 16:13:14: [disabled\retakes.smx] Failed to get any spawn on de_ancient, site=0, team=2
+L 12/04/2021 - 16:13:14: [disabled\retakes.smx] Failed to get any spawn on de_ancient, site=0, team=3
+L 12/04/2021 - 16:13:19: [disabled\retakes.smx] Had to resort to fallback spawn on de_ancient, site=1
+L 12/04/2021 - 16:13:28: [disabled\retakes.smx] Had to resort to fallback spawn on de_ancient, site=1
+L 12/04/2021 - 16:13:31: [disabled\retakes.smx] Had to resort to fallback spawn on de_ancient, site=1
+L 12/04/2021 - 16:13:33: [disabled\retakes.smx] Had to resort to fallback spawn on de_ancient, site=0
+L 12/04/2021 - 16:13:33: [disabled\retakes.smx] Failed to get any spawn on de_ancient, site=0, team=2
+L 12/04/2021 - 16:13:33: [disabled\retakes.smx] Failed to get any spawn on de_ancient, site=0, team=3
+L 12/04/2021 - 16:13:37: [disabled\retakes.smx] Had to resort to fallback spawn on de_ancient, site=1
+L 12/04/2021 - 16:13:40: [disabled\retakes.smx] Had to resort to fallback spawn on de_ancient, site=1
+L 12/04/2021 - 16:13:53: [disabled\retakes.smx] Had to resort to fallback spawn on de_ancient, site=0
+L 12/04/2021 - 16:13:53: [disabled\retakes.smx] Failed to get any spawn on de_ancient, site=0, team=2
+L 12/04/2021 - 16:13:53: [disabled\retakes.smx] Failed to get any spawn on de_ancient, site=0, team=3
+L 12/04/2021 - 16:13:56: [disabled\retakes.smx] Had to resort to fallback spawn on de_ancient, site=1
+L 12/04/2021 - 16:16:16: [disabled\retakes.smx] Had to resort to fallback spawn on de_ancient, site=0
+L 12/04/2021 - 16:16:16: [disabled\retakes.smx] Failed to get any spawn on de_ancient, site=0, team=2
+L 12/04/2021 - 16:16:16: [disabled\retakes.smx] Failed to get any spawn on de_ancient, site=0, team=3
+L 12/04/2021 - 16:16:19: [disabled\retakes.smx] Had to resort to fallback spawn on de_ancient, site=0
+L 12/04/2021 - 16:16:19: [disabled\retakes.smx] Failed to get any spawn on de_ancient, site=0, team=2
+L 12/04/2021 - 16:16:19: [disabled\retakes.smx] Failed to get any spawn on de_ancient, site=0, team=3
+L 12/04/2021 - 16:16:22: [disabled\retakes.smx] Had to resort to fallback spawn on de_ancient, site=1
+L 12/04/2021 - 16:16:27: [disabled\retakes.smx] Had to resort to fallback spawn on de_ancient, site=0
+L 12/04/2021 - 16:16:27: [disabled\retakes.smx] Failed to get any spawn on de_ancient, site=0, team=2
+L 12/04/2021 - 16:16:27: [disabled\retakes.smx] Failed to get any spawn on de_ancient, site=0, team=3
+L 12/04/2021 - 16:16:47: [disabled\retakes.smx] Had to resort to fallback spawn on de_ancient, site=1
+L 12/04/2021 - 16:17:16: [disabled\retakes.smx] Had to resort to fallback spawn on de_ancient, site=1
+L 12/04/2021 - 19:17:14: SourceMod error session started
+L 12/04/2021 - 19:17:14: Info (map "de_mirage") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211204.log")
+L 12/04/2021 - 19:17:14: [SM] Exception reported: Array index out-of-bounds (index -1, limit 66)
+L 12/04/2021 - 19:17:14: [SM] Blaming: weapons.smx
+L 12/04/2021 - 19:17:14: [SM] Call stack trace:
+L 12/04/2021 - 19:17:14: [SM]   [1] Line 69, tmp/addons/sourcemod/scripting/weapons/hooks.sp::ChatListener
+L 12/04/2021 - 19:17:18: Error log file session closed.
+L 12/04/2021 - 19:17:19: SourceMod error session started
+L 12/04/2021 - 19:17:19: Info (map "de_mirage") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211204.log")
+L 12/04/2021 - 19:17:19: [admin-sql-threaded.smx] Failed to connect to database: [2003]: Can't connect to MySQL server on 'localhost' (10061)
+L 12/04/2021 - 19:18:51: [admin-sql-threaded.smx] Failed to connect to database: [2003]: Can't connect to MySQL server on 'localhost' (10061)
+L 12/04/2021 - 19:30:31: [admin-sql-threaded.smx] Failed to connect to database: [2003]: Can't connect to MySQL server on 'localhost' (10061)
+L 12/04/2021 - 22:50:52: SourceMod error session started
+L 12/04/2021 - 22:50:52: Info (map "de_mirage") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211204.log")
+L 12/04/2021 - 22:50:52: [SM] Exception reported: Array index out-of-bounds (index -1, limit 66)
+L 12/04/2021 - 22:50:52: [SM] Blaming: weapons.smx
+L 12/04/2021 - 22:50:52: [SM] Call stack trace:
+L 12/04/2021 - 22:50:52: [SM]   [1] Line 69, tmp/addons/sourcemod/scripting/weapons/hooks.sp::ChatListener
+L 12/04/2021 - 22:51:12: [admin-sql-threaded.smx] Failed to connect to database: [2003]: Can't connect to MySQL server on 'localhost' (10061)
+L 12/04/2021 - 22:51:12: Error log file session closed.
+L 12/04/2021 - 22:51:16: SourceMod error session started
+L 12/04/2021 - 22:51:16: Info (map "de_mirage") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211204.log")
+L 12/04/2021 - 22:51:16: [admin-sql-threaded.smx] Failed to connect to database: [2003]: Can't connect to MySQL server on 'localhost' (10061)
+L 12/04/2021 - 23:15:48: SourceMod error session started
+L 12/04/2021 - 23:15:48: Info (map "de_mirage") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211204.log")
+L 12/04/2021 - 23:15:48: [SM] Exception reported: Array index out-of-bounds (index -1, limit 66)
+L 12/04/2021 - 23:15:48: [SM] Blaming: weapons.smx
+L 12/04/2021 - 23:15:48: [SM] Call stack trace:
+L 12/04/2021 - 23:15:48: [SM]   [1] Line 69, tmp/addons/sourcemod/scripting/weapons/hooks.sp::ChatListener
+L 12/04/2021 - 23:16:06: SourceMod error session started
+L 12/04/2021 - 23:16:06: Info (map "de_mirage") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211204.log")
+L 12/04/2021 - 23:16:06: [SM] Exception reported: Array index out-of-bounds (index -1, limit 66)
+L 12/04/2021 - 23:16:06: [SM] Blaming: weapons.smx
+L 12/04/2021 - 23:16:06: [SM] Call stack trace:
+L 12/04/2021 - 23:16:06: [SM]   [1] Line 69, tmp/addons/sourcemod/scripting/weapons/hooks.sp::ChatListener
+L 12/04/2021 - 23:16:31: [admin-sql-threaded.smx] Failed to connect to database: [2003]: Can't connect to MySQL server on 'localhost' (10061)
+L 12/04/2021 - 23:16:32: Error log file session closed.
+L 12/04/2021 - 23:16:36: SourceMod error session started
+L 12/04/2021 - 23:16:36: Info (map "de_mirage") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211204.log")
+L 12/04/2021 - 23:16:36: [admin-sql-threaded.smx] Failed to connect to database: [2003]: Can't connect to MySQL server on 'localhost' (10061)
+L 12/04/2021 - 23:32:00: SourceMod error session started
+L 12/04/2021 - 23:32:00: Info (map "de_mirage") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211204.log")
+L 12/04/2021 - 23:32:00: [SM] Exception reported: Array index out-of-bounds (index -1, limit 66)
+L 12/04/2021 - 23:32:00: [SM] Blaming: weapons.smx
+L 12/04/2021 - 23:32:01: [SM] Call stack trace:
+L 12/04/2021 - 23:32:01: [SM]   [1] Line 69, tmp/addons/sourcemod/scripting/weapons/hooks.sp::ChatListener
+L 12/04/2021 - 23:32:20: [admin-sql-threaded.smx] Failed to connect to database: [2003]: Can't connect to MySQL server on 'localhost' (10061)
+L 12/04/2021 - 23:32:21: Error log file session closed.
+L 12/04/2021 - 23:32:25: SourceMod error session started
+L 12/04/2021 - 23:32:25: Info (map "de_mirage") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211204.log")
+L 12/04/2021 - 23:32:25: [admin-sql-threaded.smx] Failed to connect to database: [2003]: Can't connect to MySQL server on 'localhost' (10061)
+L 12/04/2021 - 23:42:56: SourceMod error session started
+L 12/04/2021 - 23:42:56: Info (map "de_mirage") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211204.log")
+L 12/04/2021 - 23:42:56: [SM] Exception reported: Invalid event PTaH_HookType specified
+L 12/04/2021 - 23:42:56: [SM] Blaming: force_vanillaweapons.smx
+L 12/04/2021 - 23:42:56: [SM] Call stack trace:
+L 12/04/2021 - 23:42:56: [SM]   [0] PTaH
+L 12/04/2021 - 23:42:56: [SM]   [1] Line 5, E:\Dropbox\UEA\A NUEVO PLUGINS PRIVADOS\force_vanillaweapons.sp::OnPluginStart
+L 12/04/2021 - 23:42:56: [SM] Unable to load plugin "force_vanillaweapons.smx": Error detected in plugin startup (see error logs)
+L 12/04/2021 - 23:42:57: [SM] Exception reported: Array index out-of-bounds (index -1, limit 66)
+L 12/04/2021 - 23:42:57: [SM] Blaming: weapons.smx
+L 12/04/2021 - 23:42:57: [SM] Call stack trace:
+L 12/04/2021 - 23:42:57: [SM]   [1] Line 69, tmp/addons/sourcemod/scripting/weapons/hooks.sp::ChatListener
+L 12/04/2021 - 23:43:07: [admin-sql-threaded.smx] Failed to connect to database: [2003]: Can't connect to MySQL server on 'localhost' (10061)
+L 12/04/2021 - 23:43:08: Error log file session closed.
+L 12/04/2021 - 23:43:12: SourceMod error session started
+L 12/04/2021 - 23:43:12: Info (map "de_mirage") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211204.log")
+L 12/04/2021 - 23:43:12: [admin-sql-threaded.smx] Failed to connect to database: [2003]: Can't connect to MySQL server on 'localhost' (10061)
+L 12/04/2021 - 23:49:28: Error log file session closed.
+L 12/04/2021 - 23:49:32: SourceMod error session started
+L 12/04/2021 - 23:49:32: Info (map "de_mirage") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211204.log")
+L 12/04/2021 - 23:49:32: [admin-sql-threaded.smx] Failed to connect to database: [2003]: Can't connect to MySQL server on 'localhost' (10061)
+L 12/04/2021 - 23:50:18: SourceMod error session started
+L 12/04/2021 - 23:50:18: Info (map "de_mirage") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211204.log")
+L 12/04/2021 - 23:50:18: [SM] Exception reported: Invalid event PTaH_HookType specified
+L 12/04/2021 - 23:50:18: [SM] Blaming: force_vanillaweapons.smx
+L 12/04/2021 - 23:50:18: [SM] Call stack trace:
+L 12/04/2021 - 23:50:18: [SM]   [0] PTaH
+L 12/04/2021 - 23:50:18: [SM]   [1] Line 5, E:\Dropbox\UEA\A NUEVO PLUGINS PRIVADOS\force_vanillaweapons.sp::OnPluginStart
+L 12/04/2021 - 23:50:18: [SM] Unable to load plugin "force_vanillaweapons.smx": Error detected in plugin startup (see error logs)
+L 12/04/2021 - 23:50:19: [SM] Exception reported: Array index out-of-bounds (index -1, limit 66)
+L 12/04/2021 - 23:50:19: [SM] Blaming: weapons.smx
+L 12/04/2021 - 23:50:19: [SM] Call stack trace:
+L 12/04/2021 - 23:50:19: [SM]   [1] Line 69, tmp/addons/sourcemod/scripting/weapons/hooks.sp::ChatListener
+L 12/04/2021 - 23:50:45: Error log file session closed.
+L 12/04/2021 - 23:50:46: SourceMod error session started
+L 12/04/2021 - 23:50:46: Info (map "de_mirage") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211204.log")
+L 12/04/2021 - 23:50:46: [admin-sql-threaded.smx] Failed to connect to database: [2003]: Can't connect to MySQL server on 'localhost' (10061)
+L 12/04/2021 - 23:55:58: Error log file session closed.
+L 12/04/2021 - 23:56:03: SourceMod error session started
+L 12/04/2021 - 23:56:03: Info (map "de_ancient") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211204.log")
+L 12/04/2021 - 23:56:03: [admin-sql-threaded.smx] Failed to connect to database: [2003]: Can't connect to MySQL server on 'localhost' (10061)
+L 12/05/2021 - 00:00:54: Error log file session closed.

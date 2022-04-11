@@ -1,0 +1,25 @@
+L 04/08/2022 - 22:40:28: SourceMod log file session started (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20220408.log") (Version "1.10.0.6528")
+L 04/08/2022 - 22:40:28: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/08/2022 - 22:40:58: -------- Mapchange to de_inferno --------
+L 04/08/2022 - 22:41:00: [weapons.smx] SQLite DB connection successful
+L 04/08/2022 - 22:41:00: [weapons.smx] Inactive players' data has been deleted
+L 04/08/2022 - 22:42:02: SourceMod log file session started (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20220408.log") (Version "1.10.0.6528")
+L 04/08/2022 - 22:42:02: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/08/2022 - 22:42:43: SourceMod log file session started (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20220408.log") (Version "1.10.0.6528")
+L 04/08/2022 - 22:42:43: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/08/2022 - 22:43:22: -------- Mapchange to de_inferno --------
+L 04/08/2022 - 22:43:23: [weapons.smx] SQLite DB connection successful
+L 04/08/2022 - 22:43:24: [weapons.smx] Inactive players' data has been deleted
+L 04/08/2022 - 22:48:19: [basecommands.smx] "fvj<2><STEAM_1:1:454172526><>" console command (cmdline "mp_restartgame 1")
+L 04/08/2022 - 22:48:26: [basecommands.smx] "fvj<2><STEAM_1:1:454172526><>" console command (cmdline "mp_restartgame 1")
+L 04/08/2022 - 22:49:58: [basecommands.smx] "fvj<2><STEAM_1:1:454172526><>" console command (cmdline "mp_restartgame 1")
+L 04/08/2022 - 22:51:19: [basecommands.smx] "fvj<2><STEAM_1:1:454172526><>" executed config (file "sourcemod/trainning_on.cfg")
+L 04/08/2022 - 23:02:02: [basecommands.smx] "fvj<2><STEAM_1:1:454172526><>" executed config (file "warmup.cfg")
+L 04/08/2022 - 23:02:09: [basecommands.smx] "fvj<2><STEAM_1:1:454172526><>" executed config (file "sourcemod/retakes_on.cfg")
+L 04/08/2022 - 23:02:22: [basecommands.smx] "fvj<2><STEAM_1:1:454172526><>" kicked "✪ mdj<3><STEAM_1:1:16841864><>" (reason "")
+L 04/08/2022 - 23:02:42: [basecommands.smx] "fvj<2><STEAM_1:1:454172526><>" executed config (file "sourcemod/trainning_off.cfg")
+L 04/08/2022 - 23:35:41: -------- Mapchange to de_train --------
+L 04/08/2022 - 23:35:42: [weapons.smx] Inactive players' data has been deleted
+L 04/08/2022 - 23:44:39: -------- Mapchange to de_dust2 --------
+L 04/08/2022 - 23:44:40: [weapons.smx] Inactive players' data has been deleted
+L 04/09/2022 - 00:20:38: Log file closed.

@@ -1,0 +1,22 @@
+L 02/19/2022 - 20:42:27: SourceMod error session started
+L 02/19/2022 - 20:42:27: Info (map "de_mirage") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20220219.log")
+L 02/19/2022 - 20:42:27: [SM] Exception reported: Invalid edict (2464 - -317191776)
+L 02/19/2022 - 20:42:27: [SM] Blaming: disabled\nadetails.smx
+L 02/19/2022 - 20:42:27: [SM] Call stack trace:
+L 02/19/2022 - 20:42:27: [SM]   [0] GetEdictClassname
+L 02/19/2022 - 20:42:27: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned
+L 02/19/2022 - 20:42:27: [SM] Exception reported: Invalid edict (2465 - -935589471)
+L 02/19/2022 - 20:42:27: [SM] Blaming: disabled\nadetails.smx
+L 02/19/2022 - 20:42:27: [SM] Call stack trace:
+L 02/19/2022 - 20:42:27: [SM]   [0] GetEdictClassname
+L 02/19/2022 - 20:42:27: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned
+L 02/19/2022 - 20:42:27: [SM] Exception reported: Invalid edict (2466 - -1086846558)
+L 02/19/2022 - 20:42:27: [SM] Blaming: disabled\nadetails.smx
+L 02/19/2022 - 20:42:27: [SM] Call stack trace:
+L 02/19/2022 - 20:42:27: [SM]   [0] GetEdictClassname
+L 02/19/2022 - 20:42:27: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned
+L 02/19/2022 - 20:42:27: [SM] Exception reported: Invalid edict (2467 - -1170011741)
+L 02/19/2022 - 20:42:27: [SM] Blaming: disabled\nadetails.smx
+L 02/19/2022 - 20:42:27: [SM] Call stack trace:
+L 02/19/2022 - 20:42:27: [SM]   [0] GetEdictClassname
+L 02/19/2022 - 20:42:27: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned

@@ -1,0 +1,49 @@
+L 12/07/2021 - 21:14:18: SourceMod error session started
+L 12/07/2021 - 21:14:18: Info (map "de_ancient") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211207.log")
+L 12/07/2021 - 21:14:18: [SM] Exception reported: Array index out-of-bounds (index -1, limit 66)
+L 12/07/2021 - 21:14:18: [SM] Blaming: weapons.smx
+L 12/07/2021 - 21:14:18: [SM] Call stack trace:
+L 12/07/2021 - 21:14:18: [SM]   [1] Line 69, tmp/addons/sourcemod/scripting/weapons/hooks.sp::ChatListener
+L 12/07/2021 - 21:17:43: Error log file session closed.
+L 12/07/2021 - 21:31:41: SourceMod error session started
+L 12/07/2021 - 21:31:41: Info (map "de_ancient") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211207.log")
+L 12/07/2021 - 21:31:41: [SM] Exception reported: Array index out-of-bounds (index -1, limit 66)
+L 12/07/2021 - 21:31:41: [SM] Blaming: weapons.smx
+L 12/07/2021 - 21:31:41: [SM] Call stack trace:
+L 12/07/2021 - 21:31:41: [SM]   [1] Line 69, tmp/addons/sourcemod/scripting/weapons/hooks.sp::ChatListener
+L 12/07/2021 - 21:31:52: Error log file session closed.
+L 12/07/2021 - 21:33:32: SourceMod error session started
+L 12/07/2021 - 21:33:32: Info (map "de_ancient") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211207.log")
+L 12/07/2021 - 21:33:32: [SM] Exception reported: Array index out-of-bounds (index -1, limit 66)
+L 12/07/2021 - 21:33:32: [SM] Blaming: weapons.smx
+L 12/07/2021 - 21:33:32: [SM] Call stack trace:
+L 12/07/2021 - 21:33:32: [SM]   [1] Line 69, tmp/addons/sourcemod/scripting/weapons/hooks.sp::ChatListener
+L 12/07/2021 - 21:33:48: Error log file session closed.
+L 12/07/2021 - 21:56:39: SourceMod error session started
+L 12/07/2021 - 21:56:39: Info (map "de_ancient") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211207.log")
+L 12/07/2021 - 21:56:39: [SM] Exception reported: Array index out-of-bounds (index -1, limit 66)
+L 12/07/2021 - 21:56:39: [SM] Blaming: weapons.smx
+L 12/07/2021 - 21:56:39: [SM] Call stack trace:
+L 12/07/2021 - 21:56:39: [SM]   [1] Line 69, tmp/addons/sourcemod/scripting/weapons/hooks.sp::ChatListener
+L 12/07/2021 - 21:56:53: Error log file session closed.
+L 12/07/2021 - 22:02:16: SourceMod error session started
+L 12/07/2021 - 22:02:16: Info (map "de_ancient") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211207.log")
+L 12/07/2021 - 22:02:16: [SM] Exception reported: Array index out-of-bounds (index -1, limit 66)
+L 12/07/2021 - 22:02:16: [SM] Blaming: weapons.smx
+L 12/07/2021 - 22:02:16: [SM] Call stack trace:
+L 12/07/2021 - 22:02:16: [SM]   [1] Line 69, tmp/addons/sourcemod/scripting/weapons/hooks.sp::ChatListener
+L 12/07/2021 - 22:02:27: Error log file session closed.
+L 12/07/2021 - 22:13:39: SourceMod error session started
+L 12/07/2021 - 22:13:39: Info (map "de_ancient") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211207.log")
+L 12/07/2021 - 22:13:39: [SM] Exception reported: Array index out-of-bounds (index -1, limit 66)
+L 12/07/2021 - 22:13:39: [SM] Blaming: weapons.smx
+L 12/07/2021 - 22:13:39: [SM] Call stack trace:
+L 12/07/2021 - 22:13:39: [SM]   [1] Line 69, tmp/addons/sourcemod/scripting/weapons/hooks.sp::ChatListener
+L 12/07/2021 - 22:14:11: Error log file session closed.
+L 12/07/2021 - 22:20:09: SourceMod error session started
+L 12/07/2021 - 22:20:09: Info (map "de_ancient") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211207.log")
+L 12/07/2021 - 22:20:09: [SM] Exception reported: Array index out-of-bounds (index -1, limit 66)
+L 12/07/2021 - 22:20:09: [SM] Blaming: weapons.smx
+L 12/07/2021 - 22:20:09: [SM] Call stack trace:
+L 12/07/2021 - 22:20:09: [SM]   [1] Line 69, tmp/addons/sourcemod/scripting/weapons/hooks.sp::ChatListener
+L 12/07/2021 - 22:20:44: Error log file session closed.

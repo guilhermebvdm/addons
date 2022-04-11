@@ -1,0 +1,9 @@
+L 11/21/2021 - 00:02:58: SourceMod log file session started (file "c:\users\guime\downloads\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20211121.log") (Version "1.10.0.6528")
+L 11/21/2021 - 00:02:58: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" refreshed the admin cache.
+L 11/21/2021 - 00:04:16: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 11/21/2021 - 00:11:08: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 11/21/2021 - 00:16:28: [playercommands.smx] "cdr<3><STEAM_1:1:81467303><>" slapped "AliSeMpeek™<4><STEAM_1:1:440325470><>" (damage "0")
+L 11/21/2021 - 00:19:52: [SM] Changed map to "de_dust"
+L 11/21/2021 - 00:19:54: -------- Mapchange to de_dust2 --------
+L 11/21/2021 - 00:26:14: [SM] Changed map to "de_dust"
+L 11/21/2021 - 00:26:16: -------- Mapchange to de_dust2 --------

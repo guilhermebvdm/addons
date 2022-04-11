@@ -1,0 +1,61 @@
+L 02/26/2022 - 16:15:37: SourceMod log file session started (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20220226.log") (Version "1.10.0.6528")
+L 02/26/2022 - 16:15:37: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 02/26/2022 - 16:16:23: -------- Mapchange to de_vertigo --------
+L 02/26/2022 - 16:16:39: -------- Mapchange to de_vertigo --------
+L 02/26/2022 - 16:18:03: SourceMod log file session started (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20220226.log") (Version "1.10.0.6528")
+L 02/26/2022 - 16:18:03: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 02/26/2022 - 16:18:57: -------- Mapchange to de_inferno --------
+L 02/26/2022 - 16:18:57: [weapons.smx] SQLite DB connection successful
+L 02/26/2022 - 16:18:57: [weapons.smx] Inactive players' data has been deleted
+L 02/26/2022 - 16:18:57: [weapons.smx] SQLite DB connection successful
+L 02/26/2022 - 16:18:58: [weapons.smx] SQLite DB connection successful
+L 02/26/2022 - 16:18:58: [weapons.smx] Inactive players' data has been deleted
+L 02/26/2022 - 16:18:58: [weapons.smx] Inactive players' data has been deleted
+L 02/26/2022 - 16:19:47: -------- Mapchange to de_vertigo --------
+L 02/26/2022 - 16:19:48: [weapons.smx] Inactive players' data has been deleted
+L 02/26/2022 - 16:22:00: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" executed config (file "sourcemod/trainning_on.cfg")
+L 02/26/2022 - 16:33:22: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" console command (cmdline "sv_rethrow_last_grenade")
+L 02/26/2022 - 16:33:30: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" console command (cmdline "sv_rethrow_last_grenade")
+L 02/26/2022 - 16:33:35: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" console command (cmdline "sv_rethrow_last_grenade")
+L 02/26/2022 - 16:33:52: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" console command (cmdline "sv_rethrow_last_grenade")
+L 02/26/2022 - 16:35:12: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" console command (cmdline "sv_rethrow_last_grenade")
+L 02/26/2022 - 16:49:53: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" console command (cmdline "host_timescale 10")
+L 02/26/2022 - 16:49:54: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" console command (cmdline "host_timescale 1")
+L 02/26/2022 - 16:52:47: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" console command (cmdline "sv_rethrow_last_grenade")
+L 02/26/2022 - 16:53:31: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" console command (cmdline "sv_rethrow_last_grenade")
+L 02/26/2022 - 16:54:07: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" console command (cmdline "sv_rethrow_last_grenade")
+L 02/26/2022 - 16:54:12: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" console command (cmdline "sv_rethrow_last_grenade")
+L 02/26/2022 - 17:00:06: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" console command (cmdline "add_bot")
+L 02/26/2022 - 17:00:13: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" console command (cmdline "bot_add")
+L 02/26/2022 - 17:07:15: SourceMod log file session started (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20220226.log") (Version "1.10.0.6528")
+L 02/26/2022 - 17:07:15: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 02/26/2022 - 17:07:43: -------- Mapchange to de_inferno --------
+L 02/26/2022 - 17:07:43: [weapons.smx] SQLite DB connection successful
+L 02/26/2022 - 17:07:43: [weapons.smx] Inactive players' data has been deleted
+L 02/26/2022 - 17:07:44: [weapons.smx] SQLite DB connection successful
+L 02/26/2022 - 17:07:44: [weapons.smx] SQLite DB connection successful
+L 02/26/2022 - 17:07:44: [weapons.smx] Inactive players' data has been deleted
+L 02/26/2022 - 17:07:44: [weapons.smx] Inactive players' data has been deleted
+L 02/26/2022 - 17:08:46: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" executed config (file "sourcemod/trainning_on.cfg")
+L 02/26/2022 - 17:08:54: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" changed map to "de_vertigo"
+L 02/26/2022 - 17:08:57: [SM] Changed map to "de_vertigo"
+L 02/26/2022 - 17:08:57: -------- Mapchange to de_vertigo --------
+L 02/26/2022 - 17:08:59: [weapons.smx] Inactive players' data has been deleted
+L 02/26/2022 - 17:09:31: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" executed config (file "sourcemod/trainning_on.cfg")
+L 02/26/2022 - 17:11:27: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "host_timescale 10")
+L 02/26/2022 - 17:11:28: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "host_timescale 1")
+L 02/26/2022 - 17:19:56: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "sv_rethrow_last_grenade")
+L 02/26/2022 - 17:34:40: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" kicked "SHANKS *******<5><STEAM_1:1:578404061><>" (reason "")
+L 02/26/2022 - 17:34:40: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" kicked "Δ = b2 – 4ac<6><STEAM_1:0:461235597><>" (reason "")
+L 02/26/2022 - 17:34:47: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 02/26/2022 - 17:36:19: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" executed config (file "sourcemod/retakes_on.cfg")
+L 02/26/2022 - 17:36:28: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 02/26/2022 - 17:36:33: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" executed config (file "sourcemod/trainning_off.cfg")
+L 02/26/2022 - 17:36:37: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" executed config (file "sourcemod/retakes_on.cfg")
+L 02/26/2022 - 17:36:38: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 02/26/2022 - 17:36:38: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 02/26/2022 - 17:36:39: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 02/26/2022 - 17:37:43: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" changed map to "de_inferno"
+L 02/26/2022 - 17:37:46: [SM] Changed map to "de_inferno"
+L 02/26/2022 - 17:37:46: -------- Mapchange to de_inferno --------
+L 02/26/2022 - 17:37:47: [weapons.smx] Inactive players' data has been deleted

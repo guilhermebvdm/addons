@@ -1,0 +1,17 @@
+L 01/13/2022 - 21:51:31: SourceMod error session started
+L 01/13/2022 - 21:51:31: Info (map "de_dust2") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20220113.log")
+L 01/13/2022 - 21:51:31: [pugsetup.smx] GOTV demo could not be recorded since tv_enable is not set to 1
+L 01/13/2022 - 22:56:42: [SM] Exception reported: Invalid edict (2762 - -1011938614)
+L 01/13/2022 - 22:56:42: [SM] Blaming: disabled\nadetails.smx
+L 01/13/2022 - 22:56:42: [SM] Call stack trace:
+L 01/13/2022 - 22:56:42: [SM]   [0] GetEdictClassname
+L 01/13/2022 - 22:56:42: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned
+L 01/13/2022 - 22:56:42: [SM] Exception reported: Invalid edict (2763 - -284554549)
+L 01/13/2022 - 22:56:42: [SM] Blaming: disabled\nadetails.smx
+L 01/13/2022 - 22:56:42: [SM] Call stack trace:
+L 01/13/2022 - 22:56:42: [SM]   [0] GetEdictClassname
+L 01/13/2022 - 22:56:42: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned
+L 01/13/2022 - 22:58:13: [SM] Exception reported: Array index out-of-bounds (index -1, limit 66)
+L 01/13/2022 - 22:58:13: [SM] Blaming: disabled\nadetails.smx
+L 01/13/2022 - 22:58:13: [SM] Call stack trace:
+L 01/13/2022 - 22:58:13: [SM]   [1] Line 337, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned

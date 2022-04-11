@@ -1,0 +1,24 @@
+"adminlist_advanced"
+{
+        // example
+	"SSTEAM_1:1:81467303" // steamid example
+	{
+		"tag"		"[LEADER]" // tag example
+	}
+
+	"STEAMID HERE"
+	{
+		"hide"		"yes" // dont show this admin. Default is "no"
+	}
+
+	"STEAM_1:1:81467303" 
+	{
+		"tag"		"[OWNER]" 
+	}
+
+	"Full Admins" // Name (must be exact) of the sourcemod group
+	{
+		"tag"		"[ADMIN]" // tag for appy to people that have this sourcemod group
+	}
+
+}

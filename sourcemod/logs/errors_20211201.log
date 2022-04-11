@@ -1,0 +1,8 @@
+L 12/01/2021 - 21:56:32: SourceMod error session started
+L 12/01/2021 - 21:56:32: Info (map "de_mirage") (file "c:\users\guime\downloads\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211201.log")
+L 12/01/2021 - 21:56:32: [SM] Exception reported: Client index 0 is invalid
+L 12/01/2021 - 21:56:32: [SM] Blaming: retakes.smx
+L 12/01/2021 - 21:56:32: [SM] Call stack trace:
+L 12/01/2021 - 21:56:32: [SM]   [0] GetClientSerial
+L 12/01/2021 - 21:56:32: [SM]   [1] Line 157, ././scripting/retakes/editor_commands.sp::Command_IterateSpawns
+L 12/01/2021 - 22:03:59: Error log file session closed.

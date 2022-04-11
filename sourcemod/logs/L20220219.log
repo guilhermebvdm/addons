@@ -1,0 +1,34 @@
+L 02/19/2022 - 19:02:11: SourceMod log file session started (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20220219.log") (Version "1.10.0.6528")
+L 02/19/2022 - 19:02:11: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 02/19/2022 - 19:02:45: [UPDATER] Successfully updated gamedata file "sdktools.games/game.zpanic.txt"
+L 02/19/2022 - 19:02:45: [UPDATER] Successfully updated gamedata file "sdkhooks.games/game.zpanic.txt"
+L 02/19/2022 - 19:02:45: [UPDATER] SourceMod has been updated, please reload it or restart your server.
+L 02/19/2022 - 19:02:46: -------- Mapchange to de_inferno --------
+L 02/19/2022 - 19:02:47: [weapons.smx] SQLite DB connection successful
+L 02/19/2022 - 19:02:47: [weapons.smx] Inactive players' data has been deleted
+L 02/19/2022 - 19:02:47: [weapons.smx] SQLite DB connection successful
+L 02/19/2022 - 19:02:47: [weapons.smx] SQLite DB connection successful
+L 02/19/2022 - 19:02:47: [weapons.smx] Inactive players' data has been deleted
+L 02/19/2022 - 19:02:47: [weapons.smx] Inactive players' data has been deleted
+L 02/19/2022 - 19:06:15: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" executed config (file "warmup.cfg")
+L 02/19/2022 - 20:07:26: -------- Mapchange to de_inferno --------
+L 02/19/2022 - 20:07:27: [weapons.smx] Inactive players' data has been deleted
+L 02/19/2022 - 20:28:50: -------- Mapchange to de_inferno --------
+L 02/19/2022 - 20:28:51: [weapons.smx] Inactive players' data has been deleted
+L 02/19/2022 - 20:38:46: SourceMod log file session started (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20220219.log") (Version "1.10.0.6528")
+L 02/19/2022 - 20:38:46: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 02/19/2022 - 20:39:42: -------- Mapchange to de_inferno --------
+L 02/19/2022 - 20:39:43: [weapons.smx] SQLite DB connection successful
+L 02/19/2022 - 20:39:43: [weapons.smx] Inactive players' data has been deleted
+L 02/19/2022 - 20:39:43: [weapons.smx] SQLite DB connection successful
+L 02/19/2022 - 20:39:43: [weapons.smx] SQLite DB connection successful
+L 02/19/2022 - 20:39:43: [weapons.smx] Inactive players' data has been deleted
+L 02/19/2022 - 20:39:43: [weapons.smx] Inactive players' data has been deleted
+L 02/19/2022 - 20:40:42: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" changed map to "de_mirage"
+L 02/19/2022 - 20:40:45: [SM] Changed map to "de_mirage"
+L 02/19/2022 - 20:40:45: -------- Mapchange to de_mirage --------
+L 02/19/2022 - 20:40:46: [weapons.smx] Inactive players' data has been deleted
+L 02/19/2022 - 20:42:18: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" executed config (file "warmup.cfg")
+L 02/19/2022 - 20:42:25: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" executed config (file "sourcemod/trainning_on.cfg")
+L 02/19/2022 - 20:51:45: [basebans.smx] "Anna™<3><STEAM_1:1:440325470><>" banned "Doctor_Kill<4><STEAM_1:1:449410996><>" (minutes "30") (reason "Racism")
+L 02/19/2022 - 21:05:36: [basebans.smx] "Anna™<3><STEAM_1:1:440325470><>" banned "cashcashcash<13><STEAM_1:1:121788661><>" (minutes "30") (reason "Abusive")

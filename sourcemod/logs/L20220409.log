@@ -1,0 +1,53 @@
+L 04/09/2022 - 00:20:39: SourceMod log file session started (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20220409.log") (Version "1.10.0.6528")
+L 04/09/2022 - 00:20:39: [weapons.smx] Inactive players' data has been deleted
+L 04/09/2022 - 00:22:31: -------- Mapchange to de_mirage --------
+L 04/09/2022 - 00:22:31: [weapons.smx] Inactive players' data has been deleted
+L 04/09/2022 - 00:56:32: [basecommands.smx] "✪ mdj<7><STEAM_1:1:16841864><>" changed map to "de_vertigo"
+L 04/09/2022 - 00:56:35: [SM] Changed map to "de_vertigo"
+L 04/09/2022 - 00:56:35: -------- Mapchange to de_vertigo --------
+L 04/09/2022 - 00:56:36: [weapons.smx] Inactive players' data has been deleted
+L 04/09/2022 - 15:23:47: SourceMod log file session started (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20220409.log") (Version "1.10.0.6528")
+L 04/09/2022 - 15:23:47: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2022 - 15:24:28: -------- Mapchange to de_inferno --------
+L 04/09/2022 - 15:24:29: [weapons.smx] SQLite DB connection successful
+L 04/09/2022 - 15:24:29: [weapons.smx] Inactive players' data has been deleted
+L 04/09/2022 - 15:24:29: [weapons.smx] SQLite DB connection successful
+L 04/09/2022 - 15:24:29: [weapons.smx] SQLite DB connection successful
+L 04/09/2022 - 15:24:30: [weapons.smx] Inactive players' data has been deleted
+L 04/09/2022 - 15:24:30: [weapons.smx] Inactive players' data has been deleted
+L 04/09/2022 - 15:29:13: [basecommands.smx] "✪ mdj<3><STEAM_1:1:16841864><>" kicked "ais<4><STEAM_1:0:562767870><>" (reason "")
+L 04/09/2022 - 15:29:43: [basecommands.smx] "✪ mdj<3><STEAM_1:1:16841864><>" executed config (file "sourcemod/trainning_on.cfg")
+L 04/09/2022 - 15:29:50: [basecommands.smx] "quim<2><STEAM_1:0:212202033><>" executed config (file "sourcemod/retakes_on.cfg")
+L 04/09/2022 - 15:30:01: [basecommands.smx] "✪ mdj<3><STEAM_1:1:16841864><>" executed config (file "sourcemod/retakes_off.cfg")
+L 04/09/2022 - 15:40:23: [basecommands.smx] "quim<2><STEAM_1:0:212202033><>" executed config (file "sourcemod/trainning_off.cfg")
+L 04/09/2022 - 15:40:24: [basecommands.smx] "✪ mdj<3><STEAM_1:1:16841864><>" executed config (file "sourcemod/trainning_off.cfg")
+L 04/09/2022 - 15:40:32: [basecommands.smx] "quim<2><STEAM_1:0:212202033><>" executed config (file "sourcemod/retakes_on.cfg")
+L 04/09/2022 - 15:41:55: [basecommands.smx] "✪ mdj<3><STEAM_1:1:16841864><>" console command (cmdline "mp_restartgame 1")
+L 04/09/2022 - 16:13:57: [basecommands.smx] "✪ mdj<3><STEAM_1:1:16841864><>" kicked "Pix Da Silva Júnior<5><STEAM_1:1:234221311><>" (reason "")
+L 04/09/2022 - 16:14:23: -------- Mapchange to de_train --------
+L 04/09/2022 - 16:14:24: [weapons.smx] Inactive players' data has been deleted
+L 04/09/2022 - 16:18:12: [movecommands.smx] "✪ mdj<3><STEAM_1:1:16841864><>" was moved to Spec by "fvj<12><STEAM_1:1:454172526><>"
+L 04/09/2022 - 16:18:51: [movecommands.smx] "quim<2><STEAM_1:0:212202033><>" was moved to Spec by "fvj<12><STEAM_1:1:454172526><>"
+L 04/09/2022 - 16:41:54: SourceMod log file session started (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20220409.log") (Version "1.10.0.6528")
+L 04/09/2022 - 16:41:54: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2022 - 16:48:10: SourceMod log file session started (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20220409.log") (Version "1.10.0.6528")
+L 04/09/2022 - 16:48:10: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2022 - 16:49:09: -------- Mapchange to de_inferno --------
+L 04/09/2022 - 16:49:10: [weapons.smx] SQLite DB connection successful
+L 04/09/2022 - 16:49:10: [weapons.smx] Inactive players' data has been deleted
+L 04/09/2022 - 16:49:10: [weapons.smx] SQLite DB connection successful
+L 04/09/2022 - 16:49:10: [weapons.smx] SQLite DB connection successful
+L 04/09/2022 - 16:49:10: [weapons.smx] Inactive players' data has been deleted
+L 04/09/2022 - 16:49:10: [weapons.smx] Inactive players' data has been deleted
+L 04/09/2022 - 16:51:07: SourceMod log file session started (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20220409.log") (Version "1.10.0.6528")
+L 04/09/2022 - 16:51:07: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 04/09/2022 - 16:51:12: -------- Mapchange to de_inferno --------
+L 04/09/2022 - 16:51:13: [weapons.smx] SQLite DB connection successful
+L 04/09/2022 - 16:51:13: [weapons.smx] Inactive players' data has been deleted
+L 04/09/2022 - 16:56:23: [basecommands.smx] "quim<5><STEAM_1:0:212202033><>" executed config (file "sourcemod/retakes_on.cfg")
+L 04/09/2022 - 16:59:37: [playercommands.smx] "✪ mdj<6><STEAM_1:1:16841864><>" slapped "fvj<4><STEAM_1:1:454172526><>" (damage "0")
+L 04/09/2022 - 16:59:38: [playercommands.smx] "✪ mdj<6><STEAM_1:1:16841864><>" slapped "fvj<4><STEAM_1:1:454172526><>" (damage "0")
+L 04/09/2022 - 16:59:38: [playercommands.smx] "✪ mdj<6><STEAM_1:1:16841864><>" slapped "fvj<4><STEAM_1:1:454172526><>" (damage "0")
+L 04/09/2022 - 16:59:38: [playercommands.smx] "✪ mdj<6><STEAM_1:1:16841864><>" slapped "fvj<4><STEAM_1:1:454172526><>" (damage "0")
+L 04/09/2022 - 16:59:38: [playercommands.smx] "✪ mdj<6><STEAM_1:1:16841864><>" slapped "fvj<4><STEAM_1:1:454172526><>" (damage "0")
+L 04/09/2022 - 17:00:53: [basecommands.smx] "✪ mdj<6><STEAM_1:1:16841864><>" executed config (file "sourcemod/retake_pistol.cfg")

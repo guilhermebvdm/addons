@@ -1,0 +1,22 @@
+L 01/10/2022 - 21:58:39: SourceMod log file session started (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20220110.log") (Version "1.10.0.6528")
+L 01/10/2022 - 21:58:39: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 01/10/2022 - 21:59:47: SourceMod log file session started (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20220110.log") (Version "1.10.0.6528")
+L 01/10/2022 - 21:59:47: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 01/10/2022 - 22:00:16: -------- Mapchange to de_ancient --------
+L 01/10/2022 - 22:00:17: [weapons.smx] Inactive players' data has been deleted
+L 01/10/2022 - 22:00:17: [weapons.smx] SQLite DB connection successful
+L 01/10/2022 - 22:00:17: [weapons.smx] Inactive players' data has been deleted
+L 01/10/2022 - 22:00:55: SourceMod log file session started (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20220110.log") (Version "1.10.0.6528")
+L 01/10/2022 - 22:00:55: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 01/10/2022 - 22:01:02: -------- Mapchange to de_ancient --------
+L 01/10/2022 - 22:01:03: [weapons.smx] SQLite DB connection successful
+L 01/10/2022 - 22:01:03: [weapons.smx] Inactive players' data has been deleted
+L 01/10/2022 - 22:01:03: [weapons.smx] SQLite DB connection successful
+L 01/10/2022 - 22:01:03: [weapons.smx] SQLite DB connection successful
+L 01/10/2022 - 22:01:04: [weapons.smx] Inactive players' data has been deleted
+L 01/10/2022 - 22:01:04: [weapons.smx] Inactive players' data has been deleted
+L 01/10/2022 - 22:06:37: [basecommands.smx] "cdr<8><STEAM_1:1:81467303><>" changed map to "de_mirage"
+L 01/10/2022 - 22:06:40: [SM] Changed map to "de_mirage"
+L 01/10/2022 - 22:06:41: -------- Mapchange to de_mirage --------
+L 01/10/2022 - 22:06:42: [weapons.smx] Inactive players' data has been deleted
+L 01/10/2022 - 22:46:15: [playercommands.smx] "cdr<8><STEAM_1:1:81467303><>" slapped "edw<9><STEAM_1:0:82339169><>" (damage "0")

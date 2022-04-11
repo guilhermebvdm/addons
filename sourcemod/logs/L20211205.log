@@ -1,0 +1,224 @@
+L 12/05/2021 - 00:00:54: SourceMod log file session started (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20211205.log") (Version "1.10.0.6528")
+L 12/05/2021 - 00:00:54: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" console command (cmdline "sv_cheats 1")
+L 12/05/2021 - 00:14:34: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/05/2021 - 00:15:39: SourceMod log file session started (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20211205.log") (Version "1.10.0.6528")
+L 12/05/2021 - 00:15:39: -------- Mapchange to de_ancient --------
+L 12/05/2021 - 00:15:40: [weapons.smx] SQLite DB connection successful
+L 12/05/2021 - 00:15:40: [weapons.smx] Inactive players' data has been deleted
+L 12/05/2021 - 00:16:19: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" executed config (file "sourcemod/retakes_on.cfg")
+L 12/05/2021 - 00:23:59: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" executed config (file "ff_on.cfg")
+L 12/05/2021 - 00:49:41: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/05/2021 - 00:50:11: [SM] Changed map to "de_dust"
+L 12/05/2021 - 00:50:13: -------- Mapchange to de_dust2 --------
+L 12/05/2021 - 00:50:18: [weapons.smx] Inactive players' data has been deleted
+L 12/05/2021 - 01:02:45: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" executed config (file "ff_on.cfg")
+L 12/05/2021 - 01:17:42: [playercommands.smx] "cdr<3><STEAM_1:1:81467303><>" slapped "quim-<2><STEAM_1:0:212202033><>" (damage "0")
+L 12/05/2021 - 01:17:42: [playercommands.smx] "cdr<3><STEAM_1:1:81467303><>" slapped "quim-<2><STEAM_1:0:212202033><>" (damage "0")
+L 12/05/2021 - 01:17:42: [playercommands.smx] "cdr<3><STEAM_1:1:81467303><>" slapped "quim-<2><STEAM_1:0:212202033><>" (damage "0")
+L 12/05/2021 - 01:17:42: [playercommands.smx] "cdr<3><STEAM_1:1:81467303><>" slapped "quim-<2><STEAM_1:0:212202033><>" (damage "0")
+L 12/05/2021 - 01:17:42: [playercommands.smx] "cdr<3><STEAM_1:1:81467303><>" slapped "quim-<2><STEAM_1:0:212202033><>" (damage "0")
+L 12/05/2021 - 01:17:42: [playercommands.smx] "cdr<3><STEAM_1:1:81467303><>" slapped "quim-<2><STEAM_1:0:212202033><>" (damage "0")
+L 12/05/2021 - 01:17:43: [playercommands.smx] "cdr<3><STEAM_1:1:81467303><>" slapped "quim-<2><STEAM_1:0:212202033><>" (damage "0")
+L 12/05/2021 - 01:17:43: [playercommands.smx] "cdr<3><STEAM_1:1:81467303><>" slapped "quim-<2><STEAM_1:0:212202033><>" (damage "0")
+L 12/05/2021 - 01:17:43: [playercommands.smx] "cdr<3><STEAM_1:1:81467303><>" slapped "quim-<2><STEAM_1:0:212202033><>" (damage "0")
+L 12/05/2021 - 01:17:43: [playercommands.smx] "cdr<3><STEAM_1:1:81467303><>" slapped "quim-<2><STEAM_1:0:212202033><>" (damage "0")
+L 12/05/2021 - 01:17:43: [playercommands.smx] "cdr<3><STEAM_1:1:81467303><>" slapped "quim-<2><STEAM_1:0:212202033><>" (damage "0")
+L 12/05/2021 - 01:22:24: [playercommands.smx] "cdr<3><STEAM_1:1:81467303><>" slapped "quim-<2><STEAM_1:0:212202033><>" (damage "0")
+L 12/05/2021 - 01:22:26: [playercommands.smx] "cdr<3><STEAM_1:1:81467303><>" slapped "quim-<2><STEAM_1:0:212202033><>" (damage "0")
+L 12/05/2021 - 01:22:26: [playercommands.smx] "cdr<3><STEAM_1:1:81467303><>" slapped "quim-<2><STEAM_1:0:212202033><>" (damage "0")
+L 12/05/2021 - 01:22:26: [playercommands.smx] "cdr<3><STEAM_1:1:81467303><>" slapped "quim-<2><STEAM_1:0:212202033><>" (damage "0")
+L 12/05/2021 - 01:22:26: [playercommands.smx] "cdr<3><STEAM_1:1:81467303><>" slapped "quim-<2><STEAM_1:0:212202033><>" (damage "0")
+L 12/05/2021 - 01:22:27: [playercommands.smx] "cdr<3><STEAM_1:1:81467303><>" slapped "quim-<2><STEAM_1:0:212202033><>" (damage "0")
+L 12/05/2021 - 01:22:27: [playercommands.smx] "cdr<3><STEAM_1:1:81467303><>" slapped "quim-<2><STEAM_1:0:212202033><>" (damage "0")
+L 12/05/2021 - 01:22:27: [playercommands.smx] "cdr<3><STEAM_1:1:81467303><>" slapped "quim-<2><STEAM_1:0:212202033><>" (damage "0")
+L 12/05/2021 - 01:22:27: [playercommands.smx] "cdr<3><STEAM_1:1:81467303><>" slapped "quim-<2><STEAM_1:0:212202033><>" (damage "0")
+L 12/05/2021 - 01:22:27: [playercommands.smx] "cdr<3><STEAM_1:1:81467303><>" slapped "quim-<2><STEAM_1:0:212202033><>" (damage "0")
+L 12/05/2021 - 01:22:27: [playercommands.smx] "cdr<3><STEAM_1:1:81467303><>" slapped "quim-<2><STEAM_1:0:212202033><>" (damage "0")
+L 12/05/2021 - 01:22:27: [playercommands.smx] "cdr<3><STEAM_1:1:81467303><>" slapped "quim-<2><STEAM_1:0:212202033><>" (damage "0")
+L 12/05/2021 - 01:22:27: [playercommands.smx] "cdr<3><STEAM_1:1:81467303><>" slapped "quim-<2><STEAM_1:0:212202033><>" (damage "0")
+L 12/05/2021 - 01:24:15: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/05/2021 - 01:28:32: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" console command (cmdline "host_timescale 10")
+L 12/05/2021 - 01:28:34: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" console command (cmdline "host_timescale 1")
+L 12/05/2021 - 01:28:37: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" console command (cmdline "sv_rethrow_last_grenade")
+L 12/05/2021 - 01:28:38: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" console command (cmdline "sv_rethrow_last_grenade")
+L 12/05/2021 - 01:28:39: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" console command (cmdline "host_timescale 10")
+L 12/05/2021 - 01:28:39: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" console command (cmdline "host_timescale 1")
+L 12/05/2021 - 01:28:40: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" console command (cmdline "host_timescale 10")
+L 12/05/2021 - 01:28:40: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" console command (cmdline "sv_rethrow_last_grenade")
+L 12/05/2021 - 01:28:40: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" console command (cmdline "host_timescale 10")
+L 12/05/2021 - 01:28:40: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" console command (cmdline "host_timescale 1")
+L 12/05/2021 - 01:36:18: [playercommands.smx] "cdr<3><STEAM_1:1:81467303><>" slapped "AliSeMpeek™<5><STEAM_1:1:440325470><>" (damage "0")
+L 12/05/2021 - 01:36:18: [playercommands.smx] "cdr<3><STEAM_1:1:81467303><>" slapped "AliSeMpeek™<5><STEAM_1:1:440325470><>" (damage "0")
+L 12/05/2021 - 01:36:19: [playercommands.smx] "cdr<3><STEAM_1:1:81467303><>" slapped "AliSeMpeek™<5><STEAM_1:1:440325470><>" (damage "0")
+L 12/05/2021 - 01:36:19: [playercommands.smx] "cdr<3><STEAM_1:1:81467303><>" slapped "AliSeMpeek™<5><STEAM_1:1:440325470><>" (damage "0")
+L 12/05/2021 - 01:41:27: [playercommands.smx] "cdr<3><STEAM_1:1:81467303><>" slapped "quim-<2><STEAM_1:0:212202033><>" (damage "0")
+L 12/05/2021 - 01:58:21: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/05/2021 - 01:58:51: [SM] Changed map to "de_dust"
+L 12/05/2021 - 01:58:53: -------- Mapchange to de_dust2 --------
+L 12/05/2021 - 01:58:59: [weapons.smx] Inactive players' data has been deleted
+L 12/05/2021 - 01:59:13: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" changed map to "de_nuke"
+L 12/05/2021 - 01:59:16: [SM] Changed map to "de_nuke"
+L 12/05/2021 - 01:59:18: -------- Mapchange to de_nuke --------
+L 12/05/2021 - 01:59:22: [weapons.smx] Inactive players' data has been deleted
+L 12/05/2021 - 02:04:09: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/05/2021 - 02:04:41: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" executed config (file "sourcemod/retakes_on.cfg")
+L 12/05/2021 - 02:04:43: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" executed config (file "sourcemod/retakes_off.cfg")
+L 12/05/2021 - 02:04:45: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" executed config (file "sourcemod/retakes_on.cfg")
+L 12/05/2021 - 02:38:02: [SM] Changed map to "de_dust"
+L 12/05/2021 - 02:38:04: -------- Mapchange to de_dust2 --------
+L 12/05/2021 - 02:38:08: [weapons.smx] Inactive players' data has been deleted
+L 12/05/2021 - 03:18:49: SourceMod log file session started (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20211205.log") (Version "1.10.0.6528")
+L 12/05/2021 - 03:18:49: -------- Mapchange to de_ancient --------
+L 12/05/2021 - 03:18:53: [weapons.smx] Inactive players' data has been deleted
+L 12/05/2021 - 03:18:53: [weapons.smx] SQLite DB connection successful
+L 12/05/2021 - 03:18:53: [weapons.smx] Inactive players' data has been deleted
+L 12/05/2021 - 03:19:12: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" executed config (file "sourcemod/retakes_on.cfg")
+L 12/05/2021 - 03:19:48: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" executed config (file "sourcemod/retake_guns.cfg")
+L 12/05/2021 - 03:19:50: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/05/2021 - 03:24:06: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/05/2021 - 03:24:56: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "sv_grenade_trajectory 1")
+L 12/05/2021 - 03:25:02: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "sv_cheats 1")
+L 12/05/2021 - 03:25:03: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "sv_grenade_trajectory 1")
+L 12/05/2021 - 03:27:49: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" executed config (file "sourcemod/retakes_off.cfg")
+L 12/05/2021 - 03:28:02: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" executed config (file "trainning_on.cfg")
+L 12/05/2021 - 03:32:52: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "thirdperson_lockcamera 1")
+L 12/05/2021 - 03:33:34: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "thirdperson_lockcamera 0")
+L 12/05/2021 - 03:52:05: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/05/2021 - 03:53:50: Log file closed.
+L 12/05/2021 - 12:09:32: SourceMod log file session started (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20211205.log") (Version "1.10.0.6528")
+L 12/05/2021 - 12:09:32: -------- Mapchange to de_ancient --------
+L 12/05/2021 - 12:09:36: [weapons.smx] Inactive players' data has been deleted
+L 12/05/2021 - 12:09:37: [weapons.smx] SQLite DB connection successful
+L 12/05/2021 - 12:09:37: [weapons.smx] Inactive players' data has been deleted
+L 12/05/2021 - 12:13:02: SourceMod log file session started (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20211205.log") (Version "1.10.0.6528")
+L 12/05/2021 - 12:13:02: -------- Mapchange to de_ancient --------
+L 12/05/2021 - 12:13:06: [weapons.smx] Inactive players' data has been deleted
+L 12/05/2021 - 12:13:07: [weapons.smx] SQLite DB connection successful
+L 12/05/2021 - 12:13:07: [weapons.smx] Inactive players' data has been deleted
+L 12/05/2021 - 12:15:40: SourceMod log file session started (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20211205.log") (Version "1.10.0.6528")
+L 12/05/2021 - 12:15:40: -------- Mapchange to de_ancient --------
+L 12/05/2021 - 12:15:44: [weapons.smx] Inactive players' data has been deleted
+L 12/05/2021 - 12:15:45: [weapons.smx] SQLite DB connection successful
+L 12/05/2021 - 12:15:45: [weapons.smx] Inactive players' data has been deleted
+L 12/05/2021 - 12:31:35: SourceMod log file session started (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20211205.log") (Version "1.10.0.6528")
+L 12/05/2021 - 12:31:35: -------- Mapchange to de_ancient --------
+L 12/05/2021 - 12:31:35: [weapons.smx] Inactive players' data has been deleted
+L 12/05/2021 - 12:31:35: [weapons.smx] SQLite DB connection successful
+L 12/05/2021 - 12:31:35: [weapons.smx] Inactive players' data has been deleted
+L 12/05/2021 - 12:41:14: SourceMod log file session started (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20211205.log") (Version "1.10.0.6528")
+L 12/05/2021 - 12:41:14: -------- Mapchange to de_ancient --------
+L 12/05/2021 - 12:41:14: [weapons.smx] Inactive players' data has been deleted
+L 12/05/2021 - 12:41:15: [weapons.smx] SQLite DB connection successful
+L 12/05/2021 - 12:41:15: [weapons.smx] Inactive players' data has been deleted
+L 12/05/2021 - 12:41:54: [funcommands.smx] "cdr<2><STEAM_1:1:81467303><>" set blind on "cdr<2><STEAM_1:1:81467303><>" (amount "240")
+L 12/05/2021 - 12:42:02: [funcommands.smx] "cdr<2><STEAM_1:1:81467303><>" set blind on "cdr<2><STEAM_1:1:81467303><>" (amount "0")
+L 12/05/2021 - 12:42:30: [funvotes.smx] "cdr<2><STEAM_1:1:81467303><>" initiated a friendly fire vote.
+L 12/05/2021 - 12:42:32: [funvotes.smx] Changing friendly fire to 0 due to vote.
+L 12/05/2021 - 12:48:44: SourceMod log file session started (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20211205.log") (Version "1.10.0.6528")
+L 12/05/2021 - 12:48:44: -------- Mapchange to de_ancient --------
+L 12/05/2021 - 12:48:45: [weapons.smx] Inactive players' data has been deleted
+L 12/05/2021 - 12:48:45: [weapons.smx] SQLite DB connection successful
+L 12/05/2021 - 12:48:45: [weapons.smx] Inactive players' data has been deleted
+L 12/05/2021 - 13:32:22: SourceMod log file session started (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20211205.log") (Version "1.10.0.6528")
+L 12/05/2021 - 13:32:22: -------- Mapchange to de_ancient --------
+L 12/05/2021 - 13:32:23: [weapons.smx] SQLite DB connection successful
+L 12/05/2021 - 13:32:23: [weapons.smx] Inactive players' data has been deleted
+L 12/05/2021 - 13:35:16: SourceMod log file session started (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20211205.log") (Version "1.10.0.6528")
+L 12/05/2021 - 13:35:16: -------- Mapchange to de_ancient --------
+L 12/05/2021 - 13:35:17: [weapons.smx] Inactive players' data has been deleted
+L 12/05/2021 - 13:35:17: [weapons.smx] SQLite DB connection successful
+L 12/05/2021 - 13:35:17: [weapons.smx] Inactive players' data has been deleted
+L 12/05/2021 - 13:39:32: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" executed config (file "trainning_on.cfg")
+L 12/05/2021 - 13:39:59: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "sv_rethrow_last_grenade")
+L 12/05/2021 - 14:01:07: SourceMod log file session started (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20211205.log") (Version "1.10.0.6528")
+L 12/05/2021 - 14:01:07: -------- Mapchange to de_ancient --------
+L 12/05/2021 - 14:01:07: [weapons.smx] Inactive players' data has been deleted
+L 12/05/2021 - 14:01:08: [weapons.smx] SQLite DB connection successful
+L 12/05/2021 - 14:01:08: [weapons.smx] Inactive players' data has been deleted
+L 12/05/2021 - 14:03:15: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" executed config (file "sourcemod/trainning_on.cfg")
+L 12/05/2021 - 14:04:41: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" executed config (file "sourcemod/trainning_off.cfg")
+L 12/05/2021 - 14:11:06: -------- Mapchange to de_ancient --------
+L 12/05/2021 - 14:11:06: [weapons.smx] Inactive players' data has been deleted
+L 12/05/2021 - 14:11:20: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" console command (cmdline "sv_rethrow_last_grenade")
+L 12/05/2021 - 14:11:22: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" console command (cmdline "sv_rethrow_last_grenade")
+L 12/05/2021 - 14:11:22: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" console command (cmdline "sv_rethrow_last_grenade")
+L 12/05/2021 - 14:11:25: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" executed config (file "sourcemod/trainning_on.cfg")
+L 12/05/2021 - 14:11:41: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" executed config (file "sourcemod/trainning_off.cfg")
+L 12/05/2021 - 14:11:48: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" executed config (file "sourcemod/trainning_on.cfg")
+L 12/05/2021 - 14:13:37: SourceMod log file session started (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20211205.log") (Version "1.10.0.6528")
+L 12/05/2021 - 14:13:37: -------- Mapchange to de_ancient --------
+L 12/05/2021 - 14:13:38: [weapons.smx] SQLite DB connection successful
+L 12/05/2021 - 14:13:38: [weapons.smx] Inactive players' data has been deleted
+L 12/05/2021 - 14:14:01: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" executed config (file "sourcemod/trainning_on.cfg")
+L 12/05/2021 - 14:20:34: SourceMod log file session started (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20211205.log") (Version "1.10.0.6528")
+L 12/05/2021 - 14:20:34: -------- Mapchange to de_ancient --------
+L 12/05/2021 - 14:20:34: [weapons.smx] Inactive players' data has been deleted
+L 12/05/2021 - 14:20:34: [weapons.smx] SQLite DB connection successful
+L 12/05/2021 - 14:20:35: [weapons.smx] Inactive players' data has been deleted
+L 12/05/2021 - 14:20:48: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" executed config (file "sourcemod/trainning_on.cfg")
+L 12/05/2021 - 14:29:07: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" executed config (file "sourcemod/trainning_on.cfg")
+L 12/05/2021 - 14:35:09: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "sv_rethrow_last_grenade")
+L 12/05/2021 - 14:35:13: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" executed config (file "sourcemod/trainning_on.cfg")
+L 12/05/2021 - 14:36:07: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" executed config (file "sourcemod/trainning_on.cfg")
+L 12/05/2021 - 14:40:45: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "host_timescale 10")
+L 12/05/2021 - 14:40:47: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "host_timescale 1")
+L 12/05/2021 - 14:47:27: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" executed config (file "sourcemod/trainning_off.cfg")
+L 12/05/2021 - 14:47:31: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" executed config (file "sourcemod/retakes_on.cfg")
+L 12/05/2021 - 15:21:45: -------- Mapchange to de_inferno --------
+L 12/05/2021 - 15:21:46: [weapons.smx] Inactive players' data has been deleted
+L 12/05/2021 - 15:25:46: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" executed config (file "sourcemod/retake_pistol.cfg")
+L 12/05/2021 - 15:25:47: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/05/2021 - 15:42:25: [movecommands.smx] "LUKINHAS<4><STEAM_1:0:23957147><>" was moved to Spec by "cdr<2><STEAM_1:1:81467303><>"
+L 12/05/2021 - 16:00:56: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/05/2021 - 16:01:25: -------- Mapchange to de_mirage --------
+L 12/05/2021 - 16:01:26: [weapons.smx] Inactive players' data has been deleted
+L 12/05/2021 - 16:42:52: SourceMod log file session started (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20211205.log") (Version "1.10.0.6528")
+L 12/05/2021 - 16:42:52: -------- Mapchange to de_ancient --------
+L 12/05/2021 - 16:42:54: [weapons.smx] SQLite DB connection successful
+L 12/05/2021 - 16:42:54: [weapons.smx] Inactive players' data has been deleted
+L 12/05/2021 - 16:43:31: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" executed config (file "sourcemod/retakes_on.cfg")
+L 12/05/2021 - 16:46:26: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" console command (cmdline "sv_cheats")
+L 12/05/2021 - 16:46:27: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" console command (cmdline "sv_cheats 1")
+L 12/05/2021 - 16:49:18: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" executed config (file "sourcemod/retakes_off.cfg")
+L 12/05/2021 - 16:49:49: SourceMod log file session started (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20211205.log") (Version "1.10.0.6528")
+L 12/05/2021 - 16:49:49: -------- Mapchange to de_ancient --------
+L 12/05/2021 - 16:49:51: [weapons.smx] SQLite DB connection successful
+L 12/05/2021 - 16:49:51: [weapons.smx] Inactive players' data has been deleted
+L 12/05/2021 - 16:50:08: [basecommands.smx] "cdr<4><STEAM_1:1:81467303><>" executed config (file "sourcemod/retakes_on.cfg")
+L 12/05/2021 - 16:50:31: [basecommands.smx] "cdr<4><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/05/2021 - 16:50:35: [basecommands.smx] "cdr<4><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/05/2021 - 16:50:37: [basecommands.smx] "cdr<4><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/05/2021 - 16:50:40: [basecommands.smx] "cdr<4><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/05/2021 - 16:50:43: [basecommands.smx] "cdr<4><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/05/2021 - 16:50:46: [basecommands.smx] "cdr<4><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/05/2021 - 16:50:48: [basecommands.smx] "cdr<4><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/05/2021 - 16:50:51: [basecommands.smx] "cdr<4><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/05/2021 - 16:50:54: [basecommands.smx] "cdr<4><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/05/2021 - 16:50:59: [basecommands.smx] "cdr<4><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/05/2021 - 16:51:01: [basecommands.smx] "cdr<4><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/05/2021 - 16:51:05: [basecommands.smx] "cdr<4><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/05/2021 - 16:51:08: [basecommands.smx] "cdr<4><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/05/2021 - 16:51:11: [basecommands.smx] "cdr<4><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/05/2021 - 16:51:13: [basecommands.smx] "cdr<4><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/05/2021 - 16:51:16: [basecommands.smx] "cdr<4><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/05/2021 - 16:51:19: [basecommands.smx] "cdr<4><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/05/2021 - 17:38:41: SourceMod log file session started (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20211205.log") (Version "1.10.0.6528")
+L 12/05/2021 - 17:38:41: -------- Mapchange to de_ancient --------
+L 12/05/2021 - 17:38:42: [weapons.smx] Inactive players' data has been deleted
+L 12/05/2021 - 17:38:42: [weapons.smx] SQLite DB connection successful
+L 12/05/2021 - 17:38:42: [weapons.smx] Inactive players' data has been deleted
+L 12/05/2021 - 17:41:43: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" refreshed the admin cache.
+L 12/05/2021 - 17:42:02: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/05/2021 - 17:43:59: SourceMod log file session started (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20211205.log") (Version "1.10.0.6528")
+L 12/05/2021 - 17:43:59: -------- Mapchange to de_ancient --------
+L 12/05/2021 - 17:44:00: [weapons.smx] Inactive players' data has been deleted
+L 12/05/2021 - 17:44:00: [weapons.smx] SQLite DB connection successful
+L 12/05/2021 - 17:44:00: [weapons.smx] Inactive players' data has been deleted
+L 12/05/2021 - 17:55:08: -------- Mapchange to de_ancient --------
+L 12/05/2021 - 17:55:09: [weapons.smx] Inactive players' data has been deleted
+L 12/05/2021 - 18:01:06: [movecommands.smx] "cdr<3><STEAM_1:1:81467303><>" was moved to CT by "cdr<3><STEAM_1:1:81467303><>"
+L 12/05/2021 - 18:01:08: [movecommands.smx] "cdr<3><STEAM_1:1:81467303><>" was moved to T by "cdr<3><STEAM_1:1:81467303><>"
+L 12/05/2021 - 18:30:27: SourceMod log file session started (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20211205.log") (Version "1.10.0.6528")
+L 12/05/2021 - 18:30:27: -------- Mapchange to de_ancient --------
+L 12/05/2021 - 18:30:28: [weapons.smx] SQLite DB connection successful
+L 12/05/2021 - 18:30:28: [weapons.smx] Inactive players' data has been deleted

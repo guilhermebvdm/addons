@@ -1,0 +1,30 @@
+L 01/22/2022 - 17:25:29: SourceMod log file session started (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20220122.log") (Version "1.10.0.6528")
+L 01/22/2022 - 17:25:29: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 01/22/2022 - 17:26:36: -------- Mapchange to de_inferno --------
+L 01/22/2022 - 17:26:38: [weapons.smx] SQLite DB connection successful
+L 01/22/2022 - 17:26:38: [weapons.smx] Inactive players' data has been deleted
+L 01/22/2022 - 17:27:51: SourceMod log file session started (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20220122.log") (Version "1.10.0.6528")
+L 01/22/2022 - 17:27:51: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 01/22/2022 - 17:27:56: -------- Mapchange to de_inferno --------
+L 01/22/2022 - 17:27:57: [weapons.smx] SQLite DB connection successful
+L 01/22/2022 - 17:27:57: [weapons.smx] Inactive players' data has been deleted
+L 01/22/2022 - 17:29:13: [basecommands.smx] "mrl<2><STEAM_1:0:82339169><>" executed config (file "sourcemod/retakes_on.cfg")
+L 01/22/2022 - 18:02:50: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" changed map to "de_mirage"
+L 01/22/2022 - 18:02:53: [SM] Changed map to "de_mirage"
+L 01/22/2022 - 18:02:54: -------- Mapchange to de_mirage --------
+L 01/22/2022 - 18:02:55: [weapons.smx] Inactive players' data has been deleted
+L 01/22/2022 - 22:18:53: SourceMod log file session started (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20220122.log") (Version "1.10.0.6528")
+L 01/22/2022 - 22:18:53: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 01/22/2022 - 22:19:05: -------- Mapchange to de_inferno --------
+L 01/22/2022 - 22:19:06: [weapons.smx] SQLite DB connection successful
+L 01/22/2022 - 22:19:06: [weapons.smx] Inactive players' data has been deleted
+L 01/22/2022 - 22:24:23: [basecommands.smx] "cdr<9><STEAM_1:1:81467303><>" changed map to "de_mirage"
+L 01/22/2022 - 22:24:26: [SM] Changed map to "de_mirage"
+L 01/22/2022 - 22:24:27: -------- Mapchange to de_mirage --------
+L 01/22/2022 - 22:24:28: [weapons.smx] Inactive players' data has been deleted
+L 01/22/2022 - 22:29:31: [basecommands.smx] "cdr<9><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 01/22/2022 - 23:27:15: [basecommands.smx] "PEPE<4><STEAM_1:0:212202033><>" executed config (file "sourcemod/retakes_on.cfg")
+L 01/22/2022 - 23:28:09: [basecommands.smx] "PEPE<4><STEAM_1:0:212202033><>" executed config (file "sourcemod/retakes_off.cfg")
+L 01/22/2022 - 23:28:14: [basecommands.smx] "PEPE<4><STEAM_1:0:212202033><>" executed config (file "sourcemod/retakes_on.cfg")
+L 01/22/2022 - 23:42:28: [basecommands.smx] "PEPE<4><STEAM_1:0:212202033><>" kicked "PEPE<4><STEAM_1:0:212202033><>" (reason "")
+L 01/23/2022 - 00:04:21: Log file closed.

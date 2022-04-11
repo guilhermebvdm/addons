@@ -1,0 +1,28 @@
+L 01/15/2022 - 00:25:12: SourceMod error session started
+L 01/15/2022 - 00:25:12: Info (map "de_inferno") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20220115.log")
+L 01/15/2022 - 00:25:12: [pugsetup.smx] GOTV demo could not be recorded since tv_enable is not set to 1
+L 01/15/2022 - 01:43:21: [SM] Exception reported: Invalid edict (3611 - -1608249829)
+L 01/15/2022 - 01:43:21: [SM] Blaming: disabled\nadetails.smx
+L 01/15/2022 - 01:43:21: [SM] Call stack trace:
+L 01/15/2022 - 01:43:21: [SM]   [0] GetEdictClassname
+L 01/15/2022 - 01:43:21: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned
+L 01/15/2022 - 01:43:21: [SM] Exception reported: Invalid edict (3612 - -728691172)
+L 01/15/2022 - 01:43:21: [SM] Blaming: disabled\nadetails.smx
+L 01/15/2022 - 01:43:21: [SM] Call stack trace:
+L 01/15/2022 - 01:43:21: [SM]   [0] GetEdictClassname
+L 01/15/2022 - 01:43:21: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned
+L 01/15/2022 - 01:43:21: [SM] Exception reported: Invalid edict (3613 - -1748759011)
+L 01/15/2022 - 01:43:21: [SM] Blaming: disabled\nadetails.smx
+L 01/15/2022 - 01:43:21: [SM] Call stack trace:
+L 01/15/2022 - 01:43:21: [SM]   [0] GetEdictClassname
+L 01/15/2022 - 01:43:21: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned
+L 01/15/2022 - 01:43:21: [SM] Exception reported: Invalid edict (3614 - -2009526754)
+L 01/15/2022 - 01:43:21: [SM] Blaming: disabled\nadetails.smx
+L 01/15/2022 - 01:43:21: [SM] Call stack trace:
+L 01/15/2022 - 01:43:21: [SM]   [0] GetEdictClassname
+L 01/15/2022 - 01:43:21: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned
+L 01/15/2022 - 01:43:21: [SM] Exception reported: Invalid edict (3615 - -1283781089)
+L 01/15/2022 - 01:43:21: [SM] Blaming: disabled\nadetails.smx
+L 01/15/2022 - 01:43:21: [SM] Call stack trace:
+L 01/15/2022 - 01:43:21: [SM]   [0] GetEdictClassname
+L 01/15/2022 - 01:43:21: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned

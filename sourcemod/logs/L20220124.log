@@ -1,0 +1,29 @@
+L 01/24/2022 - 21:14:38: SourceMod log file session started (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20220124.log") (Version "1.10.0.6528")
+L 01/24/2022 - 21:14:38: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 01/24/2022 - 21:15:54: -------- Mapchange to de_inferno --------
+L 01/24/2022 - 21:15:54: [weapons.smx] Inactive players' data has been deleted
+L 01/24/2022 - 21:15:55: [weapons.smx] SQLite DB connection successful
+L 01/24/2022 - 21:15:55: [weapons.smx] Inactive players' data has been deleted
+L 01/24/2022 - 21:16:27: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" executed config (file "sourcemod/retakes_on.cfg")
+L 01/24/2022 - 21:17:48: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 01/24/2022 - 21:20:17: [playercommands.smx] "cdr<3><STEAM_1:1:81467303><>" slayed "mrl<4><STEAM_1:0:82339169><>"
+L 01/24/2022 - 21:20:28: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" kicked "th0mwz<7><STEAM_1:0:638765816><>" (reason "")
+L 01/24/2022 - 21:29:32: [playercommands.smx] "cdr<3><STEAM_1:1:81467303><>" renamed "avtomat kalashnikov<8><STEAM_1:1:175963442><>" (to "hnmakaaikhvnsotanvo")
+L 01/24/2022 - 21:29:34: [playercommands.smx] "cdr<3><STEAM_1:1:81467303><>" renamed "hnmakaaikhvnsotanvo<8><STEAM_1:1:175963442><>" (to "ianvithananvhnaanoo")
+L 01/24/2022 - 21:29:35: [playercommands.smx] "cdr<3><STEAM_1:1:81467303><>" renamed "ianvithananvhnaanoo<8><STEAM_1:1:175963442><>" (to "atantnvathhnaaaiaio")
+L 01/24/2022 - 21:29:35: [playercommands.smx] "cdr<3><STEAM_1:1:81467303><>" renamed "atantnvathhnaaaiaio<8><STEAM_1:1:175963442><>" (to "hnavaiantoiaiioitaa")
+L 01/24/2022 - 21:29:36: [playercommands.smx] "cdr<3><STEAM_1:1:81467303><>" renamed "hnavaiantoiaiioitaa<8><STEAM_1:1:175963442><>" (to "hiathihhtntniaatoia")
+L 01/24/2022 - 21:29:37: [playercommands.smx] "cdr<3><STEAM_1:1:81467303><>" renamed "hiathihhtntniaatoia<8><STEAM_1:1:175963442><>" (to "tiihihiittiinhiohit")
+L 01/24/2022 - 21:29:37: [playercommands.smx] "cdr<3><STEAM_1:1:81467303><>" renamed "tiihihiittiinhiohit<8><STEAM_1:1:175963442><>" (to "httintinhiiothihiii")
+L 01/24/2022 - 21:29:38: [playercommands.smx] "cdr<3><STEAM_1:1:81467303><>" renamed "httintinhiiothihiii<8><STEAM_1:1:175963442><>" (to "ihnhinitoihhiihtiih")
+L 01/24/2022 - 21:29:39: [playercommands.smx] "cdr<3><STEAM_1:1:81467303><>" renamed "ihnhinitoihhiihtiih<8><STEAM_1:1:175963442><>" (to "hithtinhinhotnthnti")
+L 01/24/2022 - 21:29:39: [playercommands.smx] "cdr<3><STEAM_1:1:81467303><>" renamed "hithtinhinhotnthnti<8><STEAM_1:1:175963442><>" (to "ihthinnnhthinthnhnn")
+L 01/24/2022 - 21:35:40: [basecommands.smx] "mrl<4><STEAM_1:0:82339169><>" kicked "th0mwz<10><STEAM_1:0:638765816><>" (reason "")
+L 01/24/2022 - 21:35:41: [basecommands.smx] "mrl<4><STEAM_1:0:82339169><>" kicked "ihthinnnhthinthnhnn<8><STEAM_1:1:175963442><>" (reason "")
+L 01/24/2022 - 21:35:42: [basecommands.smx] "mrl<4><STEAM_1:0:82339169><>" kicked "vsr.dll<9><STEAM_1:0:456281526><>" (reason "")
+L 01/24/2022 - 21:36:16: [basebans.smx] "cdr<3><STEAM_1:1:81467303><>" banned "th0mwz<15><STEAM_1:0:638765816><>" (minutes "0") (reason "Aimbot")
+L 01/24/2022 - 21:36:26: [basebans.smx] "cdr<3><STEAM_1:1:81467303><>" banned "vsr.dll<16><STEAM_1:0:456281526><>" (minutes "0") (reason "Aimbot")
+L 01/24/2022 - 21:36:36: [basebans.smx] "cdr<3><STEAM_1:1:81467303><>" banned "avtomat kalashnikov<17><STEAM_1:1:175963442><>" (minutes "0") (reason "Aimbot")
+L 01/24/2022 - 21:40:00: [basecommands.smx] "fvj<6><STEAM_1:1:454172526><>" kicked "wanted<14><STEAM_1:0:608511464><>" (reason "")
+L 01/24/2022 - 21:41:28: [basecommands.smx] "fvj<6><STEAM_1:1:454172526><>" kicked "Turo<12><STEAM_1:1:449441376><>" (reason "")
+L 01/24/2022 - 21:41:35: [basecommands.smx] "fvj<6><STEAM_1:1:454172526><>" kicked "wanted<18><STEAM_1:0:608511464><>" (reason "")

@@ -1,0 +1,29 @@
+L 12/11/2021 - 22:17:39: SourceMod log file session started (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20211211.log") (Version "1.10.0.6528")
+L 12/11/2021 - 22:17:39: -------- Mapchange to de_ancient --------
+L 12/11/2021 - 22:17:40: [weapons.smx] Inactive players' data has been deleted
+L 12/11/2021 - 22:17:40: [weapons.smx] SQLite DB connection successful
+L 12/11/2021 - 22:17:41: [weapons.smx] Inactive players' data has been deleted
+L 12/11/2021 - 22:21:20: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/11/2021 - 22:21:31: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/11/2021 - 22:21:37: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" executed config (file "sourcemod/retakes_on.cfg")
+L 12/11/2021 - 22:27:57: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" executed config (file "sourcemod/emote_on.cfg")
+L 12/11/2021 - 22:53:13: SourceMod log file session started (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20211211.log") (Version "1.10.0.6528")
+L 12/11/2021 - 22:53:13: -------- Mapchange to de_ancient --------
+L 12/11/2021 - 22:53:14: [weapons.smx] SQLite DB connection successful
+L 12/11/2021 - 22:53:14: [weapons.smx] Inactive players' data has been deleted
+L 12/11/2021 - 22:53:21: -------- Mapchange to de_mirage --------
+L 12/11/2021 - 22:53:22: [weapons.smx] Inactive players' data has been deleted
+L 12/11/2021 - 22:55:20: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" executed config (file "sourcemod/retakes_on.cfg")
+L 12/11/2021 - 22:58:18: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" executed config (file "sourcemod/retakes_off.cfg")
+L 12/11/2021 - 22:58:22: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" executed config (file "warmup.cfg")
+L 12/11/2021 - 22:58:57: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" executed config (file "sourcemod/trainning_on.cfg")
+L 12/11/2021 - 23:15:59: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" executed config (file "sourcemod/retakes_on.cfg")
+L 12/11/2021 - 23:16:21: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" executed config (file "sourcemod/trainning_off.cfg")
+L 12/11/2021 - 23:16:24: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/11/2021 - 23:16:34: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" executed config (file "sourcemod/retakes_on.cfg")
+L 12/11/2021 - 23:16:36: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/11/2021 - 23:16:50: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" executed config (file "sourcemod/trainning_off.cfg")
+L 12/11/2021 - 23:16:52: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" executed config (file "sourcemod/retakes_off.cfg")
+L 12/11/2021 - 23:16:54: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" executed config (file "sourcemod/retakes_on.cfg")
+L 12/11/2021 - 23:30:14: [basecommands.smx] "cdr<3><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/12/2021 - 00:01:18: Log file closed.

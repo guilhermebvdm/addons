@@ -1,0 +1,51 @@
+L 12/03/2021 - 20:50:33: SourceMod log file session started (file "c:\users\guime\downloads\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20211203.log") (Version "1.10.0.6528")
+L 12/03/2021 - 20:50:33: -------- Mapchange to de_mirage --------
+L 12/03/2021 - 20:50:34: [weapons.smx] SQLite DB connection successful
+L 12/03/2021 - 20:50:34: [weapons.smx] SQLite DB connection successful
+L 12/03/2021 - 20:50:34: [weapons.smx] SQLite DB connection successful
+L 12/03/2021 - 20:51:01: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" executed config (file "server.cfg")
+L 12/03/2021 - 20:52:57: SourceMod log file session started (file "c:\users\guime\downloads\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20211203.log") (Version "1.10.0.6528")
+L 12/03/2021 - 20:52:57: -------- Mapchange to de_mirage --------
+L 12/03/2021 - 20:52:58: [weapons.smx] SQLite DB connection successful
+L 12/03/2021 - 20:52:58: [weapons.smx] SQLite DB connection successful
+L 12/03/2021 - 20:52:58: [weapons.smx] SQLite DB connection successful
+L 12/03/2021 - 20:55:24: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/03/2021 - 20:56:24: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" executed config (file "sourcemod/sm_retakes_on.cfg")
+L 12/03/2021 - 21:02:11: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/03/2021 - 21:02:16: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/03/2021 - 21:02:16: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/03/2021 - 21:02:23: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" executed config (file "sourcemod/sm_retakes_off.cfg")
+L 12/03/2021 - 21:02:23: [weapons.smx] SQLite DB connection successful
+L 12/03/2021 - 21:02:32: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/03/2021 - 21:02:45: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" executed config (file "treino.cfg")
+L 12/03/2021 - 21:02:58: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" executed config (file "sourcemod/sm_retakes_on.cfg")
+L 12/03/2021 - 21:05:30: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" kicked "Guaruzera<13><STEAM_1:1:45437156><>" (reason "")
+L 12/03/2021 - 21:09:45: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/03/2021 - 21:10:25: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/03/2021 - 21:10:49: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/03/2021 - 21:10:50: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/03/2021 - 21:21:56: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" kicked "Lolódobom<17><STEAM_1:0:219792668><>" (reason "")
+L 12/03/2021 - 21:30:50: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/03/2021 - 21:31:06: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/03/2021 - 21:31:24: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/03/2021 - 22:07:12: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/03/2021 - 22:27:09: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" kicked "fvj<14><STEAM_1:1:454172526><>" (reason "")
+L 12/03/2021 - 22:43:12: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 12/03/2021 - 22:50:33: SourceMod log file session started (file "c:\users\guime\downloads\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20211203.log") (Version "1.10.0.6528")
+L 12/03/2021 - 22:50:33: -------- Mapchange to de_mirage --------
+L 12/03/2021 - 22:50:34: [weapons.smx] Inactive players' data has been deleted
+L 12/03/2021 - 22:50:34: [weapons.smx] SQLite DB connection successful
+L 12/03/2021 - 22:50:34: [weapons.smx] Inactive players' data has been deleted
+L 12/03/2021 - 22:54:39: SourceMod log file session started (file "c:\users\guime\downloads\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20211203.log") (Version "1.10.0.6528")
+L 12/03/2021 - 22:54:39: -------- Mapchange to de_mirage --------
+L 12/03/2021 - 22:54:39: [weapons.smx] Inactive players' data has been deleted
+L 12/03/2021 - 22:54:40: [weapons.smx] SQLite DB connection successful
+L 12/03/2021 - 22:54:40: [weapons.smx] Inactive players' data has been deleted
+L 12/03/2021 - 22:55:14: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" executed config (file "sourcemod/sm_retakes_on.cfg")
+L 12/03/2021 - 22:55:51: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" executed config (file "server.cfg")
+L 12/03/2021 - 22:55:55: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" executed config (file "sourcemod/sm_retakes_off.cfg")
+L 12/03/2021 - 22:55:56: [weapons.smx] SQLite DB connection successful
+L 12/03/2021 - 22:55:56: [weapons.smx] Inactive players' data has been deleted
+L 12/03/2021 - 22:56:00: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" executed config (file "server.cfg")
+L 12/03/2021 - 22:56:17: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" executed config (file "treino.cfg")
+L 12/03/2021 - 22:59:42: Log file closed.

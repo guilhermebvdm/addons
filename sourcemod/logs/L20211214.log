@@ -1,0 +1,11 @@
+L 12/14/2021 - 23:38:00: SourceMod log file session started (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20211214.log") (Version "1.10.0.6528")
+L 12/14/2021 - 23:38:00: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 12/14/2021 - 23:40:14: -------- Mapchange to de_ancient --------
+L 12/14/2021 - 23:40:16: [weapons.smx] SQLite DB connection successful
+L 12/14/2021 - 23:40:16: [weapons.smx] Inactive players' data has been deleted
+L 12/14/2021 - 23:49:40: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "mp_pause_match")
+L 12/14/2021 - 23:49:55: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" executed config (file "sourcemod/trainning_on.cfg")
+L 12/14/2021 - 23:53:07: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" executed config (file "sourcemod/trainning_off.cfg")
+L 12/14/2021 - 23:53:17: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" executed config (file "sourcemod/retakes_on.cfg")
+L 12/14/2021 - 23:53:24: [basecommands.smx] "cdr<2><STEAM_1:1:81467303><>" console command (cmdline "mp_unpause_match")
+L 12/15/2021 - 00:20:21: Log file closed.

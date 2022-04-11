@@ -1,0 +1,14 @@
+L 02/06/2022 - 19:37:10: SourceMod log file session started (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20220206.log") (Version "1.10.0.6528")
+L 02/06/2022 - 19:37:10: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 02/06/2022 - 19:38:08: SourceMod log file session started (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20220206.log") (Version "1.10.0.6528")
+L 02/06/2022 - 19:38:08: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 02/06/2022 - 19:38:31: -------- Mapchange to de_inferno --------
+L 02/06/2022 - 19:38:31: [weapons.smx] SQLite DB connection successful
+L 02/06/2022 - 19:38:32: [weapons.smx] Inactive players' data has been deleted
+L 02/06/2022 - 19:38:32: [weapons.smx] SQLite DB connection successful
+L 02/06/2022 - 19:38:32: [weapons.smx] SQLite DB connection successful
+L 02/06/2022 - 19:38:32: [weapons.smx] Inactive players' data has been deleted
+L 02/06/2022 - 19:38:32: [weapons.smx] Inactive players' data has been deleted
+L 02/06/2022 - 19:39:05: [basecommands.smx] "Guaruzera<3><STEAM_1:1:45437156><>" executed config (file "sourcemod/retakes_on.cfg")
+L 02/06/2022 - 19:50:01: [basebans.smx] "ênio computadores<4><STEAM_1:0:82339169><>" banned "rph<9><STEAM_1:1:424506950><>" (minutes "1440") (reason "a")
+L 02/06/2022 - 20:14:52: [basecommands.smx] "cdr<5><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")

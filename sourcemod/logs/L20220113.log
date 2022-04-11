@@ -1,0 +1,22 @@
+L 01/13/2022 - 20:57:26: SourceMod log file session started (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\L20220113.log") (Version "1.10.0.6528")
+L 01/13/2022 - 20:57:26: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 01/13/2022 - 20:57:49: -------- Mapchange to de_ancient --------
+L 01/13/2022 - 20:57:50: [weapons.smx] Inactive players' data has been deleted
+L 01/13/2022 - 20:57:50: [weapons.smx] SQLite DB connection successful
+L 01/13/2022 - 20:57:50: [weapons.smx] Inactive players' data has been deleted
+L 01/13/2022 - 20:58:50: [basecommands.smx] "cdr<4><STEAM_1:1:81467303><>" executed config (file "sourcemod/retakes_on.cfg")
+L 01/13/2022 - 20:59:28: [basecommands.smx] "cdr<4><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 01/13/2022 - 21:34:03: -------- Mapchange to de_inferno --------
+L 01/13/2022 - 21:34:05: [weapons.smx] Inactive players' data has been deleted
+L 01/13/2022 - 21:43:14: [basecommands.smx] "cdr<4><STEAM_1:1:81467303><>" executed config (file "sourcemod/retakes_off.cfg")
+L 01/13/2022 - 21:43:16: [basecommands.smx] "cdr<4><STEAM_1:1:81467303><>" executed config (file "warmup.cfg")
+L 01/13/2022 - 21:43:17: [basecommands.smx] "cdr<4><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 01/13/2022 - 21:44:04: [basecommands.smx] "cdr<4><STEAM_1:1:81467303><>" console command (cmdline "mp_restartgame 1")
+L 01/13/2022 - 21:47:30: [basevotes.smx] "cdr<4><STEAM_1:1:81467303><>" initiated a map vote.
+L 01/13/2022 - 21:47:50: [basevotes.smx] Changing map to de_dust2 due to vote.
+L 01/13/2022 - 21:47:55: [SM] Changed map to "de_dust2"
+L 01/13/2022 - 21:47:58: -------- Mapchange to de_dust2 --------
+L 01/13/2022 - 21:47:59: [weapons.smx] Inactive players' data has been deleted
+L 01/13/2022 - 22:30:31: [basecommands.smx] "cdr<4><STEAM_1:1:81467303><>" console command (cmdline "mp_unpause_match")
+L 01/13/2022 - 22:56:21: [basecommands.smx] "cdr<4><STEAM_1:1:81467303><>" executed config (file "warmup.cfg")
+L 01/13/2022 - 22:56:40: [basecommands.smx] "cdr<4><STEAM_1:1:81467303><>" executed config (file "sourcemod/trainning_on.cfg")

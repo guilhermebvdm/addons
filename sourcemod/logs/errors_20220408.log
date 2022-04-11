@@ -1,0 +1,128 @@
+L 04/08/2022 - 22:51:20: SourceMod error session started
+L 04/08/2022 - 22:51:20: Info (map "de_inferno") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20220408.log")
+L 04/08/2022 - 22:51:20: [SM] Exception reported: Invalid edict (2387 - -1071183533)
+L 04/08/2022 - 22:51:20: [SM] Blaming: disabled\nadetails.smx
+L 04/08/2022 - 22:51:20: [SM] Call stack trace:
+L 04/08/2022 - 22:51:20: [SM]   [0] GetEdictClassname
+L 04/08/2022 - 22:51:20: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned
+L 04/08/2022 - 22:51:20: [SM] Exception reported: Invalid edict (2388 - -357693100)
+L 04/08/2022 - 22:51:20: [SM] Blaming: disabled\nadetails.smx
+L 04/08/2022 - 22:51:20: [SM] Call stack trace:
+L 04/08/2022 - 22:51:20: [SM]   [0] GetEdictClassname
+L 04/08/2022 - 22:51:20: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned
+L 04/08/2022 - 22:51:20: [SM] Exception reported: Invalid edict (2389 - -1560802987)
+L 04/08/2022 - 22:51:20: [SM] Blaming: disabled\nadetails.smx
+L 04/08/2022 - 22:51:20: [SM] Call stack trace:
+L 04/08/2022 - 22:51:20: [SM]   [0] GetEdictClassname
+L 04/08/2022 - 22:51:20: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned
+L 04/08/2022 - 22:51:20: [SM] Exception reported: Invalid edict (2390 - -2062677674)
+L 04/08/2022 - 22:51:20: [SM] Blaming: disabled\nadetails.smx
+L 04/08/2022 - 22:51:20: [SM] Call stack trace:
+L 04/08/2022 - 22:51:20: [SM]   [0] GetEdictClassname
+L 04/08/2022 - 22:51:20: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned
+L 04/08/2022 - 22:51:20: [SM] Exception reported: Invalid edict (2391 - -573109929)
+L 04/08/2022 - 22:51:20: [SM] Blaming: disabled\nadetails.smx
+L 04/08/2022 - 22:51:20: [SM] Call stack trace:
+L 04/08/2022 - 22:51:20: [SM]   [0] GetEdictClassname
+L 04/08/2022 - 22:51:20: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned
+L 04/08/2022 - 23:02:04: [SM] Exception reported: Invalid edict (2392 - -395835048)
+L 04/08/2022 - 23:02:04: [SM] Blaming: disabled\nadetails.smx
+L 04/08/2022 - 23:02:04: [SM] Call stack trace:
+L 04/08/2022 - 23:02:04: [SM]   [0] GetEdictClassname
+L 04/08/2022 - 23:02:04: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned
+L 04/08/2022 - 23:02:04: [SM] Exception reported: Invalid edict (2393 - -661780135)
+L 04/08/2022 - 23:02:04: [SM] Blaming: disabled\nadetails.smx
+L 04/08/2022 - 23:02:04: [SM] Call stack trace:
+L 04/08/2022 - 23:02:04: [SM]   [0] GetEdictClassname
+L 04/08/2022 - 23:02:04: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned
+L 04/08/2022 - 23:02:04: [SM] Exception reported: Invalid edict (2394 - -796587686)
+L 04/08/2022 - 23:02:04: [SM] Blaming: disabled\nadetails.smx
+L 04/08/2022 - 23:02:04: [SM] Call stack trace:
+L 04/08/2022 - 23:02:04: [SM]   [0] GetEdictClassname
+L 04/08/2022 - 23:02:04: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned
+L 04/08/2022 - 23:02:04: [SM] Exception reported: Invalid edict (2395 - -144701093)
+L 04/08/2022 - 23:02:04: [SM] Blaming: disabled\nadetails.smx
+L 04/08/2022 - 23:02:04: [SM] Call stack trace:
+L 04/08/2022 - 23:02:04: [SM]   [0] GetEdictClassname
+L 04/08/2022 - 23:02:04: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned
+L 04/08/2022 - 23:02:04: [SM] Exception reported: Invalid edict (2396 - -1842280100)
+L 04/08/2022 - 23:02:04: [SM] Blaming: disabled\nadetails.smx
+L 04/08/2022 - 23:02:04: [SM] Call stack trace:
+L 04/08/2022 - 23:02:04: [SM]   [0] GetEdictClassname
+L 04/08/2022 - 23:02:04: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned
+L 04/08/2022 - 23:02:09: [SM] Exception reported: Invalid edict (2397 - -2115499683)
+L 04/08/2022 - 23:02:09: [SM] Blaming: disabled\nadetails.smx
+L 04/08/2022 - 23:02:09: [SM] Call stack trace:
+L 04/08/2022 - 23:02:09: [SM]   [0] GetEdictClassname
+L 04/08/2022 - 23:02:09: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned
+L 04/08/2022 - 23:02:09: [SM] Exception reported: Invalid edict (2398 - -1017444002)
+L 04/08/2022 - 23:02:09: [SM] Blaming: disabled\nadetails.smx
+L 04/08/2022 - 23:02:09: [SM] Call stack trace:
+L 04/08/2022 - 23:02:09: [SM]   [0] GetEdictClassname
+L 04/08/2022 - 23:02:09: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned
+L 04/08/2022 - 23:02:09: [SM] Exception reported: Invalid edict (2399 - -2028402337)
+L 04/08/2022 - 23:02:09: [SM] Blaming: disabled\nadetails.smx
+L 04/08/2022 - 23:02:09: [SM] Call stack trace:
+L 04/08/2022 - 23:02:09: [SM]   [0] GetEdictClassname
+L 04/08/2022 - 23:02:09: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned
+L 04/08/2022 - 23:02:09: [SM] Exception reported: Invalid edict (2400 - -1071511200)
+L 04/08/2022 - 23:02:09: [SM] Blaming: disabled\nadetails.smx
+L 04/08/2022 - 23:02:09: [SM] Call stack trace:
+L 04/08/2022 - 23:02:09: [SM]   [0] GetEdictClassname
+L 04/08/2022 - 23:02:09: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned
+L 04/08/2022 - 23:02:09: [SM] Exception reported: Invalid edict (2401 - -1111029407)
+L 04/08/2022 - 23:02:09: [SM] Blaming: disabled\nadetails.smx
+L 04/08/2022 - 23:02:09: [SM] Call stack trace:
+L 04/08/2022 - 23:02:09: [SM]   [0] GetEdictClassname
+L 04/08/2022 - 23:02:09: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned
+L 04/08/2022 - 23:02:09: [SM] Exception reported: Invalid edict (2402 - -1531967134)
+L 04/08/2022 - 23:02:09: [SM] Blaming: disabled\nadetails.smx
+L 04/08/2022 - 23:02:09: [SM] Call stack trace:
+L 04/08/2022 - 23:02:09: [SM]   [0] GetEdictClassname
+L 04/08/2022 - 23:02:09: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned
+L 04/08/2022 - 23:02:09: [SM] Exception reported: Invalid edict (2403 - -1591932573)
+L 04/08/2022 - 23:02:09: [SM] Blaming: disabled\nadetails.smx
+L 04/08/2022 - 23:02:09: [SM] Call stack trace:
+L 04/08/2022 - 23:02:09: [SM]   [0] GetEdictClassname
+L 04/08/2022 - 23:02:09: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned
+L 04/08/2022 - 23:02:09: [SM] Exception reported: Invalid edict (2404 - -2064381596)
+L 04/08/2022 - 23:02:09: [SM] Blaming: disabled\nadetails.smx
+L 04/08/2022 - 23:02:09: [SM] Call stack trace:
+L 04/08/2022 - 23:02:09: [SM]   [0] GetEdictClassname
+L 04/08/2022 - 23:02:09: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned
+L 04/08/2022 - 23:02:09: [SM] Exception reported: Invalid edict (2405 - -1777202843)
+L 04/08/2022 - 23:02:09: [SM] Blaming: disabled\nadetails.smx
+L 04/08/2022 - 23:02:09: [SM] Call stack trace:
+L 04/08/2022 - 23:02:09: [SM]   [0] GetEdictClassname
+L 04/08/2022 - 23:02:09: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned
+L 04/08/2022 - 23:02:09: [SM] Exception reported: Invalid edict (2406 - -1592325786)
+L 04/08/2022 - 23:02:09: [SM] Blaming: disabled\nadetails.smx
+L 04/08/2022 - 23:02:09: [SM] Call stack trace:
+L 04/08/2022 - 23:02:09: [SM]   [0] GetEdictClassname
+L 04/08/2022 - 23:02:09: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned
+L 04/08/2022 - 23:02:09: [SM] Exception reported: Invalid edict (2407 - -503838361)
+L 04/08/2022 - 23:02:09: [SM] Blaming: disabled\nadetails.smx
+L 04/08/2022 - 23:02:09: [SM] Call stack trace:
+L 04/08/2022 - 23:02:09: [SM]   [0] GetEdictClassname
+L 04/08/2022 - 23:02:09: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned
+L 04/08/2022 - 23:02:09: [SM] Exception reported: Invalid edict (2408 - -1318254232)
+L 04/08/2022 - 23:02:09: [SM] Blaming: disabled\nadetails.smx
+L 04/08/2022 - 23:02:09: [SM] Call stack trace:
+L 04/08/2022 - 23:02:09: [SM]   [0] GetEdictClassname
+L 04/08/2022 - 23:02:09: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned
+L 04/08/2022 - 23:02:09: [SM] Exception reported: Invalid edict (2409 - -51377815)
+L 04/08/2022 - 23:02:09: [SM] Blaming: disabled\nadetails.smx
+L 04/08/2022 - 23:02:09: [SM] Call stack trace:
+L 04/08/2022 - 23:02:09: [SM]   [0] GetEdictClassname
+L 04/08/2022 - 23:02:09: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned
+L 04/08/2022 - 23:02:09: [SM] Exception reported: Invalid edict (2410 - -2146498198)
+L 04/08/2022 - 23:02:09: [SM] Blaming: disabled\nadetails.smx
+L 04/08/2022 - 23:02:09: [SM] Call stack trace:
+L 04/08/2022 - 23:02:09: [SM]   [0] GetEdictClassname
+L 04/08/2022 - 23:02:09: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned
+L 04/08/2022 - 23:02:09: [SM] Exception reported: Invalid edict (2411 - -368768661)
+L 04/08/2022 - 23:02:09: [SM] Blaming: disabled\nadetails.smx
+L 04/08/2022 - 23:02:09: [SM] Call stack trace:
+L 04/08/2022 - 23:02:09: [SM]   [0] GetEdictClassname
+L 04/08/2022 - 23:02:09: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned
+L 04/08/2022 - 23:35:41: Error log file session closed.

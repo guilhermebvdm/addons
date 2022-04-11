@@ -1,0 +1,83 @@
+L 12/11/2021 - 22:58:58: SourceMod error session started
+L 12/11/2021 - 22:58:58: Info (map "de_mirage") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211211.log")
+L 12/11/2021 - 22:58:58: [SM] Exception reported: Invalid edict (2285 - -1897985811)
+L 12/11/2021 - 22:58:58: [SM] Blaming: disabled\nadetails.smx
+L 12/11/2021 - 22:58:58: [SM] Call stack trace:
+L 12/11/2021 - 22:58:58: [SM]   [0] GetEdictClassname
+L 12/11/2021 - 22:58:58: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned
+L 12/11/2021 - 22:58:58: [SM] Exception reported: Invalid edict (2286 - -13039378)
+L 12/11/2021 - 22:58:58: [SM] Blaming: disabled\nadetails.smx
+L 12/11/2021 - 22:58:58: [SM] Call stack trace:
+L 12/11/2021 - 22:58:58: [SM]   [0] GetEdictClassname
+L 12/11/2021 - 22:58:58: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned
+L 12/11/2021 - 22:58:58: [SM] Exception reported: Invalid edict (2287 - -63043345)
+L 12/11/2021 - 22:58:58: [SM] Blaming: disabled\nadetails.smx
+L 12/11/2021 - 22:58:58: [SM] Call stack trace:
+L 12/11/2021 - 22:58:58: [SM]   [0] GetEdictClassname
+L 12/11/2021 - 22:58:58: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned
+L 12/11/2021 - 22:58:58: [SM] Exception reported: Invalid edict (2288 - -2108225296)
+L 12/11/2021 - 22:58:58: [SM] Blaming: disabled\nadetails.smx
+L 12/11/2021 - 22:58:58: [SM] Call stack trace:
+L 12/11/2021 - 22:58:58: [SM]   [0] GetEdictClassname
+L 12/11/2021 - 22:58:58: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned
+L 12/11/2021 - 23:15:59: [SM] Exception reported: Invalid edict (2289 - -1462630159)
+L 12/11/2021 - 23:15:59: [SM] Blaming: disabled\nadetails.smx
+L 12/11/2021 - 23:15:59: [SM] Call stack trace:
+L 12/11/2021 - 23:15:59: [SM]   [0] GetEdictClassname
+L 12/11/2021 - 23:15:59: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned
+L 12/11/2021 - 23:15:59: [SM] Exception reported: Invalid edict (2290 - -816510734)
+L 12/11/2021 - 23:15:59: [SM] Blaming: disabled\nadetails.smx
+L 12/11/2021 - 23:15:59: [SM] Call stack trace:
+L 12/11/2021 - 23:15:59: [SM]   [0] GetEdictClassname
+L 12/11/2021 - 23:15:59: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned
+L 12/11/2021 - 23:15:59: [SM] Exception reported: Invalid edict (2291 - -894433037)
+L 12/11/2021 - 23:15:59: [SM] Blaming: disabled\nadetails.smx
+L 12/11/2021 - 23:15:59: [SM] Call stack trace:
+L 12/11/2021 - 23:15:59: [SM]   [0] GetEdictClassname
+L 12/11/2021 - 23:15:59: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned
+L 12/11/2021 - 23:15:59: [SM] Exception reported: Invalid edict (2292 - -1572992780)
+L 12/11/2021 - 23:15:59: [SM] Blaming: disabled\nadetails.smx
+L 12/11/2021 - 23:15:59: [SM] Call stack trace:
+L 12/11/2021 - 23:15:59: [SM]   [0] GetEdictClassname
+L 12/11/2021 - 23:15:59: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned
+L 12/11/2021 - 23:15:59: [SM] Exception reported: Invalid edict (2293 - -1355216651)
+L 12/11/2021 - 23:15:59: [SM] Blaming: disabled\nadetails.smx
+L 12/11/2021 - 23:15:59: [SM] Call stack trace:
+L 12/11/2021 - 23:15:59: [SM]   [0] GetEdictClassname
+L 12/11/2021 - 23:15:59: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned
+L 12/11/2021 - 23:15:59: [SM] Exception reported: Invalid edict (2294 - -1980626698)
+L 12/11/2021 - 23:15:59: [SM] Blaming: disabled\nadetails.smx
+L 12/11/2021 - 23:15:59: [SM] Call stack trace:
+L 12/11/2021 - 23:15:59: [SM]   [0] GetEdictClassname
+L 12/11/2021 - 23:15:59: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned
+L 12/11/2021 - 23:15:59: [SM] Exception reported: Invalid edict (2295 - -1716320009)
+L 12/11/2021 - 23:15:59: [SM] Blaming: disabled\nadetails.smx
+L 12/11/2021 - 23:15:59: [SM] Call stack trace:
+L 12/11/2021 - 23:15:59: [SM]   [0] GetEdictClassname
+L 12/11/2021 - 23:15:59: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned
+L 12/11/2021 - 23:15:59: [SM] Exception reported: Invalid edict (2296 - -905246472)
+L 12/11/2021 - 23:15:59: [SM] Blaming: disabled\nadetails.smx
+L 12/11/2021 - 23:15:59: [SM] Call stack trace:
+L 12/11/2021 - 23:15:59: [SM]   [0] GetEdictClassname
+L 12/11/2021 - 23:15:59: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned
+L 12/11/2021 - 23:15:59: [SM] Exception reported: Invalid edict (2297 - -1886713607)
+L 12/11/2021 - 23:15:59: [SM] Blaming: disabled\nadetails.smx
+L 12/11/2021 - 23:15:59: [SM] Call stack trace:
+L 12/11/2021 - 23:15:59: [SM]   [0] GetEdictClassname
+L 12/11/2021 - 23:15:59: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned
+L 12/11/2021 - 23:15:59: [SM] Exception reported: Invalid edict (2298 - -502331142)
+L 12/11/2021 - 23:15:59: [SM] Blaming: disabled\nadetails.smx
+L 12/11/2021 - 23:15:59: [SM] Call stack trace:
+L 12/11/2021 - 23:15:59: [SM]   [0] GetEdictClassname
+L 12/11/2021 - 23:15:59: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned
+L 12/11/2021 - 23:15:59: [SM] Exception reported: Invalid edict (2299 - -2025453317)
+L 12/11/2021 - 23:15:59: [SM] Blaming: disabled\nadetails.smx
+L 12/11/2021 - 23:15:59: [SM] Call stack trace:
+L 12/11/2021 - 23:15:59: [SM]   [0] GetEdictClassname
+L 12/11/2021 - 23:15:59: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned
+L 12/11/2021 - 23:15:59: [SM] Exception reported: Invalid edict (2300 - -1130493700)
+L 12/11/2021 - 23:15:59: [SM] Blaming: disabled\nadetails.smx
+L 12/11/2021 - 23:15:59: [SM] Call stack trace:
+L 12/11/2021 - 23:15:59: [SM]   [0] GetEdictClassname
+L 12/11/2021 - 23:15:59: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned
+L 12/12/2021 - 00:01:18: Error log file session closed.

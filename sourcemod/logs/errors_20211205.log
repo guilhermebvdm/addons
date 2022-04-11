@@ -1,0 +1,418 @@
+L 12/05/2021 - 00:15:31: SourceMod error session started
+L 12/05/2021 - 00:15:31: Info (map "de_ancient") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211205.log")
+L 12/05/2021 - 00:15:31: [SM] Exception reported: Invalid event PTaH_HookType specified
+L 12/05/2021 - 00:15:31: [SM] Blaming: force_vanillaweapons.smx
+L 12/05/2021 - 00:15:31: [SM] Call stack trace:
+L 12/05/2021 - 00:15:31: [SM]   [0] PTaH
+L 12/05/2021 - 00:15:31: [SM]   [1] Line 5, E:\Dropbox\UEA\A NUEVO PLUGINS PRIVADOS\force_vanillaweapons.sp::OnPluginStart
+L 12/05/2021 - 00:15:31: [SM] Unable to load plugin "force_vanillaweapons.smx": Error detected in plugin startup (see error logs)
+L 12/05/2021 - 00:15:32: [SM] Exception reported: Array index out-of-bounds (index -1, limit 66)
+L 12/05/2021 - 00:15:32: [SM] Blaming: weapons.smx
+L 12/05/2021 - 00:15:32: [SM] Call stack trace:
+L 12/05/2021 - 00:15:32: [SM]   [1] Line 69, tmp/addons/sourcemod/scripting/weapons/hooks.sp::ChatListener
+L 12/05/2021 - 00:15:39: Error log file session closed.
+L 12/05/2021 - 00:15:40: SourceMod error session started
+L 12/05/2021 - 00:15:40: Info (map "de_ancient") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211205.log")
+L 12/05/2021 - 00:15:40: [admin-sql-threaded.smx] Failed to connect to database: [2003]: Can't connect to MySQL server on 'localhost' (10061)
+L 12/05/2021 - 00:50:13: Error log file session closed.
+L 12/05/2021 - 00:50:17: SourceMod error session started
+L 12/05/2021 - 00:50:17: Info (map "de_dust2") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211205.log")
+L 12/05/2021 - 00:50:17: [admin-sql-threaded.smx] Failed to connect to database: [2003]: Can't connect to MySQL server on 'localhost' (10061)
+L 12/05/2021 - 01:58:54: Error log file session closed.
+L 12/05/2021 - 01:58:59: SourceMod error session started
+L 12/05/2021 - 01:58:59: Info (map "de_dust2") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211205.log")
+L 12/05/2021 - 01:58:59: [admin-sql-threaded.smx] Failed to connect to database: [2003]: Can't connect to MySQL server on 'localhost' (10061)
+L 12/05/2021 - 01:59:18: Error log file session closed.
+L 12/05/2021 - 01:59:22: SourceMod error session started
+L 12/05/2021 - 01:59:22: Info (map "de_nuke") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211205.log")
+L 12/05/2021 - 01:59:22: [admin-sql-threaded.smx] Failed to connect to database: [2003]: Can't connect to MySQL server on 'localhost' (10061)
+L 12/05/2021 - 02:38:04: Error log file session closed.
+L 12/05/2021 - 02:38:08: SourceMod error session started
+L 12/05/2021 - 02:38:08: Info (map "de_dust2") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211205.log")
+L 12/05/2021 - 02:38:08: [admin-sql-threaded.smx] Failed to connect to database: [2003]: Can't connect to MySQL server on 'localhost' (10061)
+L 12/05/2021 - 03:17:24: SourceMod error session started
+L 12/05/2021 - 03:17:24: Info (map "de_ancient") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211205.log")
+L 12/05/2021 - 03:17:24: [SM] Exception reported: Invalid event PTaH_HookType specified
+L 12/05/2021 - 03:17:24: [SM] Blaming: force_vanillaweapons.smx
+L 12/05/2021 - 03:17:24: [SM] Call stack trace:
+L 12/05/2021 - 03:17:24: [SM]   [0] PTaH
+L 12/05/2021 - 03:17:24: [SM]   [1] Line 5, E:\Dropbox\UEA\A NUEVO PLUGINS PRIVADOS\force_vanillaweapons.sp::OnPluginStart
+L 12/05/2021 - 03:17:24: [SM] Unable to load plugin "force_vanillaweapons.smx": Error detected in plugin startup (see error logs)
+L 12/05/2021 - 03:17:24: [SM] Exception reported: Array index out-of-bounds (index -1, limit 66)
+L 12/05/2021 - 03:17:24: [SM] Blaming: weapons.smx
+L 12/05/2021 - 03:17:24: [SM] Call stack trace:
+L 12/05/2021 - 03:17:24: [SM]   [1] Line 69, tmp/addons/sourcemod/scripting/weapons/hooks.sp::ChatListener
+L 12/05/2021 - 03:17:58: SourceMod error session started
+L 12/05/2021 - 03:17:58: Info (map "de_ancient") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211205.log")
+L 12/05/2021 - 03:17:58: [SM] Exception reported: Invalid event PTaH_HookType specified
+L 12/05/2021 - 03:17:58: [SM] Blaming: force_vanillaweapons.smx
+L 12/05/2021 - 03:17:58: [SM] Call stack trace:
+L 12/05/2021 - 03:17:58: [SM]   [0] PTaH
+L 12/05/2021 - 03:17:58: [SM]   [1] Line 5, E:\Dropbox\UEA\A NUEVO PLUGINS PRIVADOS\force_vanillaweapons.sp::OnPluginStart
+L 12/05/2021 - 03:17:58: [SM] Unable to load plugin "force_vanillaweapons.smx": Error detected in plugin startup (see error logs)
+L 12/05/2021 - 03:17:58: [SM] Exception reported: Array index out-of-bounds (index -1, limit 66)
+L 12/05/2021 - 03:17:58: [SM] Blaming: weapons.smx
+L 12/05/2021 - 03:17:58: [SM] Call stack trace:
+L 12/05/2021 - 03:17:58: [SM]   [1] Line 69, tmp/addons/sourcemod/scripting/weapons/hooks.sp::ChatListener
+L 12/05/2021 - 03:18:46: [admin-sql-threaded.smx] Failed to connect to database: [2003]: Can't connect to MySQL server on 'localhost' (10061)
+L 12/05/2021 - 03:18:49: Error log file session closed.
+L 12/05/2021 - 03:18:53: SourceMod error session started
+L 12/05/2021 - 03:18:53: Info (map "de_ancient") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211205.log")
+L 12/05/2021 - 03:18:53: [admin-sql-threaded.smx] Failed to connect to database: [2003]: Can't connect to MySQL server on 'localhost' (10061)
+L 12/05/2021 - 03:53:50: Error log file session closed.
+L 12/05/2021 - 12:08:46: SourceMod error session started
+L 12/05/2021 - 12:08:46: Info (map "de_ancient") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211205.log")
+L 12/05/2021 - 12:08:46: [SM] Exception reported: Invalid event PTaH_HookType specified
+L 12/05/2021 - 12:08:46: [SM] Blaming: force_vanillaweapons.smx
+L 12/05/2021 - 12:08:46: [SM] Call stack trace:
+L 12/05/2021 - 12:08:46: [SM]   [0] PTaH
+L 12/05/2021 - 12:08:46: [SM]   [1] Line 5, E:\Dropbox\UEA\A NUEVO PLUGINS PRIVADOS\force_vanillaweapons.sp::OnPluginStart
+L 12/05/2021 - 12:08:46: [SM] Unable to load plugin "force_vanillaweapons.smx": Error detected in plugin startup (see error logs)
+L 12/05/2021 - 12:08:46: [SM] Exception reported: Array index out-of-bounds (index -1, limit 66)
+L 12/05/2021 - 12:08:46: [SM] Blaming: weapons.smx
+L 12/05/2021 - 12:08:46: [SM] Call stack trace:
+L 12/05/2021 - 12:08:46: [SM]   [1] Line 69, tmp/addons/sourcemod/scripting/weapons/hooks.sp::ChatListener
+L 12/05/2021 - 12:09:30: [adminmenu.smx] Could not load admin menu config (file "addons\sourcemod\configs\adminmenu_sorting.txt": Section declared without header)
+L 12/05/2021 - 12:09:30: [admin-sql-threaded.smx] Failed to connect to database: [2003]: Can't connect to MySQL server on 'localhost' (10061)
+L 12/05/2021 - 12:09:32: Error log file session closed.
+L 12/05/2021 - 12:09:33: SourceMod error session started
+L 12/05/2021 - 12:09:33: Info (map "de_ancient") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211205.log")
+L 12/05/2021 - 12:09:33: [adminmenu.smx] Could not load admin menu config (file "addons\sourcemod\configs\adminmenu_sorting.txt": Section declared without header)
+L 12/05/2021 - 12:09:36: [admin-sql-threaded.smx] Failed to connect to database: [2003]: Can't connect to MySQL server on 'localhost' (10061)
+L 12/05/2021 - 12:12:29: SourceMod error session started
+L 12/05/2021 - 12:12:29: Info (map "de_ancient") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211205.log")
+L 12/05/2021 - 12:12:29: [SM] Exception reported: Invalid event PTaH_HookType specified
+L 12/05/2021 - 12:12:29: [SM] Blaming: force_vanillaweapons.smx
+L 12/05/2021 - 12:12:29: [SM] Call stack trace:
+L 12/05/2021 - 12:12:29: [SM]   [0] PTaH
+L 12/05/2021 - 12:12:29: [SM]   [1] Line 5, E:\Dropbox\UEA\A NUEVO PLUGINS PRIVADOS\force_vanillaweapons.sp::OnPluginStart
+L 12/05/2021 - 12:12:29: [SM] Unable to load plugin "force_vanillaweapons.smx": Error detected in plugin startup (see error logs)
+L 12/05/2021 - 12:12:30: [SM] Exception reported: Array index out-of-bounds (index -1, limit 66)
+L 12/05/2021 - 12:12:30: [SM] Blaming: weapons.smx
+L 12/05/2021 - 12:12:30: [SM] Call stack trace:
+L 12/05/2021 - 12:12:30: [SM]   [1] Line 69, tmp/addons/sourcemod/scripting/weapons/hooks.sp::ChatListener
+L 12/05/2021 - 12:13:00: [adminmenu.smx] Could not load admin menu config (file "addons\sourcemod\configs\adminmenu_sorting.txt": Section declared without header)
+L 12/05/2021 - 12:13:00: [admin-sql-threaded.smx] Failed to connect to database: [2003]: Can't connect to MySQL server on 'localhost' (10061)
+L 12/05/2021 - 12:13:02: Error log file session closed.
+L 12/05/2021 - 12:13:03: SourceMod error session started
+L 12/05/2021 - 12:13:03: Info (map "de_ancient") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211205.log")
+L 12/05/2021 - 12:13:03: [adminmenu.smx] Could not load admin menu config (file "addons\sourcemod\configs\adminmenu_sorting.txt": Section declared without header)
+L 12/05/2021 - 12:13:06: [admin-sql-threaded.smx] Failed to connect to database: [2003]: Can't connect to MySQL server on 'localhost' (10061)
+L 12/05/2021 - 12:15:23: SourceMod error session started
+L 12/05/2021 - 12:15:23: Info (map "de_ancient") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211205.log")
+L 12/05/2021 - 12:15:23: [SM] Exception reported: Invalid event PTaH_HookType specified
+L 12/05/2021 - 12:15:23: [SM] Blaming: force_vanillaweapons.smx
+L 12/05/2021 - 12:15:23: [SM] Call stack trace:
+L 12/05/2021 - 12:15:23: [SM]   [0] PTaH
+L 12/05/2021 - 12:15:23: [SM]   [1] Line 5, E:\Dropbox\UEA\A NUEVO PLUGINS PRIVADOS\force_vanillaweapons.sp::OnPluginStart
+L 12/05/2021 - 12:15:23: [SM] Unable to load plugin "force_vanillaweapons.smx": Error detected in plugin startup (see error logs)
+L 12/05/2021 - 12:15:24: [SM] Exception reported: Array index out-of-bounds (index -1, limit 66)
+L 12/05/2021 - 12:15:24: [SM] Blaming: weapons.smx
+L 12/05/2021 - 12:15:24: [SM] Call stack trace:
+L 12/05/2021 - 12:15:24: [SM]   [1] Line 69, tmp/addons/sourcemod/scripting/weapons/hooks.sp::ChatListener
+L 12/05/2021 - 12:15:38: [admin-sql-threaded.smx] Failed to connect to database: [2003]: Can't connect to MySQL server on 'localhost' (10061)
+L 12/05/2021 - 12:15:40: Error log file session closed.
+L 12/05/2021 - 12:15:44: SourceMod error session started
+L 12/05/2021 - 12:15:44: Info (map "de_ancient") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211205.log")
+L 12/05/2021 - 12:15:44: [admin-sql-threaded.smx] Failed to connect to database: [2003]: Can't connect to MySQL server on 'localhost' (10061)
+L 12/05/2021 - 12:31:23: SourceMod error session started
+L 12/05/2021 - 12:31:23: Info (map "de_ancient") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211205.log")
+L 12/05/2021 - 12:31:23: [SM] Exception reported: Invalid event PTaH_HookType specified
+L 12/05/2021 - 12:31:23: [SM] Blaming: force_vanillaweapons.smx
+L 12/05/2021 - 12:31:23: [SM] Call stack trace:
+L 12/05/2021 - 12:31:23: [SM]   [0] PTaH
+L 12/05/2021 - 12:31:23: [SM]   [1] Line 5, E:\Dropbox\UEA\A NUEVO PLUGINS PRIVADOS\force_vanillaweapons.sp::OnPluginStart
+L 12/05/2021 - 12:31:23: [SM] Unable to load plugin "force_vanillaweapons.smx": Error detected in plugin startup (see error logs)
+L 12/05/2021 - 12:31:23: [SM] Exception reported: Array index out-of-bounds (index -1, limit 66)
+L 12/05/2021 - 12:31:23: [SM] Blaming: weapons.smx
+L 12/05/2021 - 12:31:23: [SM] Call stack trace:
+L 12/05/2021 - 12:31:23: [SM]   [1] Line 69, tmp/addons/sourcemod/scripting/weapons/hooks.sp::ChatListener
+L 12/05/2021 - 12:31:35: Error log file session closed.
+L 12/05/2021 - 12:40:26: SourceMod error session started
+L 12/05/2021 - 12:40:26: Info (map "de_ancient") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211205.log")
+L 12/05/2021 - 12:40:26: [SM] Exception reported: Array index out-of-bounds (index -1, limit 66)
+L 12/05/2021 - 12:40:26: [SM] Blaming: weapons.smx
+L 12/05/2021 - 12:40:26: [SM] Call stack trace:
+L 12/05/2021 - 12:40:26: [SM]   [1] Line 69, tmp/addons/sourcemod/scripting/weapons/hooks.sp::ChatListener
+L 12/05/2021 - 12:41:14: Error log file session closed.
+L 12/05/2021 - 12:47:58: SourceMod error session started
+L 12/05/2021 - 12:47:58: Info (map "de_ancient") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211205.log")
+L 12/05/2021 - 12:47:58: [SM] Exception reported: Array index out-of-bounds (index -1, limit 66)
+L 12/05/2021 - 12:47:58: [SM] Blaming: weapons.smx
+L 12/05/2021 - 12:47:58: [SM] Call stack trace:
+L 12/05/2021 - 12:47:58: [SM]   [1] Line 69, tmp/addons/sourcemod/scripting/weapons/hooks.sp::ChatListener
+L 12/05/2021 - 12:48:44: Error log file session closed.
+L 12/05/2021 - 13:32:00: SourceMod error session started
+L 12/05/2021 - 13:32:00: Info (map "de_ancient") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211205.log")
+L 12/05/2021 - 13:32:00: [SM] Exception reported: Array index out-of-bounds (index -1, limit 66)
+L 12/05/2021 - 13:32:00: [SM] Blaming: weapons.smx
+L 12/05/2021 - 13:32:00: [SM] Call stack trace:
+L 12/05/2021 - 13:32:00: [SM]   [1] Line 69, tmp/addons/sourcemod/scripting/weapons/hooks.sp::ChatListener
+L 12/05/2021 - 13:32:22: Error log file session closed.
+L 12/05/2021 - 13:34:39: SourceMod error session started
+L 12/05/2021 - 13:34:39: Info (map "de_ancient") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211205.log")
+L 12/05/2021 - 13:34:39: [SM] Exception reported: Array index out-of-bounds (index -1, limit 66)
+L 12/05/2021 - 13:34:39: [SM] Blaming: weapons.smx
+L 12/05/2021 - 13:34:39: [SM] Call stack trace:
+L 12/05/2021 - 13:34:39: [SM]   [1] Line 69, tmp/addons/sourcemod/scripting/weapons/hooks.sp::ChatListener
+L 12/05/2021 - 13:35:16: Error log file session closed.
+L 12/05/2021 - 14:00:43: SourceMod error session started
+L 12/05/2021 - 14:00:43: Info (map "de_ancient") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211205.log")
+L 12/05/2021 - 14:00:43: [SM] Exception reported: Array index out-of-bounds (index -1, limit 66)
+L 12/05/2021 - 14:00:43: [SM] Blaming: weapons.smx
+L 12/05/2021 - 14:00:43: [SM] Call stack trace:
+L 12/05/2021 - 14:00:43: [SM]   [1] Line 69, tmp/addons/sourcemod/scripting/weapons/hooks.sp::ChatListener
+L 12/05/2021 - 14:01:07: Error log file session closed.
+L 12/05/2021 - 14:03:16: SourceMod error session started
+L 12/05/2021 - 14:03:16: Info (map "de_ancient") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211205.log")
+L 12/05/2021 - 14:03:16: [SM] Exception reported: Invalid edict (2169 - -85063559)
+L 12/05/2021 - 14:03:16: [SM] Blaming: disabled\nadetails.smx
+L 12/05/2021 - 14:03:16: [SM] Call stack trace:
+L 12/05/2021 - 14:03:16: [SM]   [0] GetEdictClassname
+L 12/05/2021 - 14:03:16: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned
+L 12/05/2021 - 14:03:16: [SM] Exception reported: Invalid edict (2170 - -2016737158)
+L 12/05/2021 - 14:03:16: [SM] Blaming: disabled\nadetails.smx
+L 12/05/2021 - 14:03:16: [SM] Call stack trace:
+L 12/05/2021 - 14:03:16: [SM]   [0] GetEdictClassname
+L 12/05/2021 - 14:03:16: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned
+L 12/05/2021 - 14:11:06: Error log file session closed.
+L 12/05/2021 - 14:11:25: SourceMod error session started
+L 12/05/2021 - 14:11:25: Info (map "de_ancient") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211205.log")
+L 12/05/2021 - 14:11:25: [SM] Exception reported: Invalid edict (2240 - -1687418688)
+L 12/05/2021 - 14:11:25: [SM] Blaming: disabled\nadetails.smx
+L 12/05/2021 - 14:11:25: [SM] Call stack trace:
+L 12/05/2021 - 14:11:25: [SM]   [0] GetEdictClassname
+L 12/05/2021 - 14:11:25: [SM]   [1] Line 334, C:\Users\guime\Documents\Servidor CS\servers\1\serverfiles\csgo\addons\sourcemod\scripting\nadetails.sp::OnEntitySpawned
+L 12/05/2021 - 14:11:25: [SM] Exception reported: Invalid edict (2241 - -515635007)
+L 12/05/2021 - 14:11:25: [SM] Blaming: disabled\nadetails.smx
+L 12/05/2021 - 14:11:25: [SM] Call stack trace:
+L 12/05/2021 - 14:11:25: [SM]   [0] GetEdictClassname
+L 12/05/2021 - 14:11:25: [SM]   [1] Line 334, C:\Users\guime\Documents\Servidor CS\servers\1\serverfiles\csgo\addons\sourcemod\scripting\nadetails.sp::OnEntitySpawned
+L 12/05/2021 - 14:11:27: [SM] Exception reported: Invalid edict (2242 - -1249113918)
+L 12/05/2021 - 14:11:27: [SM] Blaming: disabled\nadetails.smx
+L 12/05/2021 - 14:11:27: [SM] Call stack trace:
+L 12/05/2021 - 14:11:27: [SM]   [0] GetEdictClassname
+L 12/05/2021 - 14:11:27: [SM]   [1] Line 334, C:\Users\guime\Documents\Servidor CS\servers\1\serverfiles\csgo\addons\sourcemod\scripting\nadetails.sp::OnEntitySpawned
+L 12/05/2021 - 14:11:27: [SM] Exception reported: Invalid edict (2243 - -178648893)
+L 12/05/2021 - 14:11:27: [SM] Blaming: disabled\nadetails.smx
+L 12/05/2021 - 14:11:27: [SM] Call stack trace:
+L 12/05/2021 - 14:11:27: [SM]   [0] GetEdictClassname
+L 12/05/2021 - 14:11:27: [SM]   [1] Line 334, C:\Users\guime\Documents\Servidor CS\servers\1\serverfiles\csgo\addons\sourcemod\scripting\nadetails.sp::OnEntitySpawned
+L 12/05/2021 - 14:11:49: [SM] Exception reported: Invalid edict (2246 - -998700858)
+L 12/05/2021 - 14:11:49: [SM] Blaming: disabled\nadetails.smx
+L 12/05/2021 - 14:11:49: [SM] Call stack trace:
+L 12/05/2021 - 14:11:49: [SM]   [0] GetEdictClassname
+L 12/05/2021 - 14:11:49: [SM]   [1] Line 334, C:\Users\guime\Documents\Servidor CS\servers\1\serverfiles\csgo\addons\sourcemod\scripting\nadetails.sp::OnEntitySpawned
+L 12/05/2021 - 14:11:49: [SM] Exception reported: Invalid edict (2247 - -847378233)
+L 12/05/2021 - 14:11:49: [SM] Blaming: disabled\nadetails.smx
+L 12/05/2021 - 14:11:49: [SM] Call stack trace:
+L 12/05/2021 - 14:11:49: [SM]   [0] GetEdictClassname
+L 12/05/2021 - 14:11:49: [SM]   [1] Line 334, C:\Users\guime\Documents\Servidor CS\servers\1\serverfiles\csgo\addons\sourcemod\scripting\nadetails.sp::OnEntitySpawned
+L 12/05/2021 - 14:12:19: SourceMod error session started
+L 12/05/2021 - 14:12:19: Info (map "de_ancient") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211205.log")
+L 12/05/2021 - 14:12:19: [SM] Exception reported: Array index out-of-bounds (index -1, limit 66)
+L 12/05/2021 - 14:12:19: [SM] Blaming: weapons.smx
+L 12/05/2021 - 14:12:19: [SM] Call stack trace:
+L 12/05/2021 - 14:12:19: [SM]   [1] Line 69, tmp/addons/sourcemod/scripting/weapons/hooks.sp::ChatListener
+L 12/05/2021 - 14:13:37: Error log file session closed.
+L 12/05/2021 - 14:14:01: SourceMod error session started
+L 12/05/2021 - 14:14:01: Info (map "de_ancient") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211205.log")
+L 12/05/2021 - 14:14:01: [SM] Exception reported: Invalid edict (2167 - -630519689)
+L 12/05/2021 - 14:14:01: [SM] Blaming: disabled\nadetails.smx
+L 12/05/2021 - 14:14:01: [SM] Call stack trace:
+L 12/05/2021 - 14:14:01: [SM]   [0] GetEdictClassname
+L 12/05/2021 - 14:14:01: [SM]   [1] Line 334, C:\Users\guime\Documents\Servidor CS\servers\1\serverfiles\csgo\addons\sourcemod\scripting\nadetails.sp::OnEntitySpawned
+L 12/05/2021 - 14:14:01: [SM] Exception reported: Invalid edict (2168 - -1557985160)
+L 12/05/2021 - 14:14:01: [SM] Blaming: disabled\nadetails.smx
+L 12/05/2021 - 14:14:01: [SM] Call stack trace:
+L 12/05/2021 - 14:14:01: [SM]   [0] GetEdictClassname
+L 12/05/2021 - 14:14:01: [SM]   [1] Line 334, C:\Users\guime\Documents\Servidor CS\servers\1\serverfiles\csgo\addons\sourcemod\scripting\nadetails.sp::OnEntitySpawned
+L 12/05/2021 - 14:14:02: [SM] Exception reported: Invalid edict (2169 - -85063559)
+L 12/05/2021 - 14:14:02: [SM] Blaming: disabled\nadetails.smx
+L 12/05/2021 - 14:14:02: [SM] Call stack trace:
+L 12/05/2021 - 14:14:02: [SM]   [0] GetEdictClassname
+L 12/05/2021 - 14:14:02: [SM]   [1] Line 334, C:\Users\guime\Documents\Servidor CS\servers\1\serverfiles\csgo\addons\sourcemod\scripting\nadetails.sp::OnEntitySpawned
+L 12/05/2021 - 14:14:02: [SM] Exception reported: Invalid edict (2170 - -2016737158)
+L 12/05/2021 - 14:14:02: [SM] Blaming: disabled\nadetails.smx
+L 12/05/2021 - 14:14:02: [SM] Call stack trace:
+L 12/05/2021 - 14:14:02: [SM]   [0] GetEdictClassname
+L 12/05/2021 - 14:14:02: [SM]   [1] Line 334, C:\Users\guime\Documents\Servidor CS\servers\1\serverfiles\csgo\addons\sourcemod\scripting\nadetails.sp::OnEntitySpawned
+L 12/05/2021 - 14:15:13: [SM] Exception reported: Invalid edict (2171 - -1911027589)
+L 12/05/2021 - 14:15:13: [SM] Blaming: disabled\nadetails.smx
+L 12/05/2021 - 14:15:13: [SM] Call stack trace:
+L 12/05/2021 - 14:15:13: [SM]   [0] GetEdictClassname
+L 12/05/2021 - 14:15:13: [SM]   [1] Line 334, C:\Users\guime\Documents\Servidor CS\servers\1\serverfiles\csgo\addons\sourcemod\scripting\nadetails.sp::OnEntitySpawned
+L 12/05/2021 - 14:15:13: [SM] Exception reported: Invalid edict (2172 - -357431172)
+L 12/05/2021 - 14:15:13: [SM] Blaming: disabled\nadetails.smx
+L 12/05/2021 - 14:15:13: [SM] Call stack trace:
+L 12/05/2021 - 14:15:13: [SM]   [0] GetEdictClassname
+L 12/05/2021 - 14:15:13: [SM]   [1] Line 334, C:\Users\guime\Documents\Servidor CS\servers\1\serverfiles\csgo\addons\sourcemod\scripting\nadetails.sp::OnEntitySpawned
+L 12/05/2021 - 14:20:21: SourceMod error session started
+L 12/05/2021 - 14:20:21: Info (map "de_ancient") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211205.log")
+L 12/05/2021 - 14:20:21: [SM] Exception reported: Array index out-of-bounds (index -1, limit 66)
+L 12/05/2021 - 14:20:21: [SM] Blaming: weapons.smx
+L 12/05/2021 - 14:20:21: [SM] Call stack trace:
+L 12/05/2021 - 14:20:21: [SM]   [1] Line 69, tmp/addons/sourcemod/scripting/weapons/hooks.sp::ChatListener
+L 12/05/2021 - 14:20:34: Error log file session closed.
+L 12/05/2021 - 14:20:48: SourceMod error session started
+L 12/05/2021 - 14:20:48: Info (map "de_ancient") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211205.log")
+L 12/05/2021 - 14:20:48: [SM] Exception reported: Invalid edict (2167 - -630519689)
+L 12/05/2021 - 14:20:48: [SM] Blaming: disabled\nadetails.smx
+L 12/05/2021 - 14:20:48: [SM] Call stack trace:
+L 12/05/2021 - 14:20:48: [SM]   [0] GetEdictClassname
+L 12/05/2021 - 14:20:48: [SM]   [1] Line 334, C:\Users\guime\Documents\Servidor CS\servers\1\serverfiles\csgo\addons\sourcemod\scripting\nadetails.sp::OnEntitySpawned
+L 12/05/2021 - 14:20:48: [SM] Exception reported: Invalid edict (2168 - -1557985160)
+L 12/05/2021 - 14:20:48: [SM] Blaming: disabled\nadetails.smx
+L 12/05/2021 - 14:20:48: [SM] Call stack trace:
+L 12/05/2021 - 14:20:48: [SM]   [0] GetEdictClassname
+L 12/05/2021 - 14:20:48: [SM]   [1] Line 334, C:\Users\guime\Documents\Servidor CS\servers\1\serverfiles\csgo\addons\sourcemod\scripting\nadetails.sp::OnEntitySpawned
+L 12/05/2021 - 14:20:49: [SM] Exception reported: Invalid edict (2169 - -85063559)
+L 12/05/2021 - 14:20:49: [SM] Blaming: disabled\nadetails.smx
+L 12/05/2021 - 14:20:49: [SM] Call stack trace:
+L 12/05/2021 - 14:20:49: [SM]   [0] GetEdictClassname
+L 12/05/2021 - 14:20:49: [SM]   [1] Line 334, C:\Users\guime\Documents\Servidor CS\servers\1\serverfiles\csgo\addons\sourcemod\scripting\nadetails.sp::OnEntitySpawned
+L 12/05/2021 - 14:20:49: [SM] Exception reported: Invalid edict (2170 - -2016737158)
+L 12/05/2021 - 14:20:49: [SM] Blaming: disabled\nadetails.smx
+L 12/05/2021 - 14:20:49: [SM] Call stack trace:
+L 12/05/2021 - 14:20:49: [SM]   [0] GetEdictClassname
+L 12/05/2021 - 14:20:49: [SM]   [1] Line 334, C:\Users\guime\Documents\Servidor CS\servers\1\serverfiles\csgo\addons\sourcemod\scripting\nadetails.sp::OnEntitySpawned
+L 12/05/2021 - 14:29:09: [SM] Exception reported: Invalid edict (2171 - -1911027589)
+L 12/05/2021 - 14:29:09: [SM] Blaming: disabled\nadetails.smx
+L 12/05/2021 - 14:29:09: [SM] Call stack trace:
+L 12/05/2021 - 14:29:09: [SM]   [0] GetEdictClassname
+L 12/05/2021 - 14:29:09: [SM]   [1] Line 334, C:\Users\guime\Documents\Servidor CS\servers\1\serverfiles\csgo\addons\sourcemod\scripting\nadetails.sp::OnEntitySpawned
+L 12/05/2021 - 14:29:09: [SM] Exception reported: Invalid edict (2172 - -357431172)
+L 12/05/2021 - 14:29:09: [SM] Blaming: disabled\nadetails.smx
+L 12/05/2021 - 14:29:09: [SM] Call stack trace:
+L 12/05/2021 - 14:29:09: [SM]   [0] GetEdictClassname
+L 12/05/2021 - 14:29:09: [SM]   [1] Line 334, C:\Users\guime\Documents\Servidor CS\servers\1\serverfiles\csgo\addons\sourcemod\scripting\nadetails.sp::OnEntitySpawned
+L 12/05/2021 - 14:35:09: [SM] Exception reported: Array index out-of-bounds (index -1, limit 66)
+L 12/05/2021 - 14:35:09: [SM] Blaming: disabled\nadetails.smx
+L 12/05/2021 - 14:35:09: [SM] Call stack trace:
+L 12/05/2021 - 14:35:09: [SM]   [1] Line 337, C:\Users\guime\Documents\Servidor CS\servers\1\serverfiles\csgo\addons\sourcemod\scripting\nadetails.sp::OnEntitySpawned
+L 12/05/2021 - 14:35:09: [SM] Exception reported: Array index out-of-bounds (index -1, limit 66)
+L 12/05/2021 - 14:35:09: [SM] Blaming: disabled\nadetails.smx
+L 12/05/2021 - 14:35:09: [SM] Call stack trace:
+L 12/05/2021 - 14:35:09: [SM]   [1] Line 337, C:\Users\guime\Documents\Servidor CS\servers\1\serverfiles\csgo\addons\sourcemod\scripting\nadetails.sp::OnEntitySpawned
+L 12/05/2021 - 14:35:09: [SM]   [3] ServerCommandEx
+L 12/05/2021 - 14:35:09: [SM]   [4] Line 402, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\basecommands.sp::Command_Rcon
+L 12/05/2021 - 14:35:15: [SM] Exception reported: Invalid edict (2173 - -1041758083)
+L 12/05/2021 - 14:35:15: [SM] Blaming: disabled\nadetails.smx
+L 12/05/2021 - 14:35:15: [SM] Call stack trace:
+L 12/05/2021 - 14:35:15: [SM]   [0] GetEdictClassname
+L 12/05/2021 - 14:35:15: [SM]   [1] Line 334, C:\Users\guime\Documents\Servidor CS\servers\1\serverfiles\csgo\addons\sourcemod\scripting\nadetails.sp::OnEntitySpawned
+L 12/05/2021 - 14:35:15: [SM] Exception reported: Invalid edict (2174 - -1842214786)
+L 12/05/2021 - 14:35:15: [SM] Blaming: disabled\nadetails.smx
+L 12/05/2021 - 14:35:15: [SM] Call stack trace:
+L 12/05/2021 - 14:35:15: [SM]   [0] GetEdictClassname
+L 12/05/2021 - 14:35:15: [SM]   [1] Line 334, C:\Users\guime\Documents\Servidor CS\servers\1\serverfiles\csgo\addons\sourcemod\scripting\nadetails.sp::OnEntitySpawned
+L 12/05/2021 - 14:36:09: [SM] Exception reported: Invalid edict (2175 - -1756362625)
+L 12/05/2021 - 14:36:09: [SM] Blaming: disabled\nadetails.smx
+L 12/05/2021 - 14:36:09: [SM] Call stack trace:
+L 12/05/2021 - 14:36:09: [SM]   [0] GetEdictClassname
+L 12/05/2021 - 14:36:09: [SM]   [1] Line 334, C:\Users\guime\Documents\Servidor CS\servers\1\serverfiles\csgo\addons\sourcemod\scripting\nadetails.sp::OnEntitySpawned
+L 12/05/2021 - 14:36:09: [SM] Exception reported: Invalid edict (2176 - -1361835904)
+L 12/05/2021 - 14:36:09: [SM] Blaming: disabled\nadetails.smx
+L 12/05/2021 - 14:36:09: [SM] Call stack trace:
+L 12/05/2021 - 14:36:09: [SM]   [0] GetEdictClassname
+L 12/05/2021 - 14:36:09: [SM]   [1] Line 334, C:\Users\guime\Documents\Servidor CS\servers\1\serverfiles\csgo\addons\sourcemod\scripting\nadetails.sp::OnEntitySpawned
+L 12/05/2021 - 15:21:45: Error log file session closed.
+L 12/05/2021 - 16:42:46: SourceMod error session started
+L 12/05/2021 - 16:42:46: Info (map "de_ancient") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211205.log")
+L 12/05/2021 - 16:42:46: [SM] Exception reported: Array index out-of-bounds (index -1, limit 66)
+L 12/05/2021 - 16:42:46: [SM] Blaming: weapons.smx
+L 12/05/2021 - 16:42:46: [SM] Call stack trace:
+L 12/05/2021 - 16:42:46: [SM]   [1] Line 69, tmp/addons/sourcemod/scripting/weapons/hooks.sp::ChatListener
+L 12/05/2021 - 16:42:52: Error log file session closed.
+L 12/05/2021 - 16:43:31: SourceMod error session started
+L 12/05/2021 - 16:43:31: Info (map "de_ancient") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211205.log")
+L 12/05/2021 - 16:43:31: [SM] Fatal error encountered parsing translation file "instadefuse.phrases.txt"
+L 12/05/2021 - 16:43:31: [SM] Error (line 0, column 0): Stream failed to open
+L 12/05/2021 - 16:44:27: [SM] Exception reported: Language phrase "InstaDefuseSuccessful" not found (arg 5)
+L 12/05/2021 - 16:44:27: [SM] Blaming: disabled\retakes-instadefuse.smx
+L 12/05/2021 - 16:44:27: [SM] Call stack trace:
+L 12/05/2021 - 16:44:27: [SM]   [0] PrintToChat
+L 12/05/2021 - 16:44:27: [SM]   [1] Line 197, plugin.sp::AttemptInstantDefuse
+L 12/05/2021 - 16:44:27: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/05/2021 - 16:44:31: [SM] Exception reported: Language phrase "InstaDefuseSuccessful" not found (arg 5)
+L 12/05/2021 - 16:44:31: [SM] Blaming: disabled\retakes-instadefuse.smx
+L 12/05/2021 - 16:44:31: [SM] Call stack trace:
+L 12/05/2021 - 16:44:31: [SM]   [0] PrintToChat
+L 12/05/2021 - 16:44:31: [SM]   [1] Line 197, plugin.sp::AttemptInstantDefuse
+L 12/05/2021 - 16:44:31: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/05/2021 - 16:47:18: [SM] Exception reported: Language phrase "InstaDefuseSuccessful" not found (arg 5)
+L 12/05/2021 - 16:47:18: [SM] Blaming: disabled\retakes-instadefuse.smx
+L 12/05/2021 - 16:47:18: [SM] Call stack trace:
+L 12/05/2021 - 16:47:18: [SM]   [0] PrintToChat
+L 12/05/2021 - 16:47:18: [SM]   [1] Line 197, plugin.sp::AttemptInstantDefuse
+L 12/05/2021 - 16:47:18: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/05/2021 - 16:47:21: [SM] Exception reported: Language phrase "InstaDefuseSuccessful" not found (arg 5)
+L 12/05/2021 - 16:47:21: [SM] Blaming: disabled\retakes-instadefuse.smx
+L 12/05/2021 - 16:47:21: [SM] Call stack trace:
+L 12/05/2021 - 16:47:21: [SM]   [0] PrintToChat
+L 12/05/2021 - 16:47:21: [SM]   [1] Line 197, plugin.sp::AttemptInstantDefuse
+L 12/05/2021 - 16:47:21: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/05/2021 - 16:47:27: [SM] Exception reported: Language phrase "InstaDefuseSuccessful" not found (arg 5)
+L 12/05/2021 - 16:47:27: [SM] Blaming: disabled\retakes-instadefuse.smx
+L 12/05/2021 - 16:47:27: [SM] Call stack trace:
+L 12/05/2021 - 16:47:27: [SM]   [0] PrintToChat
+L 12/05/2021 - 16:47:27: [SM]   [1] Line 197, plugin.sp::AttemptInstantDefuse
+L 12/05/2021 - 16:47:27: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/05/2021 - 16:47:35: [SM] Exception reported: Language phrase "InstaDefuseSuccessful" not found (arg 5)
+L 12/05/2021 - 16:47:35: [SM] Blaming: disabled\retakes-instadefuse.smx
+L 12/05/2021 - 16:47:35: [SM] Call stack trace:
+L 12/05/2021 - 16:47:35: [SM]   [0] PrintToChat
+L 12/05/2021 - 16:47:35: [SM]   [1] Line 197, plugin.sp::AttemptInstantDefuse
+L 12/05/2021 - 16:47:35: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/05/2021 - 16:47:36: [SM] Exception reported: Language phrase "InstaDefuseSuccessful" not found (arg 5)
+L 12/05/2021 - 16:47:36: [SM] Blaming: disabled\retakes-instadefuse.smx
+L 12/05/2021 - 16:47:36: [SM] Call stack trace:
+L 12/05/2021 - 16:47:36: [SM]   [0] PrintToChat
+L 12/05/2021 - 16:47:36: [SM]   [1] Line 197, plugin.sp::AttemptInstantDefuse
+L 12/05/2021 - 16:47:36: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/05/2021 - 16:47:37: [SM] Exception reported: Language phrase "InstaDefuseSuccessful" not found (arg 5)
+L 12/05/2021 - 16:47:37: [SM] Blaming: disabled\retakes-instadefuse.smx
+L 12/05/2021 - 16:47:37: [SM] Call stack trace:
+L 12/05/2021 - 16:47:37: [SM]   [0] PrintToChat
+L 12/05/2021 - 16:47:37: [SM]   [1] Line 197, plugin.sp::AttemptInstantDefuse
+L 12/05/2021 - 16:47:37: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/05/2021 - 16:47:38: [SM] Exception reported: Language phrase "InstaDefuseSuccessful" not found (arg 5)
+L 12/05/2021 - 16:47:38: [SM] Blaming: disabled\retakes-instadefuse.smx
+L 12/05/2021 - 16:47:38: [SM] Call stack trace:
+L 12/05/2021 - 16:47:38: [SM]   [0] PrintToChat
+L 12/05/2021 - 16:47:38: [SM]   [1] Line 197, plugin.sp::AttemptInstantDefuse
+L 12/05/2021 - 16:47:38: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/05/2021 - 16:47:42: [SM] Exception reported: Language phrase "InstaDefuseUnsuccessful" not found (arg 5)
+L 12/05/2021 - 16:47:42: [SM] Blaming: disabled\retakes-instadefuse.smx
+L 12/05/2021 - 16:47:42: [SM] Call stack trace:
+L 12/05/2021 - 16:47:42: [SM]   [0] PrintToChat
+L 12/05/2021 - 16:47:42: [SM]   [1] Line 143, plugin.sp::AttemptInstantDefuse
+L 12/05/2021 - 16:47:42: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/05/2021 - 16:49:39: SourceMod error session started
+L 12/05/2021 - 16:49:39: Info (map "de_ancient") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211205.log")
+L 12/05/2021 - 16:49:39: [SM] Exception reported: Array index out-of-bounds (index -1, limit 66)
+L 12/05/2021 - 16:49:39: [SM] Blaming: weapons.smx
+L 12/05/2021 - 16:49:39: [SM] Call stack trace:
+L 12/05/2021 - 16:49:39: [SM]   [1] Line 69, tmp/addons/sourcemod/scripting/weapons/hooks.sp::ChatListener
+L 12/05/2021 - 16:49:49: Error log file session closed.
+L 12/05/2021 - 17:38:22: SourceMod error session started
+L 12/05/2021 - 17:38:22: Info (map "de_ancient") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211205.log")
+L 12/05/2021 - 17:38:22: [SM] Exception reported: Array index out-of-bounds (index -1, limit 66)
+L 12/05/2021 - 17:38:22: [SM] Blaming: weapons.smx
+L 12/05/2021 - 17:38:22: [SM] Call stack trace:
+L 12/05/2021 - 17:38:22: [SM]   [1] Line 69, tmp/addons/sourcemod/scripting/weapons/hooks.sp::ChatListener
+L 12/05/2021 - 17:38:41: Error log file session closed.
+L 12/05/2021 - 17:43:07: SourceMod error session started
+L 12/05/2021 - 17:43:07: Info (map "de_ancient") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211205.log")
+L 12/05/2021 - 17:43:07: [SM] Exception reported: Array index out-of-bounds (index -1, limit 66)
+L 12/05/2021 - 17:43:07: [SM] Blaming: weapons.smx
+L 12/05/2021 - 17:43:07: [SM] Call stack trace:
+L 12/05/2021 - 17:43:07: [SM]   [1] Line 69, tmp/addons/sourcemod/scripting/weapons/hooks.sp::ChatListener
+L 12/05/2021 - 17:43:59: Error log file session closed.
+L 12/05/2021 - 18:29:47: SourceMod error session started
+L 12/05/2021 - 18:29:47: Info (map "de_ancient") (file "c:\users\guime\documents\servidor cs\servers\1\serverfiles\csgo\addons\sourcemod\logs\errors_20211205.log")
+L 12/05/2021 - 18:29:47: [SM] Exception reported: Array index out-of-bounds (index -1, limit 66)
+L 12/05/2021 - 18:29:47: [SM] Blaming: weapons.smx
+L 12/05/2021 - 18:29:47: [SM] Call stack trace:
+L 12/05/2021 - 18:29:47: [SM]   [1] Line 69, tmp/addons/sourcemod/scripting/weapons/hooks.sp::ChatListener
+L 12/05/2021 - 18:30:27: Error log file session closed.
