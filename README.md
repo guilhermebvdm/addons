@@ -1,2 +1,2 @@
-# csgo
-CS:GO Server
+# addons
+CS:GO Server ...\csgo\addons
